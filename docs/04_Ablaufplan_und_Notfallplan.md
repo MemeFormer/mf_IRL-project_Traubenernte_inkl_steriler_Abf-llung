@@ -28,9 +28,9 @@ Gärballons, oder einfach die großen Kanister. Randvoll füllen = wenig Sauerst
 
 ### T-5 bis T-1 (jetzt, Vorbereitung)
 - [ ] Kühlschränke anschließen + Temperatur testen
-- [ ] **Einkochautomat bei Mutter abholen** + mit Wasser testen ← *jetzt Todo Nr. 1*
-- [ ] Ablasshahn zerlegen + auskochen (Marmeladen-Altbelag!)
-- [ ] E-Herd Scheune anschließen — *nur noch optional, kein Showstopper mehr*
+- [ ] ⭐ **Schlachtkessel begutachten + Probelauf mit Wasser** ← *Todo Nr. 1*
+- [ ] Einkochtopf bei Mutter abholen, Ablasshahn zerlegen + auskochen
+- [ ] ~~E-Herd Scheune~~ — gestrichen, nicht mehr nötig
 - [ ] Presse finden, testen, reinigen
 - [ ] Gerüst freiräumen und aufstellen
 - [ ] Flaschen zählen, Fehlmenge beim Getränkehändler holen
@@ -53,21 +53,18 @@ Gärballons, oder einfach die großen Kanister. Randvoll füllen = wenig Sauerst
 
 ## Abfüll-Station Aufbau (eine Person kann das)
 
-**Aktualisiert — mit Einkochautomat als Herzstück (siehe [06](06_Einkochautomat.md)):**
+**Aktualisiert — Schlachtkessel im Hof (siehe [07](07_Schlachtkessel.md)):**
 ```
-[Gasring + gr. Topf]   [EINKOCHAUTOMAT 80-85 °C]   [Backofen/Heißwasser]
-  Most vorheizen    →   hält Temp. + ABLASSHAHN  ←  vorgewärmte Flaschen
-                                   ↓
-                          füllen (Hahn) + zudrehen
-                                   ↓
-                          1-2 min kopfüber
-                                   ↓
-                          aufrecht, langsam abkühlen
+   [KESSEL 2 / Holz]        [Einkochtopf + Hahn]         [KESSEL 1 / Holz]
+  Heißwasser, Flaschen  →   Saft 60-70 °C abfüllen   →   WASSERBAD 80 °C
+  vorwärmen, Deckel          verschließen                 30 min, 40-80 Fl.
+                                                                 ↓
+                                                    langsam abkühlen, etikettieren
 ```
-- Der Automat ersetzt Kelle, Trichter und Temperaturüberwachung in einem
-- **Durchsatz allein: 50–60 Flaschen/h** statt 30–40
-- Deckel entkeimen parallel im Dampfgarer oder kleinem Topf
-- Wasserbad-Nachpasteurisation nur noch optional für die Langzeit-Reserve
+- **Pasteurisieren ist kein Engpass mehr** — 1–2 Ladungen für die ganze Ernte
+- Ergebnis: **12+ Monate Haltbarkeit** (besser als Hot Fill)
+- Alles autark im Hof, neben Presse und Kühlschränken — kein Strom, kein Gas
+- Fallback ohne Kessel: Hot Fill 85 °C aus dem Einkochtopf, ~50 Fl./h
 
 ## NOTFALLPLAN: du stehst alleine da
 
@@ -89,6 +86,7 @@ Gärballons, oder einfach die großen Kanister. Randvoll füllen = wenig Sauerst
 ## Faustzahlen
 - Ausbeute Presse: ~65–70 % → 100 L Most brauchen ~150 kg Trauben
 - Pressen: ~20–30 L/h bei Handpresse mit einer Person
-- Abfüllen Hot Fill **mit Einkochautomat + Hahn: 50–60 Flaschen/h** (allein)
+- Abfüllen **mit Einkochtopf + Ablasshahn: 50–60 Flaschen/h** (allein)
 - Automat 27 L = ~35 Flaschen à 0,7 L bzw. 25 à 1,0 L pro Füllung
-- Wasserbad-Pasteurisation: 6–10 Flaschen pro Topfladung, 45 min Zyklus
+- Wasserbad im **Schlachtkessel: 40–80 Flaschen/Ladung**, ~2–2,5 h Zyklus inkl. Anfeuern
+- Wasserbad im normalen Topf: nur 6–10 Flaschen, 45 min — nur als Notlösung
