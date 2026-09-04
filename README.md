@@ -13,6 +13,7 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 | [05_Einkaufsliste.md](docs/05_Einkaufsliste.md) | Was kaufen, was nicht, Sofort-Todos |
 | [06_Einkochtopf.md](docs/06_Einkochtopf.md) | Mutters passiver Einkochtopf mit Ablasshahn = Abfüllstation |
 | [07_Schlachtkessel.md](docs/07_Schlachtkessel.md) | ⭐ **Der Gamechanger.** Autarke Pasteurisation mit Holzfeuer |
+| [08_Gewindenormen_Referenz.md](docs/08_Gewindenormen_Referenz.md) | 📐 Nachschlagewerk: MCA28, PP28, BVS, Twist-Off — was passt worauf |
 
 ## TL;DR
 
@@ -23,8 +24,9 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 4. **Deine Kühlschränke sind kein Notfallplan, sondern der Hauptplan** — sie kaufen dir
    48–72 h Zeit und klären den Saft nebenbei.
 5. **Ernte gestaffelt.** 30 L für dich sind das Ziel, nicht 100 L. Trauben halten am Stock.
-6. **Deckel:** weiße Kunststoff-Schraubverschlüsse sind selbstdichtend und
-   wiederverwendbar. Weißblech mit Gummieinlage = einmalig, neu kaufen.
+6. **Deckel: MCA 28 ist dein System.** 28 mm Mündung, einteilige verankerte Dichtung,
+   ausdrücklich für Heißabfüllung, 100 Stück ≈ 6 €. Weißblech mit loser Einlage = einmalig.
+   Weinflaschen (BVS) sind zweite Wahl — nur Alu-Verschluss, nur stehend.
 7. **Mutters Einkochtopf** (passiv, Ceranfeld) liefert den **Ablasshahn** = Abfüllstation.
    Temperatur musst du selbst regeln → Thermometer ist Pflicht.
 8. ⭐ **Die alten Schlachtkessel sind das wichtigste Gerät überhaupt.** 40–80 Flaschen

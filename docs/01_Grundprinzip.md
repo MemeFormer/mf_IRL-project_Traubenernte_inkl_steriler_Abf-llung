@@ -33,6 +33,8 @@ Heißeinfüllen nicht springen).
 2. In **vorgewärmte** Flaschen (60–80 °C) bis fast randvoll füllen
 3. Sofort verschließen
 4. Flasche **1–2 min auf den Kopf stellen** → Deckel + Kopfraum werden entkeimt
+   ⚠️ **Nur bei MCA28/PP28/Twist-Off!** Weinflaschen mit **BVS-Verschluss niemals
+   kopfüber** — Hersteller schreibt stehende Verarbeitung vor (siehe [08](08_Gewindenormen_Referenz.md))
 5. Wieder aufrecht, langsam abkühlen lassen
 
 Haltbarkeit: 6–12 Monate, dunkel & kühl. **Ausreichend für deinen Zweck.**

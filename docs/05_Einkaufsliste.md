@@ -5,7 +5,7 @@
 |------|-----------|-------|
 | 2× Digital-Einstichthermometer | 15 € | **Pflicht.** Kein Thermostat vorhanden — weder Topf noch Kessel regeln selbst |
 | Leergut Glasflaschen 1,0 L, **weiße Kunststoff-Schraubverschlüsse** | ~7–15 € Pfand | Beim Händler gezielt danach fragen |
-| Ersatzdeckel (~15 Stk, passend zur Gewindegröße) | 3–5 € | Nur Reserve für Ausschuss |
+| **MCA28 Schraubverschlüsse weiß, 100 Stk** | ~6 € | Standardgröße für Mineralwasser-/Saftflaschen, heißabfüllgeeignet. Vorher Mündung messen → [08](08_Gewindenormen_Referenz.md) |
 | Feines Sieb / Passiertuch / Nylon-Filtersack | 5–10 € | Trub raus, und schützt den Ablasshahn vor Verstopfen |
 | Hitzefeste Handschuhe | 10 € | 85 °C Saft + heiße Flaschen |
 | Großer Trichter (weit, Edelstahl/PP) | 5 € | Backup, falls Hahn zickt |
