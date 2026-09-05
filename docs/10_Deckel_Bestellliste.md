@@ -23,13 +23,19 @@ Kapsel** wie bei Weinflaschen. MCA ist die kurze Kappe wie bei Mineralwasser.
 
 ---
 
-## ⚠️ Wichtig für dich — Befund aus deinen Fotos
+## ✅ Aktualisiert — Entwarnung: keine Korkflaschen
 
-Auf IMG_4876 (Einweichwanne) sehe ich überwiegend **Wein- und Sektflaschen**
-(Müller-Thurgau, Baden, Wiesenbacher). Deine Sammlung ist damit vermutlich
-**gemischt** — nicht überwiegend MCA28, wie ich zuvor angenommen hatte.
+Du hast bestätigt: **ausnahmslos Flaschen mit Schraubgewinde**, keine Kork-/Sektflaschen.
+Damit entfällt Haufen C komplett — **alle 46 Flaschen sind verwendbar.**
 
-**Bevor du bestellst: sortieren und messen.** Sonst kaufst du das Falsche.
+Deine Sammlung besteht demnach aus:
+- **Teinacher** (Mutters Hausmarke, schmale Glasflaschen) → Mineralwasser-Mehrweg,
+  mit hoher Wahrscheinlichkeit **MCA 28** ⭐
+- **Weinflaschen mit Schraubverschluss** → **BVS 30×60**
+- **Wenige Spirituosenflaschen** → meist **PP 28** (oder BVS bei größeren)
+
+**Es bleibt trotzdem beim Messen** — du brauchst nur die Stückzahlen je System,
+um die richtige Menge zu bestellen.
 
 ### Sortieranleitung (20 Minuten für 46 Flaschen)
 
@@ -45,9 +51,7 @@ Langer, glatter Hals, Gewinde, Mündung außen **30 mm**
 ⚠️ Nur Alu! Kunststoff-BVS (Novatwist) ist **nicht** pasteurisationsgeeignet.
 ⚠️ Diese Flaschen **nur stehend** verarbeiten, **nie kopfüber**.
 
-**Haufen C — Korkflaschen (Wein/Sekt ohne Gewinde)**
-→ **Aussortieren.** Für Saft nicht brauchbar.
-Auf deinen Fotos sind einige Sektflaschen dabei — die haben kein Gewinde.
+**Haufen C — entfällt** (keine Korkflaschen vorhanden ✅)
 
 **Haufen D — Bügelflaschen (3× Flensburger)**
 → Nur **Ersatz-Gummidichtungen** kaufen (~0,30 €/Stück), sonst nichts.

@@ -30,10 +30,12 @@ Bei ~150 kg Trauben ist das der aktuell größte offene Punkt.
    Weinbaugegend oft für kleines Geld oder umsonst.
 5. **Kauf 20-l-Korbpresse** ~150–250 €. Nur wenn nichts anderes geht.
 
-⚠️ **Der Entsafter** aus deiner Liste (auf dem Tisch, IMG_4914) könnte ein
-**Dampfentsafter** sein — das wäre eine echte Alternative: er entsaftet *und*
-pasteurisiert in einem Schritt, ganz ohne Presse. Nur langsam (~1–2 h pro Ladung).
-**Bitte prüfen: hat der Topf einen Schlauch mit Klemme am Rand?**
+✅ **Bestätigt: Es IST ein Dampfentsafter.** Damit gibt es einen Weg ganz ohne Presse.
+🚨 **Aber: der im Keller ist Alu — nicht für Saft verwenden!**
+Mutters Edelstahl-Gerät nehmen. Details in [11](11_Presse_und_Entsafter.md).
+
+⭐ **Neu: mögliche Spindelpresse im Mülltonnen-Eck** — dringend begutachten,
+siehe [11](11_Presse_und_Entsafter.md).
 
 ---
 
@@ -116,9 +118,10 @@ Für Saft: nur der **Edelstahltopf** oder der emaillierte Kessel.
 ⭐ **Damit ist dein 30-L-Eigenanteil bereits vollständig abgedeckt.**
 Flaschen sind **kein Engpass mehr**. Alles Weitere ist Puffer.
 
-⚠️ Auf IMG_4876 sehe ich überwiegend **Wein- und Sektflaschen** (Müller-Thurgau,
-Baden, Passata-Glas). Das heißt: viele davon sind **BVS oder Kork**, nicht MCA28.
-→ Unbedingt sortieren und Mündungen messen, bevor du Deckel bestellst.
+✅ **Bestätigt: ausnahmslos Schraubgewinde, keine Kork-/Sektflaschen.**
+Alle 46 Flaschen sind verwendbar. Mix aus Teinacher (vermutl. MCA28),
+Weinflaschen (BVS 30×60) und wenigen Spirituosenflaschen (PP28).
+→ Nur noch Stückzahlen je System ermitteln, siehe [10](10_Deckel_Bestellliste.md).
 
 ---
 
@@ -126,8 +129,8 @@ Baden, Passata-Glas). Das heißt: viele davon sind **BVS oder Kork**, nicht MCA2
 
 | # | Todo | Warum |
 |---|---|---|
-| 1 | 🚨 **Presse klären** (Vater fragen / Presssack / leihen) | **Einziger echter Showstopper** |
-| 2 | Prüfen, ob der "Entsafter" ein **Dampfentsafter** ist | Könnte Presse ganz ersetzen |
+| 1 | 🚨 **Spindelpresse im Mülltonnen-Eck begutachten** — ist die Spindelmutter da? | Entscheidet über 3 h vs. 2 Tage |
+| 2 | ✅ Dampfentsafter bestätigt — **Mutters Edelstahl-Gerät** sichern (nicht den Alu!) | Sichere Rückfallebene |
 | 3 | Flaschenmündungen messen + sortieren | Bestimmt die Deckelbestellung |
 | 4 | Deckel bestellen (siehe [10](10_Deckel_Bestellliste.md)) | Lieferzeit! |
 | 5 | Einlegerost für Kessel improvisieren | 15 min Arbeit |
@@ -136,4 +139,6 @@ Baden, Passata-Glas). Das heißt: viele davon sind **BVS oder Kork**, nicht MCA2
 | 8 | Kunststofftanks auf Lebensmittelechtheit prüfen | Was war vorher drin? |
 
 **Der Kessel, die Kühlschränke, die Behälter und die Flaschen sind erledigt.
-Es bleibt genau ein Problem: die Presse.**
+Bei der Saftgewinnung gibt es jetzt zwei Wege — der Dampfentsafter funktioniert
+sicher (nur langsam), die Spindelpresse wäre schnell (aber unsicher).
+Siehe [11_Presse_und_Entsafter.md](11_Presse_und_Entsafter.md).**
