@@ -14,6 +14,17 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 | [06_Einkochtopf.md](docs/06_Einkochtopf.md) | Mutters passiver Einkochtopf mit Ablasshahn = Abfüllstation |
 | [07_Schlachtkessel.md](docs/07_Schlachtkessel.md) | ⭐ **Der Gamechanger.** Autarke Pasteurisation mit Holzfeuer |
 | [08_Gewindenormen_Referenz.md](docs/08_Gewindenormen_Referenz.md) | 📐 Nachschlagewerk: MCA28, PP28, BVS, Twist-Off — was passt worauf |
+| [09_Bestandsaufnahme_Fotos.md](docs/09_Bestandsaufnahme_Fotos.md) | 🚨 **Auswertung der Fotos.** Kessel top, aber: die Presse ist keine Presse |
+| [10_Deckel_Bestellliste.md](docs/10_Deckel_Bestellliste.md) | Sortieranleitung + konkrete Bestellung |
+
+## ⚠️ Aktueller Stand (nach Fotoauswertung)
+
+- ✅ **Schlachtkessel: einsatzbereit.** Emaille intakt, ~110–125 L, 35–45 Flaschen/Ladung
+- ✅ **Flaschen: 46 Stück ≈ 33 L** — Eigenbedarf gedeckt, kein Engpass mehr
+- ✅ Kühlschränke, Rollwannen, Tanks mit Hahn, Gasring — alles brauchbar
+- 🚨 **Die "Traubenpresse" ist eine Traubenmühle (Rebler) — sie presst nicht.**
+  Der Pressschritt fehlt. **Einziger verbliebener Showstopper.**
+- ⚠️ Alu-Töpfe nicht für Saft verwenden (Säure löst Alu)
 
 ## TL;DR
 
