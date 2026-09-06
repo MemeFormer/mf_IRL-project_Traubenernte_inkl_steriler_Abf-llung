@@ -18,6 +18,8 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 | [10_Deckel_Bestellliste.md](docs/10_Deckel_Bestellliste.md) | Sortieranleitung + konkrete Bestellung |
 | [11_Presse_und_Entsafter.md](docs/11_Presse_und_Entsafter.md) | ⭐ Mahlen vs. Pressen vs. Entsaften — die zwei Wege zum Saft |
 | [12_Kessel_Betrieb_Sicherheit.md](docs/12_Kessel_Betrieb_Sicherheit.md) | 🔥 **Wichtig.** Temperaturregelung + Trockenlauf-/Thermoschockgefahr |
+| [13_Spindelpresse_Befund.md](docs/13_Spindelpresse_Befund.md) | ⭐ **Showstopper gelöst.** Presse ist fast komplett — nur Korb fehlt |
+| [14_Erntemenge_Reifegrad.md](docs/14_Erntemenge_Reifegrad.md) | Traubenstock, Reifegrad, realistische Erntemengen |
 
 ## ⚠️ Aktueller Stand (nach Fotoauswertung)
 
@@ -27,7 +29,9 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 - ✅ **Flaschen: keine Korkflaschen** — alle 46 verwendbar
 - ⚠️ Die "Traubenpresse" ist eine **Traubenmühle** — sie mahlt, presst aber nicht
 - ✅ **Dampfentsafter bestätigt** = sicherer Weg ohne Presse (aber langsam, 1,5–2 Tage)
-- 🔍 **Mögliche Spindelpresse im Mülltonnen-Eck** — begutachten! Wäre 3 h statt 2 Tage
+- ⭐ **SPINDELPRESSE IST FAST KOMPLETT** — Spindelmutter, Ratsche und Hebel alle da!
+  Es fehlen nur Korb + Druckplatte → **Presssack (~25–40 €) löst das.**
+  Damit: 30 L in 2–3 Pressgängen statt 2 Tage Entsaften
 - 🚨 **Alu nicht für Saft** — weder Töpfe noch der Alu-Dampfentsafter (Säure löst Alu)
 - 🔥 **Kessel heizt sehr schnell** — Wasser IMMER zuerst, nie kalt nachfüllen
 

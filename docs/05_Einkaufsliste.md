@@ -1,5 +1,13 @@
 # Einkaufs- & Checkliste (Stand: nach Korrektur Leergut, Einkochtopf, Schlachtkessel)
 
+## 🆕 Neu dazugekommen (Presse)
+| Ding | ca. Kosten | Warum |
+|------|-----------|-------|
+| **Nylon-Presssack / Obstpressbeutel** ~50×70 cm | 10–18 € | Ersetzt den fehlenden Presskorb komplett |
+| **Runde Druckplatte** Siebdruck/Multiplex 18–21 mm | 8–15 € | Baumarkt zuschneiden lassen, Ø = Schale minus 5 cm |
+| **Lebensmittelechtes Fett** (Weißöl/Vaseline) | 5 € | Spindel gängig machen — **kein Motorenfett!** |
+| Rostlöser + Drahtbürste | 5 € | Spindel entrosten |
+
 ## Muss
 | Ding | ca. Kosten | Warum |
 |------|-----------|-------|

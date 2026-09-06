@@ -86,13 +86,11 @@ eine dicke Gewindespindel** — ist die eindeutige Beschreibung einer
 | **Spindelmutter / Joch** | ⚠️ **Kritisch.** Wenn die fehlt, wird's schwierig — Gewinde ist meist ein altes Sondermaß |
 | **Hebel / Ratsche** | ✅ Egal — ein Rohr über die Spindelmutter tut es auch |
 
-### Beurteilung in 5 Minuten (bitte prüfen)
-1. **Ist auf der Spindel eine Mutter/ein Joch drauf oder liegt eins daneben?**
-   → **Das ist die alles entscheidende Frage.** Mit Mutter = machbar, ohne = schwierig
-2. Läuft die Spindel? (mit Rostlöser gangbar machen)
-3. Hat die Schale einen **Ablauf/Tülle**?
-4. Ist die Schale gerissen (Guss!) oder heil?
-5. **Mach ein Foto und lade es hoch** — dann sage ich dir, was fehlt
+### ✅ ERLEDIGT — Fotos ausgewertet
+**Spindelmutter, Ratschenmechanismus, Hebelarm und Auffangschale mit Tülle
+sind ALLE vorhanden.** Es fehlen nur Korb und Druckplatte — beides billig ersetzbar.
+
+**→ Vollständiger Befund und Materialliste: [13_Spindelpresse_Befund.md](13_Spindelpresse_Befund.md)**
 
 ### Wenn die Spindelmutter da ist
 Dann bist du mit **~30–50 € Material und einem halben Tag Arbeit** bei einer
@@ -120,11 +118,8 @@ Gusseisen + Traubensäure = dasselbe Problem wie Alu. Deshalb:
 | **A: Dampfentsafter** | Mutters Gerät holen | 1,5–2 Tage | ✅ niedrig, funktioniert sicher |
 | **B: Spindelpresse** | Begutachten + Teile | 2–3 Stunden | ⚠️ mittel, hängt an der Spindelmutter |
 
-**Plan: B prüfen (heute!), A als Rückfallebene sichern.**
-
-Wenn die Presse komplettierbar ist → Weg B, und der Entsafter macht den Rest,
-den du nicht mehr geschafft hast.
-Wenn nicht → Weg A, aber dann **Ernte auf 20–25 L reduzieren** (Doc 04, gestaffelte Ernte).
+**✅ ENTSCHIEDEN: Weg B ist es.** Die Presse ist fast komplett (siehe [13](13_Spindelpresse_Befund.md)).
+Der Dampfentsafter (Mutters Edelstahl-Gerät) bleibt Rückfallebene für Restmengen.
 
 ---
 

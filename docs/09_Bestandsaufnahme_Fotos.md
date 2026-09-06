@@ -129,7 +129,7 @@ Weinflaschen (BVS 30×60) und wenigen Spirituosenflaschen (PP28).
 
 | # | Todo | Warum |
 |---|---|---|
-| 1 | 🚨 **Spindelpresse im Mülltonnen-Eck begutachten** — ist die Spindelmutter da? | Entscheidet über 3 h vs. 2 Tage |
+| 1 | ✅ **Spindelpresse begutachtet — fast komplett!** Jetzt: Presssack + Druckplatte besorgen | [13](13_Spindelpresse_Befund.md) |
 | 2 | ✅ Dampfentsafter bestätigt — **Mutters Edelstahl-Gerät** sichern (nicht den Alu!) | Sichere Rückfallebene |
 | 3 | Flaschenmündungen messen + sortieren | Bestimmt die Deckelbestellung |
 | 4 | Deckel bestellen (siehe [10](10_Deckel_Bestellliste.md)) | Lieferzeit! |
