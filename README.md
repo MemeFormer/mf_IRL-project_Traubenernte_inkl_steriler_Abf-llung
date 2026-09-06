@@ -20,6 +20,7 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 | [12_Kessel_Betrieb_Sicherheit.md](docs/12_Kessel_Betrieb_Sicherheit.md) | 🔥 **Wichtig.** Temperaturregelung + Trockenlauf-/Thermoschockgefahr |
 | [13_Spindelpresse_Befund.md](docs/13_Spindelpresse_Befund.md) | ⭐ **Showstopper gelöst.** Presse ist fast komplett — nur Korb fehlt |
 | [14_Erntemenge_Reifegrad.md](docs/14_Erntemenge_Reifegrad.md) | Traubenstock, Reifegrad, realistische Erntemengen |
+| [15_Verfahrensplan_final.md](docs/15_Verfahrensplan_final.md) | ⭐ **Der finale Ablauf.** Mühle + Presse + Entsafter parallel |
 
 ## ⚠️ Aktueller Stand (nach Fotoauswertung)
 
@@ -29,9 +30,12 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 - ✅ **Flaschen: keine Korkflaschen** — alle 46 verwendbar
 - ⚠️ Die "Traubenpresse" ist eine **Traubenmühle** — sie mahlt, presst aber nicht
 - ✅ **Dampfentsafter bestätigt** = sicherer Weg ohne Presse (aber langsam, 1,5–2 Tage)
-- ⭐ **SPINDELPRESSE IST FAST KOMPLETT** — Spindelmutter, Ratsche und Hebel alle da!
-  Es fehlen nur Korb + Druckplatte → **Presssack (~25–40 €) löst das.**
-  Damit: 30 L in 2–3 Pressgängen statt 2 Tage Entsaften
+- ⭐ **Presse gelöst:** Erichs kleine, neuwertige Presse im Stall → **die nehmen.**
+  Nur eine Halbscheibe neu aussägen (~8 €, 20 min). Große Gusspresse = Winterprojekt.
+- ⭐ **Parallelbetrieb:** Dampfentsafter ganztägig nebenher + Mühle/Presse als Hauptstraße
+  → 40–60 L an einem Tag, auch allein
+- ⚠️ **Maische max. 2–4 h stehen lassen** (Vorlaufmost), sonst startet die Gärung
+- ⚠️ **Große Presse NICHT mit normalem Lack streichen** — nicht lebensmittelecht
 - 🚨 **Alu nicht für Saft** — weder Töpfe noch der Alu-Dampfentsafter (Säure löst Alu)
 - 🔥 **Kessel heizt sehr schnell** — Wasser IMMER zuerst, nie kalt nachfüllen
 

@@ -1,0 +1,185 @@
+# Verfahrensplan — Mühle + Presse + Dampfentsafter kombiniert
+
+## Erstmal: dein Vater hatte nicht ganz unrecht
+
+Sein Verfahren („mahlen, im Bottich stehen lassen, abschöpfen") ist eine echte,
+traditionelle Methode. Das Abgeschöpfte heißt **Vorlaufmost** (frz. *vin de goutte*) —
+der Saft, der ohne jeden Druck von selbst abläuft.
+
+**Qualitativ ist Vorlaufmost sogar der beste Saft überhaupt:** kein Druck heißt
+keine Gerbstoffe aus Kernen und Schalen, wenig Trub, feinster Geschmack.
+Wahrscheinlich genau das, was dich letztes Jahr so begeistert hat.
+
+Der Haken ist nur die **Ausbeute: 25–35 %**. Der Rest steckt im Trester.
+Deshalb presst man — nicht für die Qualität, sondern für die Menge.
+
+Also: ihr hattet beide recht. Er wusste nur nicht, dass es dir um Menge geht.
+
+---
+
+## 🚨 Der eine Denkfehler in deinem Plan
+
+> *„erst durch die Mühle, und nach dem Abschöpfen pack ich den Trester in die Presse"*
+
+Das ist richtig. ✅
+
+> *„Muttis Dampfentsafter … nebenher mitlaufen lassen"*
+
+Auch richtig — **aber womit fütterst du ihn?**
+
+**Der Dampfentsafter darf NICHT den ausgepressten Trester bekommen.**
+Presskuchen ist trocken, da kommt fast nichts mehr raus — du würdest 90 Minuten
+heizen für einen halben Liter.
+
+**Der Dampfentsafter braucht frische Maische** (oder ganze Trauben) — also
+dasselbe Ausgangsmaterial wie die Presse. Er ist eine **Parallelstraße**,
+keine Nachverwertung.
+
+### Richtig aufgeteilt
+```
+                    TRAUBEN
+                       ↓
+                    MÜHLE  ──────────────┐
+                       ↓                  ↓
+              MAISCHE im Bottich    MAISCHE-Portion
+                       ↓                  ↓
+            (2-4 h, Vorlauf ablaufen)  DAMPFENTSAFTER
+                       ↓                  ↓
+           VORLAUFMOST + TRESTER      Saft ~80 °C
+                       ↓                  ↓
+              TRESTER → PRESSE      direkt heiß abfüllen
+                       ↓                  ↓
+                  PRESSSAFT           ✅ FERTIG
+                       ↓
+        Vorlauf + Presssaft → Kühlschrank
+                       ↓
+              Kessel: Wasserbad 80 °C / 30 min
+                       ↓
+                    ✅ FERTIG
+```
+
+**Also: einen Teil der Maische abzweigen** (z. B. jeden dritten Eimer) und in den
+Entsafter geben. Der Rest läuft den Weg Vorlauf → Presse.
+
+### Und der Presskuchen danach?
+Zu **Vaters Schnaps/Weinbrand**. Genau dafür ist er da. Oder Kompost.
+
+---
+
+## ⚠️ Wichtig: Wie lange darf die Maische stehen?
+
+Dein Vater sagt „stehen lassen" — das ist der kritischste Punkt im ganzen Plan.
+
+**Auf der Beerenhaut sitzen Wildhefen. Sobald die Beere aufgebrochen ist, läuft
+die Uhr.** Bei Saft (nicht Wein) willst du **keine** Gärung.
+
+| Standzeit | Ergebnis |
+|---|---|
+| **2–4 h** | ⭐ **Optimal.** Guter Vorlauf, mehr Farbe, keine Gärung |
+| 6–12 h | Grenzwertig — nur wenn kühl (<15 °C) |
+| **über 12 h warm** | ❌ Gärung startet, Saft wird herb/alkoholisch |
+| **über Nacht im Kühlschrank (<8 °C)** | ✅ ok, Gärung praktisch gestoppt |
+
+**Regel: 2–4 Stunden bei Tagestemperatur, dann pressen. Punkt.**
+Wenn es länger dauert: Maische kühl stellen oder direkt pressen.
+
+Bei einer roten Sorte gibt Maischestandzeit übrigens **mehr Farbe** — 2–4 h geben
+einen schön tiefroten Saft. Länger bringt vor allem Gerbstoff, nicht besser.
+
+---
+
+## ⭐ Die kleine Presse von Erich — nimm die
+
+Dein Vater hat sie als „mehr so n Spielzeug" abgetan. **Für dieses Jahr ist sie
+trotzdem die bessere Wahl.**
+
+| | Erichs kleine Presse | Die große Gusspresse |
+|---|---|---|
+| Zustand | ⭐ **neuwertig** | verrostet, staubig, Jahrzehnte gestanden |
+| Aufarbeitung nötig | 1 Scheibe reparieren | Entrosten, reinigen, evtl. lackieren |
+| Hygiene | ✅ sofort einsatzbereit | ⚠️ blankes Gusseisen + Säure |
+| Korb | ✅ vorhanden | ✅ (jetzt im 2. Keller gefunden) |
+| Kapazität | kleiner, dafür mehr Gänge | mehr pro Gang |
+| **Zeitrisiko** | ✅ minimal | ⚠️ hoch |
+
+**Bei „ein paar Tage, vielleicht eine Woche" Zeit ist Aufarbeitung das falsche
+Projekt.** Kleinere Presse, mehr Pressgänge, dafür sofort loslegen.
+
+### Die gebrochene Halbscheibe
+Zwei Optionen:
+1. **Reparieren** — nur wenn es eine saubere Bruchstelle ist und du sie mit
+   lebensmittelechtem Leim (D4 Weißleim) + Dübeln fest bekommst
+2. ⭐ **Neu machen** — aus **Buche-Leimholz oder Birke-Multiplex 18–21 mm**,
+   alte Hälfte als Schablone auflegen, mit Stichsäge aussägen.
+   **20 Minuten Arbeit, ~8 €, und stabiler als die Reparatur.**
+
+Mach lieber neu. Eine Druckplatte, die unter Last bricht, ruiniert dir den Pressgang.
+
+**Nicht lackieren.** Rohes Hartholz ist lebensmittelecht. Wenn du willst:
+mit lebensmittelechtem Leinöl einlassen.
+
+---
+
+## Die große Presse: ⚠️ nicht lackieren!
+
+> *„die müsste mal richtig überholt werden, neue Lackierung, dann kann man das
+> auch bedenkenlos mit Direktkontakt nutzen"*
+
+**Vorsicht — das ist ein verbreiteter Irrtum.** Normaler Lack aus dem Baumarkt ist
+**nicht lebensmittelecht**. Bei einem sauren Saft (pH 3,5) lösen sich Weichmacher
+und Pigmente heraus — das ist schlechter als blankes Eisen.
+
+Wenn du sie im Winter herrichtest, gibt es drei saubere Wege:
+1. ⭐ **Presssack verwenden** — dann ist die Oberfläche völlig egal. Billigste und
+   beste Lösung.
+2. **Lebensmittelechte Emaille / Lack mit LFGB- oder FDA-Zulassung** — teuer,
+   aufwendig, muss meist eingebrannt werden
+3. **Kunststoff-Einlegeschale** in die Auffangschale legen
+
+Außen lackieren gegen Rost: gerne, sieht gut aus. **Nur nicht innen**, wo Saft läuft.
+
+---
+
+## Dein finaler Ablaufplan
+
+### Parallelbetrieb — beide Straßen gleichzeitig
+
+**Straße 1: Dampfentsafter (läuft ganztägig nebenher)**
+- Alle ~90 min eine Ladung Maische rein
+- ~3–5 L Saft pro Ladung, kommt mit ~80 °C
+- **Direkt heiß in vorgewärmte Flasche, zuschrauben, kopfüber (MCA28) / stehend (BVS)**
+- ✅ Fertig, keine weitere Pasteurisation
+- Tagesleistung: **~20–30 L bei 6–8 Ladungen**
+
+**Straße 2: Mühle → Vorlauf → Presse (die Hauptmenge)**
+1. Trauben mahlen → Maische in den Bottich
+2. **2–4 h stehen lassen**, Vorlaufmost abziehen
+3. Trester in die Presse, auspressen
+4. Vorlauf + Presssaft zusammen → grob sieben → **Kühlschrank**
+   (dort setzt sich der Trub ab, du ziehst später klaren Saft ab)
+5. Abends/nachts: **Kessel-Wasserbad, 80 °C, 30 min, 35–45 Flaschen**
+
+**Zusammen: 40–60 L an einem gut organisierten Tag.** Auch allein machbar.
+
+### Warum diese Kombination clever ist
+- Der Entsafter **braucht keine Aufsicht** und keine Pasteurisation danach
+- Die Presse macht die **Menge**
+- Der Kessel macht **eine große Charge am Abend** statt vieler kleiner
+- Fällt eine Straße aus, läuft die andere weiter
+
+**Dein Instinkt, beides zu machen, war genau richtig — nur die Reihenfolge
+musste geradegezogen werden.**
+
+---
+
+## Aktualisierte Todos
+
+- [ ] ⭐ **Erichs Presse:** Halbscheibe neu aussägen (Buche/Multiplex 18 mm)
+- [ ] Presse reinigen, Spindel fetten (**lebensmittelechtes Fett**)
+- [ ] Mutters **Edelstahl**-Dampfentsafter holen (nicht den Alu!)
+- [ ] Bottich + Schöpfkelle/Sieb für den Vorlauf bereitstellen
+- [ ] Große Gusspresse: **Winterprojekt**, dieses Jahr nicht anfassen
+- [ ] Flaschenmündungen messen → Deckel bestellen (Lieferzeit!)
+- [ ] Kühlschränke einschalten
+- [ ] Einlegerost für den Kessel
+- [ ] Kessel-Probelauf mit Temperaturkurve
