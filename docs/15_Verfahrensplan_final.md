@@ -17,49 +17,42 @@ Also: ihr hattet beide recht. Er wusste nur nicht, dass es dir um Menge geht.
 
 ---
 
-## 🚨 Der eine Denkfehler in deinem Plan
+## Die zwei Straßen
 
-> *„erst durch die Mühle, und nach dem Abschöpfen pack ich den Trester in die Presse"*
+✅ **Klargestellt:** Der Dampfentsafter bekommt **ganze, ungezupfte Trauben direkt
+vom Stock** — keine Maische, kein Trester. Er ist eine völlig eigenständige
+Produktionslinie mit eigenem Endprodukt.
+**Details: [16_Dampfentsafter_eigenes_Produkt.md](16_Dampfentsafter_eigenes_Produkt.md)**
 
-Das ist richtig. ✅
-
-> *„Muttis Dampfentsafter … nebenher mitlaufen lassen"*
-
-Auch richtig — **aber womit fütterst du ihn?**
-
-**Der Dampfentsafter darf NICHT den ausgepressten Trester bekommen.**
-Presskuchen ist trocken, da kommt fast nichts mehr raus — du würdest 90 Minuten
-heizen für einen halben Liter.
-
-**Der Dampfentsafter braucht frische Maische** (oder ganze Trauben) — also
-dasselbe Ausgangsmaterial wie die Presse. Er ist eine **Parallelstraße**,
-keine Nachverwertung.
-
-### Richtig aufgeteilt
+### Aufteilung
 ```
-                    TRAUBEN
-                       ↓
-                    MÜHLE  ──────────────┐
-                       ↓                  ↓
-              MAISCHE im Bottich    MAISCHE-Portion
-                       ↓                  ↓
-            (2-4 h, Vorlauf ablaufen)  DAMPFENTSAFTER
-                       ↓                  ↓
-           VORLAUFMOST + TRESTER      Saft ~80 °C
-                       ↓                  ↓
-              TRESTER → PRESSE      direkt heiß abfüllen
-                       ↓                  ↓
-                  PRESSSAFT           ✅ FERTIG
-                       ↓
-        Vorlauf + Presssaft → Kühlschrank
-                       ↓
-              Kessel: Wasserbad 80 °C / 30 min
-                       ↓
-                    ✅ FERTIG
+                    TRAUBEN vom Stock
+                     ↓              ↓
+              (Hauptmenge)    (paar Eimer, ganz)
+                     ↓              ↓
+                   MÜHLE      DAMPFENTSAFTER
+                     ↓         (Induktion im Hof)
+             MAISCHE im Bottich      ↓
+                     ↓          Saft ~80 °C
+        (2-4 h, Vorlauf abziehen)    ↓
+                     ↓          heiß abfüllen
+        VORLAUFMOST + TRESTER        ↓
+                     ↓          ✅ FERTIG
+             TRESTER → PRESSE    "Dampfsaft"
+                     ↓          (dunkel, mild)
+                PRESSSAFT
+                     ↓
+     Vorlauf + Presssaft → Kühlschrank
+                     ↓
+       Kessel: Wasserbad 80 °C / 30 min
+                     ↓
+                ✅ FERTIG
+              "Presssaft"
+           (frisch, spritzig)
 ```
 
-**Also: einen Teil der Maische abzweigen** (z. B. jeden dritten Eimer) und in den
-Entsafter geben. Der Rest läuft den Weg Vorlauf → Presse.
+**Zwei getrennte Endprodukte** — beide gut, geschmacklich verschieden.
+Unbedingt **etikettieren**, sonst weißt du im Februar nicht mehr was was ist.
 
 ### Und der Presskuchen danach?
 Zu **Vaters Schnaps/Weinbrand**. Genau dafür ist er da. Oder Kompost.
@@ -120,23 +113,26 @@ mit lebensmittelechtem Leinöl einlassen.
 
 ---
 
-## Die große Presse: ⚠️ nicht lackieren!
+## Die große Presse — Winterprojekt mit Fachbetrieb ✅
 
-> *„die müsste mal richtig überholt werden, neue Lackierung, dann kann man das
-> auch bedenkenlos mit Direktkontakt nutzen"*
+✅ **Missverständnis geklärt:** Es ging nie ums Holz (das bleibt roh und atmet),
+sondern um **Wanne und Gestell aus Guss**. Und die Lackierung macht ein Fachbetrieb.
 
-**Vorsicht — das ist ein verbreiteter Irrtum.** Normaler Lack aus dem Baumarkt ist
-**nicht lebensmittelecht**. Bei einem sauren Saft (pH 3,5) lösen sich Weichmacher
-und Pigmente heraus — das ist schlechter als blankes Eisen.
+**Das ist genau der richtige Weg.** Ein Lackierbetrieb kennt den Unterschied
+zwischen Baumarktlack und lebensmittelechter Beschichtung.
 
-Wenn du sie im Winter herrichtest, gibt es drei saubere Wege:
-1. ⭐ **Presssack verwenden** — dann ist die Oberfläche völlig egal. Billigste und
-   beste Lösung.
-2. **Lebensmittelechte Emaille / Lack mit LFGB- oder FDA-Zulassung** — teuer,
-   aufwendig, muss meist eingebrannt werden
-3. **Kunststoff-Einlegeschale** in die Auffangschale legen
+**Was du dem Uwe konkret sagen solltest**, damit er direkt das Richtige bestellt:
+> „Die Innenseite der Wanne hat Kontakt mit **saurem Lebensmittel** (Traubensaft,
+> pH ca. 3,5), zeitweise **warm**. Ich brauche dort eine Beschichtung mit
+> **LFGB-Zulassung / Konformität nach EU 1935/2004** für sauren Lebensmittelkontakt.
+> Außen ist normaler Korrosionsschutz völlig ausreichend."
 
-Außen lackieren gegen Rost: gerne, sieht gut aus. **Nur nicht innen**, wo Saft läuft.
+Stichworte, die ihm helfen: **LFGB**, **EU 1935/2004**, „Lebensmittelkontakt sauer",
+2K-Epoxid mit Lebensmittelfreigabe, oder Neu-Emaillierung.
+
+⭐ **Und der billige Trick als Ergänzung:** Mit einem **Presssack** berührt der Saft
+die Wanne ohnehin kaum, und über die Tülle läuft er direkt in den Eimer.
+Die Beschichtung ist dann nur noch Bonusabsicherung.
 
 ---
 
@@ -145,7 +141,7 @@ Außen lackieren gegen Rost: gerne, sieht gut aus. **Nur nicht innen**, wo Saft 
 ### Parallelbetrieb — beide Straßen gleichzeitig
 
 **Straße 1: Dampfentsafter (läuft ganztägig nebenher)**
-- Alle ~90 min eine Ladung Maische rein
+- Alle ~90 min eine Ladung **ganze Trauben** rein (ungezupft, keine Vorarbeit!)
 - ~3–5 L Saft pro Ladung, kommt mit ~80 °C
 - **Direkt heiß in vorgewärmte Flasche, zuschrauben, kopfüber (MCA28) / stehend (BVS)**
 - ✅ Fertig, keine weitere Pasteurisation

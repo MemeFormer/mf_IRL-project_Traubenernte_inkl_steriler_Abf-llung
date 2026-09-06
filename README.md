@@ -21,6 +21,8 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 | [13_Spindelpresse_Befund.md](docs/13_Spindelpresse_Befund.md) | ⭐ **Showstopper gelöst.** Presse ist fast komplett — nur Korb fehlt |
 | [14_Erntemenge_Reifegrad.md](docs/14_Erntemenge_Reifegrad.md) | Traubenstock, Reifegrad, realistische Erntemengen |
 | [15_Verfahrensplan_final.md](docs/15_Verfahrensplan_final.md) | ⭐ **Der finale Ablauf.** Mühle + Presse + Entsafter parallel |
+| [16_Dampfentsafter_eigenes_Produkt.md](docs/16_Dampfentsafter_eigenes_Produkt.md) | Dampfsaft als zweites, eigenständiges Produkt |
+| [17_Entblaettern_Bewertung.md](docs/17_Entblaettern_Bewertung.md) | 🚨 Folgen der Entblätterung — **jetzt ernten, nicht warten** |
 
 ## ⚠️ Aktueller Stand (nach Fotoauswertung)
 
@@ -35,7 +37,9 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 - ⭐ **Parallelbetrieb:** Dampfentsafter ganztägig nebenher + Mühle/Presse als Hauptstraße
   → 40–60 L an einem Tag, auch allein
 - ⚠️ **Maische max. 2–4 h stehen lassen** (Vorlaufmost), sonst startet die Gärung
-- ⚠️ **Große Presse NICHT mit normalem Lack streichen** — nicht lebensmittelecht
+- 🚨 **Wegen der Entblätterung: JETZT ernten.** Ohne Laub kein Zuckerzuwachs mehr,
+  dafür Sonnenbrand-/Vogel-/Wespenrisiko → Warten bringt nur Nachteile
+- ✅ Große Presse: Lackierung beim Fachbetrieb — Stichwort **LFGB / EU 1935/2004**
 - 🚨 **Alu nicht für Saft** — weder Töpfe noch der Alu-Dampfentsafter (Säure löst Alu)
 - 🔥 **Kessel heizt sehr schnell** — Wasser IMMER zuerst, nie kalt nachfüllen
 

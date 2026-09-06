@@ -14,12 +14,16 @@ eher konservativ.
 
 ## 🚨 Zwei zeitkritische Beobachtungen
 
-### 1. Das Laub ist bereits stark zurückgegangen
-Auf beiden Bildern sind die Ranken **auffällig kahl** — die Trauben hängen fast
-frei. Das ist normal für die Jahreszeit (Anfang September), bedeutet aber:
+### 1. Das Laub wurde manuell entfernt (nicht saisonal)
+✅ **Korrektur:** Der Stock hatte volles Sommerlaub — die Kahlheit auf den Bildern
+stammt von einer **radikalen Entblätterung wenige Tage vor der Ernte**.
+Bewertung dazu: **[17_Entblaettern_Bewertung.md](17_Entblaettern_Bewertung.md)**
 
-- Die Reife ist **weit fortgeschritten**, die Trauben sind erntereif
-- Ab jetzt **kein nennenswerter Zuckerzuwachs** mehr
+Die Konsequenz ist aber dieselbe, sogar verschärft:
+
+- 🚨 **Ohne Blätter findet keine Photosynthese mehr statt → KEIN Zuckerzuwachs.**
+  Warten bringt jetzt gar nichts mehr
+- Zusätzliches Risiko: **Sonnenbrand** an plötzlich freigestellten Beeren
 - **Vogelfraß und Wespen** haben jetzt freie Sicht auf die Trauben
 - Bei Regen steigt das Risiko für **Fäulnis/Botrytis** stark an
 
