@@ -85,6 +85,65 @@ lieber eine Flasche weniger als ein Deckel ohne Thermik-Freigabe im Wasserbad.
 
 ---
 
+## 🆕 Update 2 (2026-09-08) — Deutsche Alternativen geprüft (Kleinmenge, Privatkauf)
+
+Nachtrag zur Frage: Gibt es das Gleiche/Ähnliches aus einem deutschen Shop oder von
+Amazon, als Privatperson in Kleinmengen (50–100 Stk)? Ergebnis der Recherche:
+
+### ⭐ Beste DE-Option: flaschenbauer.de (Tamm, Baden-Württemberg)
+
+[„Handverschraubung 28 mm Gold“](https://www.flaschenbauer.de/products/handverschraubung-28-mm-gold)
+(Art.-Nr. VHAND28G) — Metall-Schraubverschluss 28 mm **mit Deckelritzung**:
+
+- Vom Hersteller als **Saftverschluss** geführt: *„für die Verarbeitung von
+  Fruchtsäften vorgesehen, d. h. eine Pasteurisation ist damit möglich“*.
+  Die Sicherheitsritzung bricht bei Fehlgärung und lässt Überdruck ab,
+  bevor die Flasche platzt — beim Saft ein echtes Sicherheitsplus.
+- Passend für 28 mm **MCA- und PP-Mündung**, ausschließlich Handverschließung
+  (genau unser Fall), Made in Germany, sofort verfügbar, Versand 1–2 Werktage.
+- **Stückverkauf ohne Mindestbestellmenge**, Mengenrabatt gestaffelt:
+  0,29 €/Stk → **ab 100 Stk 0,20 €/Stk** → 100 Stk = 20 €.
+- Versand DE per DHL: **3,90 €** (bis 0,5 kg) → **Gesamt ~24 €** für 100 Deckel.
+- ⚠️ Auf der aktuellen Produktseite fehlt der Pasteurisations-Hinweis
+  (Shop wurde neu aufgesetzt). Vor Bestellung kurz rückbestätigen lassen:
+  info@flaschenbauer.de / 07141 643690.
+- Bonus: Tamm liegt bei Ludwigsburg (~110 km) — Selbstabholung wäre möglich.
+
+Einordnung laut Research: Metall + innenliegende Dichtung = **neu pro Füllzyklus
+top, aber nicht auf Wiederverwendung über mehrere Pasteurisationszyklen setzen**
+(das gilt für jeden Metalldeckel mit Einlage — auch den BVS-Alu bei den Weinflaschen).
+
+### Zweite DE-Option: lipfert-glas.de (Lichtenfels)
+
+[„28MCA Kunststoff-Handschraubverschluss mit Sicherungsring“](https://lipfert-glas.de/Verschluesse-Zubehoer-Kartons/Kartonagen/Handschraubverschluesse/28-MCA-Kunststoff-Handschraubverschluss-GRUeN-mit-SICHERUNGSRING::595.html) —
+**0,13 €/Stk im Stückverkauf**, DHL-Versand, Sicherungsring funktioniert ohne
+Zange (einfach draufschrauben). Passt laut Shop auf MCA28 und viele PP28-Flaschen.
+**Aber: keine Heißabfüll-/Pasteurisationsangabe** → nur nach Rückfrage beim Händler
+eine Option; sonst Finger weg fürs Wasserbad.
+
+### Amazon.de: ❌ keine gleichwertige Option
+
+Suche `MCA 28 Schraubverschluss` liefert nur No-Name-Alu-Kappen (28/18, „Ersatzdeckel“)
+für 17–23 € je 50–100 Stk, **ohne jede Thermik-Freigabe**, teils lange Lieferzeit
+aus Fernost. Kein Produkt mit Heißabfüll-/Pasteurisationsauslobung gefunden.
+→ Amazon bestätigt den Eindruck: lohnt sich hier nicht.
+
+### Fazit / Empfehlung
+
+1. **Wenn Etivera wieder lieferbar ist** (Benachrichtigung eintragen!): bleibt mit
+   ~14,50 € inkl. Versand die günstigste spezifizierte Option.
+2. **Wenn es schnell und deutsch sein soll**: flaschenbauer.de, 100 × Gold mit
+   Deckelritzung ≈ 24 € — etwas teurer, dafür sofort verfügbar, 1–3 Tage Lieferzeit
+   und ausdrücklich der Saft-/Pasteurisier-Deckel.
+3. **PP-31,5-Flaschen**: Entscheidung bestätigt — aussortieren oder die paar Flaschen
+   durch neue Wasserflaschen vom Getränkemarkt ersetzen bzw. für die Handvoll große
+   Deckel Stückware im örtlichen Handel holen. 50–100 PP31,5-Deckel zu bestellen
+   lohnt nicht und schränkt die Shopwahl unnötig ein. (Nebenbei: Einzelstücke PP31,5
+   gäbe es bei flaschenbauer.de ab 0,35 €/Stk — aber ohne Pasteurisationsfreigabe,
+   also höchstens für Kaltabfüllung.)
+
+---
+
 ## Die Kurzantwort auf deine Frage
 
 > *„Ist das für Wasser-/Getränkeflaschen und Weinflaschen mit Schraubverschluss
