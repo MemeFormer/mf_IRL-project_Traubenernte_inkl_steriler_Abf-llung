@@ -13,7 +13,7 @@
 |------|-----------|-------|
 | 2× Digital-Einstichthermometer | 15 € | **Pflicht.** Kein Thermostat vorhanden — weder Topf noch Kessel regeln selbst |
 | Leergut Glasflaschen 1,0 L, **weiße Kunststoff-Schraubverschlüsse** | ~7–15 € Pfand | Beim Händler gezielt danach fragen |
-| **MCA28 Schraubverschlüsse weiß, 100 Stk** | ~6 € | Standardgröße für Mineralwasser-/Saftflaschen, heißabfüllgeeignet. Vorher Mündung messen → [08](08_Gewindenormen_Referenz.md) |
+| **28-mm-Schraubverschlüsse, pasteurisationsgeeignet, 100 Stk** | ~6–19 € (+ Versand) | Etivera MCA 28 (HDPE, 2×50, derzeit evtl. ausverkauft) **oder** flaschenbauer.de „VentCap für Saft" (Gold, passt PP28 + MCA28, ab 1 Stk, 3,90 € Versand DE). Kein Amazon. Details → [10](10_Deckel_Bestellliste.md) |
 | Feines Sieb / Passiertuch / Nylon-Filtersack | 5–10 € | Trub raus, und schützt den Ablasshahn vor Verstopfen |
 | Hitzefeste Handschuhe | 10 € | 85 °C Saft + heiße Flaschen |
 | Großer Trichter (weit, Edelstahl/PP) | 5 € | Backup, falls Hahn zickt |
