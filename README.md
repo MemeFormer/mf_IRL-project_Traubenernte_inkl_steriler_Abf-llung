@@ -23,6 +23,7 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 | [15_Verfahrensplan_final.md](docs/15_Verfahrensplan_final.md) | ⭐ **Der finale Ablauf.** Mühle + Presse + Entsafter parallel |
 | [16_Dampfentsafter_eigenes_Produkt.md](docs/16_Dampfentsafter_eigenes_Produkt.md) | Dampfsaft als zweites, eigenständiges Produkt |
 | [17_Entblaettern_Bewertung.md](docs/17_Entblaettern_Bewertung.md) | 🚨 Folgen der Entblätterung — **jetzt ernten, nicht warten** |
+| [Research_Task_Schraubverschluss.md](docs/Research_Task_Schraubverschluss.md) | 🔬 Deckel-Research: Warum alte Deckel beim 2. Pasteurisieren versagen + Etivera-Fund (Update in Doc 10) |
 
 ## ⚠️ Aktueller Stand (nach Fotoauswertung)
 
