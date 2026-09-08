@@ -100,6 +100,87 @@ bzw. `BVS 30x60 Schraubverschluss Aluminium`. Oft schnellere Lieferung, und
 
 ---
 
+## 🔎 Update 08.09.2026 — Shop-Check: Etivera vs. deutsche Quellen (Kleinmenge, Privatkauf)
+
+Ausgangslage: Du hast bei **Etivera (AT)** den passenden Deckel gefunden, die
+Seite zeigt aber ein „Benachrichtigen wenn wieder lieferbar"-Formular (= vermutlich
+ausverkauft, Einmach-Saison), und Versand aus der Steiermark kostet ~9 €. Frage war:
+**gibt es dasselbe in Deutschland / bei Amazon, 50–100 Stk, ohne Mindestmenge?**
+
+Bewertungsmaßstab (aus `Research_Task_Schraubverschluss.md`): **neu + vom Anbieter
+ausdrücklich für Heißabfüllung/Pasteurisation ausgewiesen** — alles andere ist
+Materialraten.
+
+### Ergebnis auf einen Blick
+
+| # | Quelle | Produkt | Prozess-Freigabe | Stk-Preis | Kleinstmenge | Versand DE | **Gesamt (50–100 Stk)** | Lieferzeit | Urteil |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | **etivera.com / .de** (AT, Steiermark) | Standard-Schraubverschluss **MCA 28**, HDPE, Kunststoff-Dichteinlage, Originalitätsring | ✅ „Heißabfüllung / Pasteurisation", „händisches Verschließen" | ~0,05 € | 50er-Pack | ~9,28 € | **~14,50 €** (100 Stk) | ? — aktuell **nicht lieferbar** (schwarz + weiß) | ⭐ fachlich beste Wahl, Verfügbarkeit offen |
+| 2 | **flaschenbauer.de** (Tamm bei Stuttgart, DE) | **Handverschraubung 28 mm Gold „OSL VentCap für Saft"** — Alu, innenliegende Dichtung, **Sicherheitsritzung**, passt **PP 28 und MCA 28**, kein Sicherungsring → kein Werkzeug nötig | ✅ „für die Verarbeitung von Fruchtsäften und das **Pasteurisieren** geeignet" (Kundenbewertung: „Tip top zum pasteurisieren und heiß abfüllen") | 0,30 € (1–24), 0,28 € (ab 50), 0,19 € (ab 100) — Shop-Daten nennen zusätzlich einen **50er-Beutel für 4,19 €** → im Warenkorb prüfen | **ab 1 Stück** | **3,90 €** (DHL bis 0,5 kg) | **~8–19 €** (50–100 Stk) | Lieferung ca. 2–4 Werktage („10.–14.09." angezeigt) | ⭐ **beste deutsche Option** |
+| 3 | **verpackungsstadl.de** (= .de-Spiegel des AT-Shops, Lager Sattledt/AT) | MCA28 weiß oder schwarz, 100 Stk | ✅ „für Heißabfüllung geeignet" (Pasteurisation nicht explizit) | 0,054 € | 100er-VE, **5,40 €** (Sept.-Aktion, sonst 6 €) | **11,90 €** GLS aus AT | **~17,30 €** | 2–5 Tage | ⚠️ ok, aber teurer als Etivera und kein deutsches Lager |
+| 4 | **fischer-lahr.de** (Lahr, DE) | Hand-Schraubverschluss Kunststoff weiß, MCA, Abrisslasche, 100 St. 7,95 € / 25 St. 2,95 € | ❌ keine Angabe | 0,08 € | 25er | 7,90 € DHL | ~11–16 € | — | ❌ „momentan nicht verfügbar", keine Thermik-Angabe |
+| 5 | **glaeserundflaschen.de** (DE) | MCA 28 weiß **Aluminium**, vorgerollt | ❌ keine Angabe („für manuelles Verschließen geeignet") | 0,29 € (0,25 € ab 100) | ab 25 | n. geprüft | ~15–30 € | 1–3 Werktage, auf Lager | ⚠️ Notnagel: lieferbar, aber unspezifiziert |
+| 6 | **Amazon.de** — AE-GLAS „MCA PP28 Kunststoff weiß" (10–100 Stk) | Kunststoff-Deckel, Sicherungsring | ❌ | — | — | Prime | — | ❌ **„Derzeit nicht verfügbar"** |
+| 7 | **Amazon.de** — AE-GLAS / gouveo / mikken **PP28 Alu Rollrand** | Alu, PE-Einlage | ❌ keine Angabe; Rezension: „Deckel müssen in kurzem Intervall getauscht werden" | 0,19–0,36 € | 50 / 100 Stk | Prime | **18–30 €** | 1–2 Tage | ❌ teuerste Option **und** unspezifiziert |
+
+### Was das für die Bestellung heißt
+
+**Deine Beobachtung stimmt:** In Deutschland gibt es *fast nichts*, das ausdrücklich
+für Pasteurisation freigegeben ist **und** in Kleinmenge verkauft wird. Die Ausnahme ist
+**flaschenbauer.de**, und die ist gut:
+
+- Der „VentCap für Saft" ist genau der Deckeltyp, den **Lohnmostereien** für heiß
+  abgefüllten Süßmost benutzen (goldener 28-mm-Deckel mit Sicherheitsritzung — das ist
+  der „Vacu-Vent"-Typ). Er ist also nicht nur „hitzefest ausgelobt", sondern *für diesen
+  Prozess gebaut*: Die Ritzung reißt bei Fehlgärung kontrolliert, statt dass die Flasche
+  platzt. Für dich zusätzliche Sicherheit, kein Nachteil.
+- **Passt auf PP 28 *und* MCA 28** — damit ist die Frage „sind meine Teinacher MCA oder
+  PP?" für den Deckelkauf erledigt. (Der Etivera-Deckel ist nur für MCA 28 ausgewiesen.)
+- Kein Sicherungsring → **kein Kapselverschließer nötig** (den brauchst du bei den
+  weißen „Sicherungsring"-Deckeln von Flaschenbauer — 70 € Zange, also Finger weg davon).
+- Deutsches Lager, 3,90 € Versand, Lieferung in 2–4 Werktagen, Rechnung/PayPal/Klarna.
+- **Einschränkung (ehrlich):** Es ist ein Alu-Deckel mit Einlage, kein einteiliger
+  HDPE-Deckel wie bei Etivera. Laut Research ist das *neu und prozessspezifiziert*
+  gleichwertig — der Nachteil der Alu-Variante greift erst bei **Wiederverwendung**.
+  Also: einmal verwenden, nicht für die nächste Saison horten.
+
+### Empfehlung
+
+1. **Etivera-Seite kurz gegenprüfen**, ob sich hinter dem Formular wirklich „ausverkauft"
+   verbirgt (oder nur eine fehlende Cookie-Freigabe). Falls lieferbar → 2 × 50 Stk
+   bestellen, fertig (~14,50 €).
+2. **Sonst — oder wenn's schnell gehen muss — flaschenbauer.de:**
+   `Handverschraubung 28 mm Gold OSL VentCap für Saft`, **60–100 Stück** (ab 100 sinkt
+   der Stückpreis auf 0,19 €, also lohnt sich 100 direkt). Gesamt **< 25 €** inkl. Versand.
+3. **Amazon streichen.** Nichts dort ist prozessspezifiziert, alles kostet das 3–5-Fache.
+
+### Und die paar PP-31,5-Flaschen?
+
+Deine Einschätzung ist richtig — **nicht 50–100 Deckel für eine Handvoll Flaschen kaufen.**
+Die 31,5er-Deckel, die überhaupt in Kleinmenge zu haben sind, sind ausnahmslos
+Alu-Spirituosenverschlüsse ohne Thermik-Angabe (Etivera: geschäumte PE-Einlage,
+„Innendruck < 1 bar"; Flaschenbauer: „Handverschraubung 31,5 mm Gold", keine Angabe).
+
+Reihenfolge der Optionen:
+
+| Option | Aufwand | Risiko | Empfehlung |
+|---|---|---|---|
+| **A. Flaschen aussortieren**, dafür 5–10 Wasserflaschen (Teinacher/Normbrunnen, MCA 28) aus dem Getränkemarkt nachlegen | 1 Kasten-Gang | keines — gleicher Deckel wie alle anderen | ✅ **beste Lösung** |
+| B. **Stückware im örtlichen Handel** (Raiffeisen/Landhandel, Mosterei, Kellereibedarf) | 1 Anruf | unspezifizierte Alu-Deckel, aber nur wenige Flaschen betroffen | ✅ ok, wenn du die Flaschen behalten willst |
+| C. Bei Flaschenbauer **5–10 Stk „Handverschraubung 31,5 mm Gold" (0,35 €/Stk, ab 1 Stück)** in dieselbe Bestellung legen | 0 € Extra-Versand | wie B | ⚠️ nur als Test; diese Flaschen dann **separat kennzeichnen** und nach 48 h Vakuum prüfen |
+| D. 50–100 Stk PP 31,5 bestellen | — | schränkt Shopwahl ein, 90 % Überschuss | ❌ |
+
+Wenn du in Option B/C gehst: Diese Flaschen im Wasserbad **nur stehend**, nie kopfüber,
+und nach dem Abkühlen als erste kontrollieren. Sitzt der Deckel nach 24–48 h nicht
+spürbar „angesaugt", Inhalt umfüllen oder zügig verbrauchen.
+
+**Lokaler Tipp:** Lohnmostereien und Kelterei-Bedarfsläden verkaufen den goldenen
+28-mm-Saftdeckel (VentCap-Typ) fast immer auch **einzeln oder im 10er-Beutel** — falls
+du ohnehin wegen der Presse/Erntemenge dort vorbeischaust, ist das die Null-Versand-Variante
+für alle 28er.
+
+---
+
 ## Budget
 
 | Fall | Kosten |
