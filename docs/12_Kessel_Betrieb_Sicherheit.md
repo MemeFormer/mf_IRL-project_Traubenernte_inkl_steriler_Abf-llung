@@ -98,9 +98,9 @@ eingebaute? Falls die eingebaute doch eine Macke hat, hast du jetzt Auswahl.
 
 - [ ] **Einlegerost** bauen/finden (Holzlatten, altes Kühlschrankgitter)
       → Flaschen dürfen nie direkt auf dem Kesselboden stehen
-- [ ] **Zweiter Probelauf** — diesmal mit Wasser bis Sollstand und
-      **Temperaturkurve mitschreiben**: wie lange bis 80 °C? wie viel Holz?
-      Wie schnell steigt es weiter, wenn man nichts tut?
+- [x] **Zweiter Probelauf** — erledigt **08.09.2026**: Wasser bis Sollstand,
+      Temperaturkurve aufgenommen (32→95 °C in ~2 h 27 min; hält nach Feuerende
+      lange >80 °C). Auswertung + Tabelle siehe Abschnitt „Probelauf 2“ unten.
 - [ ] Metalleimer + Schaufel für Notfall-Glutentnahme bereitstellen
 - [ ] Eimer Löschwasser / Feuerlöscher in Reichweite
 - [ ] Standplatz: eben, fest, Rollen unterkeilen, Abstand zu Holz/Scheune
@@ -114,4 +114,60 @@ Notier dir bitte:
 2. Wie viel Holz dafür
 3. Ob und wie schnell es über 85 °C geht, wenn man nichts tut
 
-Damit rechne ich dir den Erntetag-Zeitplan auf die Minute aus.
+**→ Antworten inzwischen da (Probelauf 2, 08.09.2026) — siehe nächster Abschnitt.**
+**Damit ist der Erntetag-Zeitplan rechnerisch machbar.**
+
+---
+
+## ✅ Probelauf 2 (08.09.2026) — Messwerte & Auswertung
+
+**Setup:** Kessel stand vom Vortag noch **halbvoll** (~35 °C Restwasser), dann mit
+dem Gartenschlauch bis knapp unter den Rand vollaufen lassen (Füllhöhe laut Meterstab
+**40–43 cm**; Kessel steht leicht schräg, weil der Hofboden abfällig ist). Kräftig
+geheizt, Kesselthermometer hängt im Wasser. Ab 15:32 kein Holz mehr nachgelegt,
+nur noch ein Glutnest.
+
+| Uhrzeit | T (°C) | Ereignis |
+|---|---|---|
+| 13:05 | 32–33 | Feuer an; Kessel lief dabei noch per Schlauch voll (kaltes Wasser!) |
+| 13:33 | 40 | kräftig Holz nachgelegt |
+| 13:55 | 50 | ↑ |
+| 14:29 | 74 | ↑ |
+| 15:00 | 83 | ↑ |
+| 15:32 | 95 | **letztes Holz** — danach nur noch Glutnest |
+| 16:25 | 93–94 | 53 min nach Feuerende kaum abgekühlt |
+| 18:05 | 80 | — |
+| 19:27 | 72 | — |
+| 20:24 | 62 | — |
+| 20:47 | 65 ⚠️ | **plausibler Mess-/Notizfehler** (nicht monoton, s. u.) |
+| 23:03 | 56 | — |
+
+Tag war recht warm und sonnig, abends logischerweise kühler.
+
+### Auswertung
+
+1. **Heizen:** 33 → 95 °C in **~2 h 27 min** bei maximaler Holzgabe.
+   Achtung: parallel lief noch der Gartenschlauch (kaltes Wasser) — die frühe Phase
+   war dadurch langsamer, als der Kessel kann. **Nächstes Mal: erst komplett
+   vollfüllen, dann Feuer.** Dann ist der Aufheizweg eher kürzer.
+2. **Trägheit nach Feuerende (die eigentliche Sensation):**
+   - 95 → 93–94 °C in 53 min (praktisch Halten auf Glut)
+   - **95 → 80 °C in ~2 h 33 min ohne jedes Feuer**
+   - Der Kessel ist damit sein eigener Wärmespeicher.
+3. **Konsequenz für den Pasteurisier-Tag — „Feuer-aus-Methode":**
+   Mit Flaschen drin auf ~85 °C heizen, dann **Feuer aus** (Glut ziehen lassen) →
+   das Wasser bleibt **deutlich über 1 h über 80 °C**. Kein Nachlegen, kein
+   Überkochen, keine Heizerei während der Haltezeit → die Zeit ist frei für
+   Flaschenarbeit. Das löst praktisch das „Temperaturregeln ist die Kunst"-Problem
+   aus diesem Doc: Feuer aus ist einfacher und sicherer als Halten mit Glut.
+4. **Messfehler 65 °C (20:47):** zwischen 62 °C (20:24) und 56 °C (23:03) ist eine
+   höhere Messung physikalisch nicht möglich — Ablese-/Notizfehler oder andere
+   Messstelle. Für die Planung unkritisch. **Lehre:** Thermometerposition fixieren
+   und **vor jedem Ablesen umrühren** (Schichtung: oben wärmer/kühler als unten).
+5. **⚠️ Standplatz:** Kessel steht **leicht schräg** (Hofboden abfällig, Füllhöhe
+   40–43 cm je nach Messstelle). Vor dem Flaschentag **unterkeilen** und Füllhöhe an
+   mehreren Stellen prüfen — sonst stehen Flaschen auf der flachen Seite evtl. aus
+   dem Wasser / die Temperaturverteilung ist ungleichmäßig.
+6. **Offen für den Erntetag:** Der zweite Probelauf war ohne Flaschen und ohne
+   Einlegerost. Flaschen + Rost erhöhen die Wärmeträgheit weiter (noch sanfter),
+   verlangsamen das Aufheizen aber auch etwas. Einlegerost fehlt noch (Checkliste).

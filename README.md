@@ -2,10 +2,15 @@
 
 Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswertes zur Thematik.
 
+> 📓 **Jede Chat-Session pflegt diesen Stand automatisch mit** — neuester Stand,
+> offene Punkte und Session-Log stehen im **[Sitzungsspiegel](docs/00_Sitzungsspiegel.md)**
+> (Regel für zukünftige Sessions: `AGENTS.md`). Neue Session → dort weiterarbeiten.
+
 ## Dokumente
 
 | Datei | Inhalt |
 |-------|--------|
+| [00_Sitzungsspiegel.md](docs/00_Sitzungsspiegel.md) | 📓 **Gesprächsgedächtnis** — aktueller Stand, offene Punkte, Session-Log |
 | [01_Grundprinzip.md](docs/01_Grundprinzip.md) | **Hier anfangen.** Warum "sterile Flaschen" das falsche Ziel sind |
 | [02_Flaschen_Methodenvergleich.md](docs/02_Flaschen_Methodenvergleich.md) | Alle Desinfektionsmethoden mit ehrlicher Bewertung |
 | [03_Flaschentypen_Verschluss.md](docs/03_Flaschentypen_Verschluss.md) | Welche Flaschen/Deckel taugen |
@@ -25,6 +30,12 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 | [17_Entblaettern_Bewertung.md](docs/17_Entblaettern_Bewertung.md) | 🚨 Folgen der Entblätterung — **jetzt ernten, nicht warten** |
 
 ## ⚠️ Aktueller Stand (nach Fotoauswertung)
+
+> 🆕 **09.09.2026:** Ernte läuft — erste ~3 Eimer geerntet, nachsortiert und im
+> Kühlschrank (Ikea-Kisten wegen Stufe). Plan: durchernten → dann ein großer
+> Verarbeitungsblock. **Kessel-Probelauf 2 mit Messkurve erledigt** (32→95 °C in
+> ~2,5 h; hält nach Feuerende lange über 80 °C → „Feuer-aus-Methode“).
+> Details & laufender Stand: [00_Sitzungsspiegel](docs/00_Sitzungsspiegel.md)
 
 - ✅ **Schlachtkessel: einsatzbereit.** Emaille intakt, ~110–125 L, 35–45 Flaschen/Ladung
 - ✅ **Flaschen: 46 Stück ≈ 33 L** — Eigenbedarf gedeckt, kein Engpass mehr

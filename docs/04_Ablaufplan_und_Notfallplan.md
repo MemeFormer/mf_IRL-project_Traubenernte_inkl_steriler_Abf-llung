@@ -28,7 +28,8 @@ Gärballons, oder einfach die großen Kanister. Randvoll füllen = wenig Sauerst
 
 ### T-5 bis T-1 (jetzt, Vorbereitung)
 - [ ] Kühlschränke anschließen + Temperatur testen
-- [ ] ⭐ **Schlachtkessel begutachten + Probelauf mit Wasser** ← *Todo Nr. 1*
+- [x] ⭐ **Schlachtkessel begutachten + Probelauf mit Wasser** ← *Todo Nr. 1*
+      *(erledigt: 2 Anheizläufe, Messkurve 08.09. → [12_Kessel_Betrieb_Sicherheit.md](12_Kessel_Betrieb_Sicherheit.md))*
 - [ ] Einkochtopf bei Mutter abholen, Ablasshahn zerlegen + auskochen
 - [ ] ~~E-Herd Scheune~~ — gestrichen, nicht mehr nötig
 - [ ] Presse finden, testen, reinigen
