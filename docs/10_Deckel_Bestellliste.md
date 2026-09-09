@@ -123,3 +123,46 @@ top und wiederverwendbar.
 dort ist die Kunststoffvariante ausdrücklich *nicht* für Pasteurisation freigegeben,
 die Alu-Variante schon. Die Regel „Kunststoff = gut" gilt also **nur** in der
 28-mm-Welt, nicht bei Weinflaschen.
+
+---
+
+## 🔄 Update 09.09.2026 — Bestellung IST raus (und zwar Metall)
+
+**Etivera (AT) ist geplatzt** (Shop kaputt, Telefon tot) → **Ersatzbestellung in
+Deutschland aufgegeben:**
+
+> **[flaschenbauer.de](https://www.flaschenbauer.de/products/handverschraubung-28-mm-gold-osl-ventcap-fuer-saft)
+> (Tamm bei Stuttgart) — 100 × „Handverschraubung 28 mm Gold OSL VentCap für Saft"**
+> SKU VHANDV28GOSL · **0,19 €/Stk** (ab 100) · Lieferung ~11.–15.09.
+
+### Was das für ein Deckel ist (Herstellerangaben geprüft)
+- **Alu-Schraubverschluss, 28 mm**, gold, „Made in Germany", **innenliegende Dichtung + Gewinde**
+- Passt auf **PP-28- und MCA-28-Mündungen** (die 28-mm-Welt) — **nicht** auf BVS 30×60-Weinflaschen!
+- **Explizit für Saft + Pasteurisation** geeignet → passt zu unserem
+  „heiß abfüllen → verschließen → Wasserbad"-Verfahren
+- **Sicherheitsritzung („VentCap"):** entsteht später trotzdem Druck (Fehlgärung),
+  bricht die Ritzung und lässt den Druck raus, **ohne dass die Flasche platzt**.
+  Auch beim Wasserbad nützlich: Überdruck kann entweichen, beim Abkühlen zieht
+  der Deckel per Vakuum dicht.
+- Kein Sicherungsring (kein Originalitäts-/Manipulationsschutz) — zu Hause egal.
+- Handverschließung, keine Maschine nötig. Nach Pasteurisation **Einmalgebrauch**
+  (Vakuumverschluss) — 100 Stk für 46 Flaschen = reicht + Reserve.
+- Vorteil ggü. etivera-Kunststoff: Versand aus DE, und der Alu-Deckel ist
+  pasteurisationsfest *und* frostfest (Kühlschrank/Truhe unkritisch).
+
+### ⚠️ Damit bleibt offen / zu prüfen
+1. **BVS-Weinflaschen (30 mm)** brauchen weiterhin **eigene BVS-30×60-Kapseln**,
+   falls solche Flaschen mit abgefüllt werden. → Sortierung/Messung der 46
+   Flaschen (MCA/PP vs. BVS) ist damit **wichtiger denn je**.
+2. **Anpassung testen:** Sobald die Kappen da sind (11.–15.09.), eine Kappe auf
+   *jede* Flaschensorte probieren (Teinacher / Spirituosen / Wein-BVS) und die
+   Stückzahlen je System zählen.
+3. Nach dem Wasserbad: **Vakuum prüfen** (Deckel leicht eingezogen, „Plopp" beim
+   Öffnen) = Abdichtung bestätigt.
+
+**Einordnung:** Metall statt Kunststoff ist hier kein Nachteil — im Gegenteil:
+Fürs Pasteurisieren im Wasserbad + Vakuumverschluss ist dieser Alu-VentCap die
+sicherere Wahl. Die frühere Empfehlung „MCA-Kunststoff = dein System" galt unter
+der Annahme, dass etivera liefert. Jetzt gilt: **28-mm-Alu-VentCap = dein System
+für 2026.**
+

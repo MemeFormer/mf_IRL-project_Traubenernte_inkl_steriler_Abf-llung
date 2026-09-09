@@ -38,18 +38,23 @@
 - ⚠️ Kessel steht **leicht schräg** (Hofboden fällt ab) → vor Flaschentag unterkeilen.
 - 65-°C-Ablesung (20:47) ist ein Mess-/Notizfehler — unkritisch.
 
-### 🧢 Deckel / Bestellung (weiter offen, siehe Research_Task)
-- etivera-Bestellung (2× VE MCA 28 à 50 Stk) hakte auf der Website → User probiert weiter.
+### 🧢 Deckel / Bestellung (STAND 09.09., AKTUALISIERT)
+- ✅ **Bestellung aufgegeben — aber NICHT bei etivera (AT):** Shop defekt, Telefon
+  tot → Ersatz in DE bestellt: **flaschenbauer.de (Tamm), 100 × „Handverschraubung
+  28 mm Gold OSL VentCap für Saft"** (0,19 €/Stk, Alu, Made in Germany, Lieferung
+  ~11.–15.09.). → Details & Einordnung: `docs/10` (Update 09.09.)
+- ⚠️ Passt auf **PP-28/MCA-28** (28-mm-Welt) — **BVS-Weinflaschen (30 mm) brauchen
+  eigene BVS-Kapseln** → Flaschensortierung/Messung ist damit wichtig.
 - Research-Aufgabe ausstehend: **Fotos der Deckel-Unterseiten** (repräsentative
   Auswahl, mit Lineal/Münze) zur Klassifizierung der Alt-Deckel.
 
 ---
 
 ## 🎯 Offene Punkte / wartet auf dich
-1. **Deckel-Bestellung abschließen** (etivera, 2× VE MCA 28)
-2. **Fotos Deckel-Unterseiten** (billig / normal / am besten / andere Dichtung / anderes Gewinde)
-3. **Flaschenmündungen messen** (20-Minuten-Sortierung) → MCA- vs. BVS-Stückzahlen
-4. **Kühlschrank-Temperatur** prüfen (Ziel ≤ 6 °C) — Kisten sind drin, Messwert fehlt
+1. **BVS-Weinflaschen zählen/sortieren** (MCA/PP 28 vs. BVS 30 mm) → ggf. BVS-Kapseln nachbestellen
+2. **Kappentest:** wenn die 100 VentCaps da sind (11.–15.09.), eine auf jede Flaschensorte probieren
+3. **Kühlschrank-Temperatur** ablesen (Thermometer liegt seit 09.09. drin — Wert fehlt noch)
+4. **Fotos Deckel-Unterseiten** (billig / normal / am besten / andere Dichtung / anderes Gewinde)
 5. **Kessel unterkeilen** (Standplatz eben) vor dem Flaschentag
 6. **Einlegerost** für den Kessel (fehlt noch)
 7. **Dampfentsafter-Linie:** Edelstahl-Gerät bei Mutter abholen (nicht den Alu!) +
@@ -64,6 +69,31 @@
 ---
 
 ## 🗒️ Verlauf
+
+### 2026-09-09 (Fortsetzung) — Kisten-Fix, Deckel-Bestellung (flaschenbauer), Wellen-Prinzip
+- **Kühlschrank-Kisten:** User bemerkt selbst: unterste Kiste war **prall gefüllt**,
+  Deckel direkt auf den Trauben + nächste Kiste obendrauf = kaum Luft, Kondenswasser.
+  → Fix (umgesetzt): etwas aus der vollen unteren Kiste in die angefangene obere
+  umfüllen, **2 Hölzchen auf den Kistenrand, dann erst der Deckel** → Spalt zum
+  „Atmen" (Kondensation war ihm an den leeren Kisten aufgefallen). Thermometer liegt
+  jetzt im Kühlschrank → Temperaturwert folgt.
+- **Deckel-Bestellung geändert:** etivera (AT) Shop + Telefon tot → stattdessen
+  **flaschenbauer.de: 100× Handverschraubung 28 mm Gold OSL VentCap für Saft**
+  (0,19 €/Stk, Alu, Made in Germany, Lieferung 11.–15.09.). Meine Prüfung: passt auf
+  PP-28/MCA-28, explizit für Saft+Pasteurisation, Sicherheitsritzung als
+  Überdruck-Schutz = gute Wahl für unser Wasserbad-Verfahren. → doc 10 ergänzt.
+- **Verarbeitungs-Prinzip bestätigt (Wellen):** NICHT den ganzen Kühlschrankinhalt
+  auf einmal durch die Mühle. Sondern: Teil mühlen → Vorlauf abschöpfen + grob
+  abseihen → Saft in Kiste/Kühlschrank → nächsten Teil drauf. **Trester sammelt sich
+  im Bottich**, am Ende kommt der gesamte Trester in die kleine Presse (letzter Rest).
+  ⚠️ Caveats: (1) Trester, der stundenlang liegt, fängt an zu gären/zieht Gerbstoffe —
+  wenn der Gesamtdurchlauf > ~2–3 h dauert, lieber einmal zwischendurch pressen oder
+  Bottich kühl/abgedeckt halten. (2) Der Saft der letzten Pressung (alter Trester)
+  kann herber/trüber sein → getrennt probieren, dann entscheiden ob mischen.
+- **Kessel:** Reihenfolge klargestellt — Wasser vom Vortag war noch drin (Boden
+  bedeckt, nie leeres/glühendes Blech), dann Feuer (1), dann Schlauch bis randvoll (2).
+  Entspricht dem, was in doc 12 dokumentiert ist. Effizienz-Tipp bleibt: erst voll,
+  dann Feuer (spart Wärme); Sicherheit war nie das Problem, da Wasser drin war.
 
 ### 2026-09-09 — Ernte-Start, Kesselkurve, Sitzungsspiegel eingeführt
 - **Meta:** User berichtet, „Continue" auf arena.ai scheitert oft (vermutl. Kontextlimit
