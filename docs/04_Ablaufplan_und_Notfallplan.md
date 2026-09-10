@@ -83,6 +83,45 @@ Gärballons, oder einfach die großen Kanister. Randvoll füllen = wenig Sauerst
 5. **Nicht alles zu Saft:** Rest bleibt Vaters Schnaps/Wein oder kommt auf den Kompost.
    Kein schlechtes Gewissen.
 
+## ✅ Entscheidung (Donnerstag): Notfallvariante „Auf-einmal-Abkochen" aktiviert (naturtrüb)
+
+Helfer-Absage + Kühlschrank-Volumen-Krise + Zeitverzug sind eingetreten → es wird
+nicht mehr am Idealplan festgehalten, sondern bei Logistikdruck so verfahren:
+
+1. Stampfen + direkt pressen (keine Maische, kein Vorlauf — Mühle ist eh defekt)
+2. Presssaft grob sieben → **direkt in den Kessel** (nur mit intakter Emaille-Einlage!)
+3. Auf **85 °C Kernwärme** erhitzen, **kurz halten** (nicht sprudelnd kochen —
+   schont Aroma, weniger Anbrenngefahr), abschäumen, dabei rühren
+4. **Heiß abfüllen in saubere/vorgewärmte Flaschen oder Gläser, sofort verschließen**
+   (MCA28 kopfüber / BVS stehend, wie gehabt)
+5. Dunkel lagern, mit Datum etikettieren
+
+**Zwei harte Bedingungen, sonst fällt die Variante wieder weg:**
+
+- **Emaille-Einlage absolut intakt.** Abplatzer = direkte Saftheizung tabu
+  (saurer Saft vs. blankes Eisen → metallisch, schwarz) → dann zurück zu
+  Kühl-Puffer + Wasserbad, siehe [07_Schlachtkessel.md](07_Schlachtkessel.md).
+- **Der Saft muss heiß in verschlossene Behälter.** Abgekocht und dann offen
+  zwischengelagert bringt nichts — Wildhefen sind sofort wieder drin. Keine
+  offenen Boxen/Kisten als „Lager"!
+  - Flaschen reichen → heiß abfüllen = **fertiges Produkt** (Hot Fill, ~6–12 Monate
+    dunkel haltbar), eine zweite Abfüll-Session entfällt komplett
+  - Übermengen → heiß in hitzefeste, luftdichte Großgebinde (Weck-/Einmachgläser,
+    Glasballon) → beim späteren Abfüllen wie geplant Wasserbad 80 °C / 30 min
+
+**Was die Variante kostet:** Kaltes Absetzen/Klärung entfällt — egal, naturtrüb.
+Die Hitze macht den Saft ohnehin noch trüber (Pektin/Eiweiß gerinnt), das ist das
+Konzept. Minimal mehr „Kochton" — aber der Unterschied zu 30 min bei 80 °C im
+Wasserbad (dem geplanten Standardweg) ist klein. Vorlauf/Maische-Aroma ist durch
+den Mühle-Defekt ohnehin entfallen.
+
+**Was sie rettet:** keine 12-h-Gär-Uhr mehr, kein Kühlschrank-Volumen-Bottleneck
+(Fass-Problem ist damit irrelevant), keine Helfer nötig, und die Abfüllung ist
+vollständig von der Ernte entkoppelt.
+
+**Vorbedingung, sofort prüfen:** Kessel-Probelauf mit Wasser + Emaille-Befund
+(war eh Todo Nr. 1). Läuft der Kessel nicht, gibt es auch diese Variante nicht.
+
 ## Faustzahlen
 - Ausbeute Presse: ~65–70 % → 100 L Most brauchen ~150 kg Trauben
 - Pressen: ~20–30 L/h bei Handpresse mit einer Person
