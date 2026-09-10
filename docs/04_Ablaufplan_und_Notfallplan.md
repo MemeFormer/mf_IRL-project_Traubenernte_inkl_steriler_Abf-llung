@@ -83,44 +83,57 @@ Gärballons, oder einfach die großen Kanister. Randvoll füllen = wenig Sauerst
 5. **Nicht alles zu Saft:** Rest bleibt Vaters Schnaps/Wein oder kommt auf den Kompost.
    Kein schlechtes Gewissen.
 
-## ✅ Entscheidung (Donnerstag): Notfallvariante „Auf-einmal-Abkochen" aktiviert (naturtrüb)
+## 🔀 Routing-Regel (seit Fr): Standardweg bleibt — „Naturtrüb heiß" ist das Überlauf-Ventil
 
-Helfer-Absage + Kühlschrank-Volumen-Krise + Zeitverzug sind eingetreten → es wird
-nicht mehr am Idealplan festgehalten, sondern bei Logistikdruck so verfahren:
+**Klarstellung zur vorherigen Fassung:** Nicht alles wird jetzt naturtrüb gekocht.
+Der **Standardweg bleibt unverändert:** Presssaft → grob seven → Kühlschrank
+(48–72 h klären, Trub setzt ab) → klaren Saft abziehen → Kessel-Wasserbad
+80 °C / 30 min.
 
-1. Stampfen + direkt pressen (keine Maische, kein Vorlauf — Mühle ist eh defekt)
-2. Presssaft grob sieben → **direkt in den Kessel** (nur mit intakter Emaille-Einlage!)
-3. Auf **85 °C Kernwärme** erhitzen, **kurz halten** (nicht sprudelnd kochen —
-   schont Aroma, weniger Anbrenngefahr), abschäumen, dabei rühren
-4. **Heiß abfüllen in saubere/vorgewärmte Flaschen oder Gläser, sofort verschließen**
-   (MCA28 kopfüber / BVS stehend, wie gehabt)
-5. Dunkel lagern, mit Datum etikettieren
+**Die Naturtrüb-Variante ist ein Routing, das pro Charge beim Pressen entschieden
+wird** — je nachdem, ob Puffer da ist:
 
-**Zwei harte Bedingungen, sonst fällt die Variante wieder weg:**
+> **Gibt es für den frischen Saft direkt einen Kühplatz?**
+> → **JA:** Standardweg (kühlen → klären → Wasserbad).
+> → **NEIN** (Kühlschrank voll, laufende Charge wartet auf Verarbeitung, nichts
+>   zu tun): **Diese Charge geht sofort heiß** — nicht warten, nicht Däumchen
+>   drehen. Ohne Kühlung läuft die 12-h-Gäruhr sofort wieder.
+
+### Ablauf der Überlauf-Variante („Naturtrüb direkt heiß")
+
+1. Presssaft **grob seven** — spätestens beim Einfüllen in den Kessel
+   (Schalenhäute/Kerne = Anbrenngefahr am Kesselboden)
+2. Nur mit **intakter Emaille-Einlage** direkt im Kessel auf **85 °C Kernwärme**,
+   kurz halten (nicht sprudelnd — schont Aroma, weniger Anbrenngefahr),
+   dabei rühren, abschäumen
+3. **Heiß abfüllen, sofort verschließen:**
+   - Flaschen/Gläser reichen → das **ist** das Endprodukt (fertig, ~6–12 Monate
+     dunkel haltbar) — eine zweite Abfüll-Session entfällt komplett
+   - Übermenge → heiß in hitzefeste, luftdichte Großgebinde (Weck-/Einmachgläser,
+     Glasballon, PP-Fass mit Gummidichtung — Recyclingcode **05 PP**; HDPE/02
+     nur nach Vorwärm-Test) → beim späteren Abfüllen wie geplant Wasserbad
+4. Dunkel lagern, **„NT" + Datum etikettieren** — sieht und schmeckt anders als
+   die geklärten Chargen, im Februar willst du wissen, was was ist
+
+### Harte Bedingungen (unverändert)
 
 - **Emaille-Einlage absolut intakt.** Abplatzer = direkte Saftheizung tabu
-  (saurer Saft vs. blankes Eisen → metallisch, schwarz) → dann zurück zu
-  Kühl-Puffer + Wasserbad, siehe [07_Schlachtkessel.md](07_Schlachtkessel.md).
+  (saurer Saft vs. blankes Eisen → metallisch, schwarz), siehe
+  [07_Schlachtkessel.md](07_Schlachtkessel.md). Läuft der Kessel nicht, gibt es
+  auch dieses Ventil nicht → dann Ernte drosseln statt lagern (Trauben halten
+  am Stock 1–3 Wochen).
 - **Der Saft muss heiß in verschlossene Behälter.** Abgekocht und dann offen
-  zwischengelagert bringt nichts — Wildhefen sind sofort wieder drin. Keine
-  offenen Boxen/Kisten als „Lager"!
-  - Flaschen reichen → heiß abfüllen = **fertiges Produkt** (Hot Fill, ~6–12 Monate
-    dunkel haltbar), eine zweite Abfüll-Session entfällt komplett
-  - Übermengen → heiß in hitzefeste, luftdichte Großgebinde (Weck-/Einmachgläser,
-    Glasballon) → beim späteren Abfüllen wie geplant Wasserbad 80 °C / 30 min
+  zwischengelagert bringt nichts — Wildhefen sind beim Abkühlen sofort wieder
+  drin. Keine offenen Boxen/Kisten als „Lager"!
 
-**Was die Variante kostet:** Kaltes Absetzen/Klärung entfällt — egal, naturtrüb.
-Die Hitze macht den Saft ohnehin noch trüber (Pektin/Eiweiß gerinnt), das ist das
-Konzept. Minimal mehr „Kochton" — aber der Unterschied zu 30 min bei 80 °C im
-Wasserbad (dem geplanten Standardweg) ist klein. Vorlauf/Maische-Aroma ist durch
-den Mühle-Defekt ohnehin entfallen.
+### Damit das Ventil verfügbar ist, wenn es greift
 
-**Was sie rettet:** keine 12-h-Gär-Uhr mehr, kein Kühlschrank-Volumen-Bottleneck
-(Fass-Problem ist damit irrelevant), keine Helfer nötig, und die Abfüllung ist
-vollständig von der Ernte entkoppelt.
-
-**Vorbedingung, sofort prüfen:** Kessel-Probelauf mit Wasser + Emaille-Befund
-(war eh Todo Nr. 1). Läuft der Kessel nicht, gibt es auch diese Variante nicht.
+- ⭐ **Kessel-Probelauf mit Wasser VOR der nächsten Press-Session** (war eh
+  Todo Nr. 1) — mit dem Erntetempo ist der erste Überlauf-Fall realistisch
+  das kommende Wochenende
+- Check nach dem heißen Abfüllen: zieht sich der Deckel beim Abkühlen leicht
+  rein → Vakuum = dicht/gut. Wölbt er sich später nach außen → gärt → sofort
+  wieder erhitzen
 
 ## Faustzahlen
 - Ausbeute Presse: ~65–70 % → 100 L Most brauchen ~150 kg Trauben

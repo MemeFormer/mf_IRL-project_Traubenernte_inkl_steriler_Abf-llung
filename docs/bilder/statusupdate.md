@@ -49,3 +49,22 @@ Flaschenhälse mit alufolie umwickel das nix rein kommt
 | FREITAG | | | |
 | SAMSTAG | | | |
 | SONNTAG | | | |
+
+FR zusätzlich: 1 weiterer 10kg-Eimer voll geworden (der 4. blieb leer, wurde dunkel).
+2 der 10er wurden umgefüllt in die freigewordene IKEA-Kiste, der Rest in den XL
+(der war schon fast voll von vorher). → Am Abend: 1 IKEA-Kiste voll + XL voll +
+1×10kg voll, 1 Eimer leer.
+
+### Stand Freitag Abend (Verarbeitung)
+
+- ✅ **Mühle läuft wieder** → Rückstand aufgearbeitet: 2. IKEA-Kiste (ganze
+  Trauben) + Leseeimer komplett vermühlt, Maische ~2 h, Folie drauf, währenddessen
+  frisch nachgeerntet
+- ✅ Vorlauf aus der Maische abgeschöpft → Küchensieb → Feinfilter (Nudelsieb +
+  Strumpfhose) → 10kg-Eimer voll feinsten Saft
+- ⚠️ Presssaft **nicht** geseiht (verpennt) → zusammen mit Vorlauf-Eimer + Rest
+  von gestern in EINE IKEA-Kiste vereint, fast randvoll, im Kühlschrank
+- Hof: 1 IKEA-Kiste voll ganze Trauben, XL voll, 1×10kg voll, 1 Eimer leer
+- Morgen früh: beim Umfüllen in die andere Kiste **grob nachseihen** — Sieb
+  einfach auf die Ziel-Kiste setzen und beim Kippen mitseihen (ein Handgriff,
+  kein Extra-Durchgang)
