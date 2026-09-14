@@ -1,7 +1,12 @@
 # Kessel-Temperatursteuerung + Abfüllstation
 
-Zwei Sorgen, beide berechtigt, beide lösbar — und eine davon löst sich von selbst,
-sobald man die Reihenfolge richtig herum denkt.
+Zwei Sorgen, beide berechtigt. Die eine löst sich durch Rechnen, die andere durch
+einen Trick, den du noch nicht auf dem Zettel hast.
+
+> **Verfahren, um das es hier geht:** Saft komplett in der emaillierten Einlage des
+> Schlachtkessels erhitzen → **heiß abfüllen (Hot Fill)** → 2–3 min kopfüber.
+> Nicht das Wasserbad-Verfahren. Begründung in
+> [07_Schlachtkessel.md](07_Schlachtkessel.md), Abschnitt „Entscheidung Modus B".
 
 ---
 
@@ -9,280 +14,305 @@ sobald man die Reihenfolge richtig herum denkt.
 
 ### Die Physik in Zahlen
 
-Dein Kessel hat ~110–125 L Nutzvolumen; real fährst du ihn mit **60–80 L Wasser**.
-Spezifische Wärme Wasser = 4,19 kJ/(kg·K).
+Dein Kessel hat ~110–125 L Nutzvolumen, Innendurchmesser ~59 cm. Für ~50 L Saft
+ergibt das eine **Füllhöhe von nur 18 cm** — der Rest ist Freibord (gut so, dazu unten mehr).
 
-| Wassermenge | Wärmekapazität | 1 kWh extra = |
+Spezifische Wärme Wasser/Saft ≈ 4,19 kJ/(kg·K).
+
+| Inhalt | Wärmekapazität | 1 kWh extra = |
 |---|---|---|
-| 60 L | 251 kJ/K | **+14,3 K** |
-| 70 L | 293 kJ/K | **+12,3 K** |
-| 80 L | 335 kJ/K | **+10,8 K** |
+| 50 L Saft | 209 kJ/K | +17,2 K |
+| 70 L Wasser | 293 kJ/K | +12,3 K |
+| 80 L Wasser | 335 kJ/K | +10,8 K |
 
-**Heizrate bei 70 L Wasser:**
+**Heizrate bei 50 L Inhalt:**
 
 | Feuerleistung | Temperaturanstieg |
 |---|---|
-| 20 kW (volles Feuer) | 4,1 K/min |
-| 15 kW | 3,1 K/min |
-| 10 kW | 2,0 K/min |
-| 5 kW (nur Glut) | **1,0 K/min** |
-| 2 kW (Glut zusammengefallen) | 0,4 K/min |
+| 20 kW (volles Feuer) | 5,7 K/min |
+| 15 kW | 4,3 K/min |
+| 10 kW | 2,9 K/min |
+| 5 kW (nur Glut) | **1,4 K/min** |
+| 2 kW (Glut zusammengefallen) | 0,6 K/min |
 
-Zum Vergleich aus [12](12_Kessel_Betrieb_Sicherheit.md): ein Holzfeuer in einem
-Metzgerkessel bringt 10–20 kW, eine Herdplatte 2 kW.
+Ein Holzfeuer bringt 10–20 kW, eine Herdplatte 2 kW ([12](12_Kessel_Betrieb_Sicherheit.md)).
 
-**Energiebedarf für eine Ladung:** 70 L von 15 °C auf 80 °C = 19,1 MJ = **5,3 kWh**.
-Bei 15 kW sind das **~21 Minuten Vollast.** Danach hält die Masse die Temperatur
-fast allein.
+**Energiebedarf:** 50 L Saft von 15 °C auf 85 °C = 14,7 MJ = **4,1 kWh** → bei 15 kW
+**~16 Minuten Vollast.** Danach hält die Masse die Temperatur fast allein.
+Ohne Feuer und mit Deckel verliert sie nur **−0,23 bis −0,34 K/min**.
 
 ---
 
 ### Warum „bei 70 °C Feuer aus → steigt auf 85 °C" keine Regel ist
 
-Der Überschwinger ist **kein fester Wert**, sondern hängt davon ab, wie viel Glut
-im Moment des Abdrehens noch Wärme nachschiebt:
+Der Überschwinger hängt davon ab, wie viel Glut im Moment des Abdrehens noch nachschiebt:
 
-| Restglut | Dauer bis Glut draußen | Überschwinger bei 70 L |
+| Restglut | Zeit bis Glut draußen | Überschwinger bei 50 L |
 |---|---|---|
-| 3 kW (schwach) | 3 min | **+1,8 K** |
-| 5 kW (normale Glut) | 5 min | **+5,1 K** |
-| 8 kW (volles Feuer, viel Glut) | 8 min | **+13,1 K** |
+| 3 kW (schwach) | 3 min | **+2,6 K** |
+| 5 kW (normale Glut) | 5 min | **+7,2 K** |
+| 8 kW (volles Feuer, viel Glut) | 8 min | **+18,4 K** |
 
 **→ Der Überschwinger ist proportional zur Heizrate im Moment des Abschaltens.**
-Wer bei voller Flamme mit 4 K/min „Feuer aus" ruft, bekommt +10 bis +15 K.
-Wer bei schwacher Glut mit 1 K/min abschaltet, bekommt +2 bis +3 K.
+Wer bei voller Flamme mit 5,7 K/min „Feuer aus" ruft, landet bei +15 bis +18 K.
+Wer bei schwacher Glut mit 1,4 K/min abschaltet, bekommt +3 bis +5 K.
 
-Gemini hat also **einen möglichen** Fall beschrieben, aber als Regel verkauft.
-Dein Misstrauen war richtig.
+Die „70 °C anheizen, er steigt auf 85" ist also **ein möglicher** Fall, keine Regel.
+**Die Lösung ist nicht genauer zielen, sondern langsam anfahren.**
 
-**Die Konsequenz ist nicht „genauer zielen", sondern: langsam anfahren.**
-Wer mit 1 K/min auf die Zieltemperatur zugeht, kann fast nicht überschießen.
+### ⚠️ Bei Hot Fill ist der Überschwinger ernster zu nehmen als beim Wasserbad
 
----
+Das ist der Unterschied, den du richtig gespürt hast:
 
-### Das Protokoll (mit echten Zahlen für 70 L)
+| | Wasserbad (Modus A) | ⭐ **Hot Fill (dein Verfahren)** |
+|---|---|---|
+| Was wird heiß | Wasser | **der Saft selbst** |
+| 90 °C | Saft merkt es kaum (Flaschenkern kühler) | ⚠️ **direkt im Saft** → Kochgeschmack |
+| Obergrenze | ~100 °C (Sieden) | **90 °C** — „sonst Kochgeschmack und Aromaverlust" ([06](06_Einkochtopf.md)) |
+| Ab 95 °C | Glas-/Verschlussproblem | **Aroma kaputt, nicht reparabel** |
+
+**Dein Zielband ist also 82–86 °C, hartes Limit 90 °C.** Das ist enger als beim
+Wasserbad — aber mit ~24 cm Freibord und 1,4 K/min bei reiner Glut gut zu fahren.
+
+### Das Protokoll (für ~50 L Saft)
 
 | Phase | Ziel | Feuer | Dauer | Steigrate |
 |---|---|---|---|---|
-| 1 | 15 → 60 °C | **volle Flamme**, Luft auf | ~15 min | 3 K/min |
-| 2 | 60 → 72 °C | **keine Scheite mehr**, nur Glut | ~12 min | ~1 K/min |
-| 3 | 72 → 77 °C | Glut an die Seite ziehen, Deckel drauf | ~5 min | 0,5 K/min |
-| 4 | **bei 77 °C: Glut raus** in den Metalleimer | — | — | — |
-| 5 | kriecht auf 79–81 °C | — | 2–3 min | — |
-| 6 | **30 min halten** | 1 kleines Scheit alle 15–20 min | 30 min | ~0 |
+| 1 | 15 → 60 °C | volle Flamme, **rühren** | ~12 min | 4–5 K/min |
+| 2 | 60 → 75 °C | **keine Scheite mehr**, nur Glut | ~11 min | ~1,4 K/min |
+| 3 | 75 → 80 °C | Glut an die Seite, Deckel drauf | ~4 min | ~0,6 K/min |
+| 4 | **bei 80 °C: Glut raus** in den Metalleimer | — | — | — |
+| 5 | kriecht auf 83–86 °C | — | 2–3 min | — |
+| 6 | abfüllen | Glut nach Bedarf zurück | ~45–60 min | ~0 |
 
-**Die 30 min zählen ab dem Erreichen von 80 °C — nicht ab dem Anfeuern.**
-
-**Warum in Phase 6 doch Holz nötig ist:** ein offener Kessel mit 70 L bei 80 °C
-verliert grob 0,6–1,0 kW. Das sind **−0,12 bis −0,20 K/min**, also **−4 bis −6 K
-über die 30 Minuten.** Start bei 81 °C, Ende bei 76 °C — passt.
-Mit Deckel halbiert sich der Verlust.
+**Der Timer läuft nicht mit.** Du hast ab Phase 5 beliebig Zeit zum Abfüllen, weil
+50 L mit Deckel nur ~0,3 K/min verlieren — und du bei Bedarf ein Scheit nachlegst.
 
 ---
 
-### ⭐ Was du tun kannst, wenn er trotzdem drüber schießt
+### ⭐ Die fünf Bremsen, wenn er trotzdem drüber schießt
 
-Das ist deine eigentliche Frage, und die Antwort ist: **eine ganze Menge.**
-Du bist dem Feuer nicht ausgeliefert.
+Du bist dem Feuer nicht ausgeliefert:
 
-| # | Bremse | Wirkung | Wann |
-|---|---|---|---|
-| 1 | **Glut raus** mit der Schaufel in den Metalleimer | stoppt die Quelle | sofort |
-| 2 | **Deckel ab** | Konvektion + Verdunstung, kühlt spürbar | ab ~85 °C |
-| 3 | **Flaschen raus** mit dem Flaschenheber | rettet das, was wirklich gefährdet ist | ab ~90 °C |
-| 4 | **Rühren / Wasser umwälzen** | verteilt Hot Spots, kühlt die Wand | immer |
-| 5 | **Wasser nachgießen** | siehe unten | Notfall |
-
-**Zu #5 — der einzige Punkt, der Fingerspitzengefühl braucht:**
-
-| Zugabe in 70 L à 90 °C | Ergebnis |
-|---|---|
-| +10 L à 60 °C | 86,2 °C (−3,8 K) |
-| +10 L à 20 °C | 81,2 °C (−8,8 K) |
-| +20 L à 20 °C | 74,4 °C (−15,6 K) |
-
-Kaltes Wasser wirkt also viermal so stark wie warmes — **aber** [12](12_Kessel_Betrieb_Sicherheit.md)
-warnt zurecht vor Thermoschock auf der Emaille. Deshalb:
-**immer erst Feuer runter, dann dünner Strahl seitlich an die Wand, nie in den
-trockenen heißen Kessel.** Im Zweifel Flaschen raus statt Wasser rein — die Flaschen
-sind das Wertvolle, das Wasser ist billig.
-
----
-
-### Die eigentliche Beruhigung: dein Ziel ist ein Bereich, kein Punkt
-
-Du hast im Kopf „80 °C exakt treffen, sonst verkocht der Saft". So funktioniert
-Pasteurisation nicht.
-
-**Pasteurisieren ist ein Produkt aus Temperatur × Zeit.** Maßgeblich ist, was im
-**Kern der Flasche** ankommt — nicht was das Thermometer im Wasser anzeigt. Genau
-deshalb dauert das Wasserbad 20–30 min, obwohl 80 °C für die Hefen eigentlich
-schon nach Sekunden tödlich wäre: die Wärme muss erst durch Glas und Saft bis in
-die Flaschenmitte. Wer zu kurz erhitzt, hat „am Flaschenrand heiß genug, im Zentrum
-noch lebende Hefen" — und die Flasche gärt später.
-
-**Daraus folgt die Umkehrung deiner Sorge:**
-
-| Temperatur im Wasserbad | Bewertung |
-|---|---|
-| 75 °C | Minimum — funktioniert, aber knapp |
-| **78–82 °C** | ⭐ **Zielbereich** |
-| 85 °C | ✅ völlig ok, pasteurisiert schneller, minimal „gekochter" im Ton |
-| 88–90 °C | ✅ Saft noch ok. ⚠️ **BVS-Alu-Verschluss max. 90 °C**, Kunststoffdeckel prüfen |
-| 92–95 °C | ⚠️ deutlicher Kochgeschmack, Verschlüsse am Limit |
-| ~100 °C | 🚨 **Sieden.** Offenes Wasserbad kommt über 100 °C gar nicht hinaus. Ab hier kann Saft in der Flasche zu kochen beginnen → Druck → Deckel fliegt oder Flasche platzt |
-
-**Der Abstand zwischen deinem Ziel (80 °C) und dem echten Schadensfall (~100 °C)
-ist 20 Kelvin — bei einer Masse, die sich mit 0,5 K/min bewegt. Das sind 40 Minuten
-Reaktionszeit.**
-
-Fachlich bestätigt: zwischen **80–90 °C und 1–30 min** Haltezeit sind die sensorischen
-Unterschiede in der Praxis gering; entscheidend ist, dass die Pasteurisation
-überhaupt wirkt. Mindestanforderung für Saft: **80 °C für ≥ 20 Sekunden**
-([Fischer-Lahr](https://www.fischer-lahr.de/Konservieren-Einmachen)).
-
-> **Dein Risiko ist nicht der Überschwinger. Dein Risiko ist der Unterschwinger:**
-> zu kurz oder zu kalt → Hefe überlebt → Flaschenbomben im Vorratsregal.
-> Lieber 84 °C und sicher als 78 °C und knapp.
-
-### Ein Punkt, der in [12](12_Kessel_Betrieb_Sicherheit.md) fehlt: der Kopfraum
-
-Saft dehnt sich beim Erhitzen aus — von 20 °C auf 80 °C um **+2,7 %**.
-
-| Flasche | randvoll gefüllt bei 20 °C | Überdruck bei 80 °C |
+| # | Bremse | Wirkung |
 |---|---|---|
-| 0,7 L | 700 ml | **+19 ml** |
-| 1,0 L | 1000 ml | **+27 ml** |
+| 1 | **Glut raus** mit Schaufel + Metalleimer | stoppt die Quelle sofort |
+| 2 | ⭐ **kalten Saft aus dem nächsten Behälter nachgießen** | **die beste Bremse — siehe unten** |
+| 3 | **Deckel ab** | Konvektion + Verdunstung |
+| 4 | **rühren** | verteilt Hot Spots, kühlt die Wand |
+| 5 | Feuer ganz raus, Kessel von der Glut ziehen (Rollen!) | ultima ratio |
 
-**Randvoll gefüllte Flaschen laufen im Wasserbad über oder drücken den Deckel hoch.**
+**Zu #2 — der Trick, den du beim Wasserbad nicht hast:**
 
-→ **Fürs Wasserbad: 2–3 cm Kopfraum lassen.** Nicht randvoll.
-(Bei reinem Hot Fill ist es umgekehrt — da füllt man randvoll, weil die Flasche
-sofort verschlossen wird und beim Abkühlen Unterdruck entsteht.)
+Beim Wasserbad müsstest du Wasser nachgießen und riskierst Thermoschock auf der Emaille.
+Bei Hot Fill ist die „Kühlflüssigkeit" **dein eigener Saft**:
 
-Beim Abkühlen entsteht dann das Vakuum, und bei MCA28 zieht sich der
-Sicherheitsbutton nach innen — das ist dein **Dichtheits-Test.**
+| Zugabe in 45 L à 90 °C | Ergebnis |
+|---|---|
+| +5 L à 15 °C | **82,5 °C** (−7,5 K) |
+| +10 L à 15 °C | **76,3 °C** (−13,7 K) |
 
-### Und: Abkühlen
+**Kein Thermoschock** (du gießt Flüssigkeit in Flüssigkeit, nicht auf trockene heiße
+Emaille), **keine Verdünnung** (es ist derselbe Saft), und die Charge wird einfach größer.
 
-Industriell wird aktiv gekühlt, weil langes Warmhalten das Aroma kostet.
-**Für Glasflaschen gilt das nicht 1:1** — heiße Flaschen unter kaltes Wasser ist
-Temperaturschock. Praxis für dich:
-
-1. Feuer aus, Deckel drauf, **30–45 min im Wasser stehen lassen**
-2. Flaschen raus, auf ein Holzbrett/Tuch (**nicht auf kalte Steinplatte**)
-3. an einem zugfreien Ort auskühlen lassen, nicht stapeln
+→ **Praktische Konsequenz: stell dir immer einen Behälter kalten Saft griffbereit
+neben den Kessel.** Das ist dein Notausgang, und er kostet nichts.
 
 ---
 
-## Teil 2: Die Abfüllstation — deine Dampfentsafter-Idee
+### Was bei welcher Temperatur wirklich passiert (Hot Fill)
 
-### Bewertung: die Idee ist gut, und zwar besser als du denkst
+| Safttemperatur | Bewertung |
+|---|---|
+| < 78 °C | ❌ **zu kalt zum Abfüllen** — Deckel-/Halsentkeimung wirkt nicht sicher |
+| **82–86 °C** | ⭐ **Zielbereich** |
+| 88–90 °C | ⚠️ Obergrenze. Noch ok, aber nicht länger |
+| > 90 °C | ❌ Kochgeschmack, Aromaverlust — **nicht reparabel** |
+| ~100 °C | 🚨 Sieden, Schaum über, Verlust |
+
+> **Anders als beim Wasserbad ist hier der Überschwinger das größere Risiko,
+> nicht der Unterschwinger.** Aber beides ist mit „langsam anfahren + kalter Saft
+> als Bremse" sicher im Griff.
+
+### ⚠️ Füllmenge: Hot Fill = **randvoll**
+
+Das ist das **Gegenteil** vom Wasserbad. Beim Wasserbad brauchst du 2–3 cm Kopfraum,
+weil sich der Saft ausdehnt. Bei Hot Fill willst du **möglichst wenig Luft**, denn
+beim Abkühlen zieht sich der Saft zusammen und erzeugt das Vakuum:
+
+| Flasche | randvoll bei 85 °C gefüllt | Vakuum/Kopfraum bei 20 °C |
+|---|---|---|
+| 0,5 L | 500 ml | 14 ml |
+| 0,7 L | 700 ml | 19 ml |
+| 1,0 L | 1000 ml | 27 ml |
+
+**Randvoll füllen, sofort verschließen.** Nach 24 h ist der MCA28-Sicherheitsbutton
+eingezogen — das ist dein **Dichtheitstest**.
+
+### ⚠️ Freibord: der angegorene Saft schäumt
+
+CO₂ geht beim Erhitzen schlagartig raus. Bei 50 L Saft = 18 cm Füllhöhe in einem
+40–45 cm tiefen Kessel hast du **~24 cm Freibord** — das reicht. Aber:
+- **Schaum abschöpfen**, solange er kommt (er trägt Hefe und Trub)
+- nie bis oben füllen
+- Phase 1 nicht mit voller Flamme durchprügeln, sonst kocht es über ins Feuer
+
+---
+
+## Teil 2: Deine Abfüllstation — die Idee ist gut
+
+### Bewertung
 
 | Dein Punkt | Bewertung |
 |---|---|
 | Silikonschlauch + Klemme | ⭐ **Perfekt.** Dosierbar, absperrbar, spritzfrei |
-| Flaschen im Getränkekasten unter dem Schlauch | ⭐ **Richtig.** Hände weg von der Hitze, Flaschen stehen sicher |
-| Kesseldeckel zu lassen | ⭐ **Richtig.** 70 L mit Deckel verlieren fast nichts |
-| Mehrere Flaschen pro Füllung des Oberteils | ✅ funktioniert |
-| Saft bleibt auf Temperatur, weil Kessel Wärmespeicher | ✅ korrekt, aber siehe unten — **du brauchst die Temperatur gar nicht** |
+| Flaschen im Getränkekasten unterm Schlauch | ⭐ **Richtig.** Hände weg von der Hitze, Flaschen stehen sicher |
+| Kesseldeckel zu lassen | ⭐ **Richtig.** 50 L verlieren mit Deckel nur ~0,3 K/min |
+| Mit Topf + Henkel ausschöpfen und nachfüllen | ✅ funktioniert |
+| Kessel muss nicht ständig geöffnet werden | ✅ korrekt |
 
-### ⚠️ Vier Punkte zum Nachbessern
+### Nachbessern — drei Punkte
 
-**1. Material.** Es muss das Oberteil des **Edelstahl**-Dampfentsafter sein, nicht
-das Alu-Gerät aus dem Keller. Siehe [16](16_Dampfentsafter_eigenes_Produkt.md) —
-Traubensaft pH ~3,5 löst Aluminium. Silikonschlauch ist ok (hält weit über 100 °C).
+1. **Nur das Edelstahl-Oberteil**, nicht das Alu-Gerät ([16](16_Dampfentsafter_eigenes_Produkt.md))
+2. **Oberteil vorwärmen** — ein kaltes 1,2-kg-Edelstahlgefäß schluckt beim ersten
+   Füllen **2,1 K** aus den 4,5 L Saft. Einmal mit Heißwasser ausspülen, weg ist es.
+3. **Schlauch + Klemme vorher auskochen.** Die Innenseite der Klemme ist der
+   schwierigste Punkt.
 
-**2. Der kleine Behälter kühlt schnell aus.** 4–5 L Saft in einem offenen
-Edelstahlgefäß verlieren deutlich schneller Wärme als 70 L im geschlossenen Kessel —
-das Gefäß selbst schluckt beim ersten Mal einiges.
-→ **Oberteil vorwärmen** (mit Heißwasser aus dem Kessel ausspülen), und den eigenen
-Deckel drauf lassen.
+### 😅 Rücknahme: „Der Stutzen darf den Flaschenhals nicht berühren"
 
-**3. Hygiene.** Schlauch + Klemme **vorher auskochen.** Die Innenseite der Klemme
-ist schlecht zu reinigen. Der Ausschöpf-Topf mit Henkel ist ein eigenes Werkzeug —
-dediziert, ausgekocht, und der Henkel/der Rand darf niemals die Schlauchinnenseite
-oder einen Flaschenhals berühren.
+**Das war übertrieben und unpraktisch — vergiss es.** Du hattest recht, das ist
+nicht sauber hinzubekommen, und ein Trichter wäre schlimmer (mehr Fläche, wird kalt,
+berührt den Hals genauso).
 
-**4. Der Schlauch darf den Flaschenhals nicht berühren.** Knapp in die Mündung
-halten, nicht reinstoßen. Sonst wandert Keim vom Hals in den Schlauch und von da
-in die nächste Flasche.
+Der Schlauch wird **dauernd mit 82–86 °C heißem Saft durchspült** — er entkeimt sich
+dabei selbst. Was tatsächlich zählt:
 
-### ⭐ Der Punkt, der deine ganze Sorge auflöst
+- ✅ **Der Schlauch darf in der Flaschenmündung aufliegen.** Völlig ok.
+- ❌ Er darf **nichts anderes** berühren: Tisch, Boden, deine Hände, Flaschenaußenseiten
+- ❌ Nicht zwischendurch ablegen. Wenn doch: kurz in heißes Wasser
+- ❌ Kein Desinfektionsspray (siehe [20](20_Einkauf_heute.md))
 
-Du schreibst: *„ich muss ja schauen, dass das zügig vonstatten geht, weil ich die
-Hitze brauche, um die Deckel von innen zu entkeimen."*
+Es gibt dafür übrigens ein Fertigteil: ein **Abfüllröhrchen mit Federhahn** aus dem
+Brau-/Weinbedarf (~5 €). Das wird in den Flaschenhals gedrückt, steht von selbst und
+stoppt den Fluss beim Anheben. Genau für diesen Zweck gebaut. Kein Muss — deine
+Klemme tut es auch.
 
-**Das stimmt nur bei reinem Hot Fill. Bei deinem Plan stimmt es nicht.**
+---
 
-Dein Plan ist das **Wasserbad**: abfüllen → verschließen → **dann** 80 °C / 30 min.
-In diesen 30 Minuten bekommt **die ganze Flasche inklusive Deckel, Dichtung und
-Gewinde** 80 °C ab. Das ist eine **deutlich** zuverlässigere Deckelentkeimung als
-zwei Minuten kopfüber mit heißem Saft.
+## ⭐ Teil 3: Die Hektik — gerechnet statt befürchtet
 
-**Daraus folgt:**
+Deine Sorge: *„ich muss schauen, dass das zügig vonstatten geht, weil ich die Hitze
+brauche, um die Deckel von innen zu entkeimen."*
 
-| | Hot Fill (Notlösung) | ⭐ Wasserbad (dein Plan) |
+### Das Zeitfenster ist ~10 Minuten, nicht 30 Sekunden
+
+Dein Umfüllgefäß (Dampfentsafter-Oberteil, ~4,5 L) hat eine Wärmekapazität von
+**18,9 kJ/K**. Geschätzter Wärmeverlust eines offenen 4,5-l-Edelstahlgefäßes bei
+85 °C in 15 °C Umgebung: 80–200 W.
+
+| Verlust | Abkühlrate | Zeit von 85 auf 80 °C |
 |---|---|---|
-| Zeitdruck beim Füllen | **hoch** — Saft muss ≥80 °C haben beim Zuschrauben | **keiner** |
-| Deckelentkeimung | durch heißen Saft, 2 min kopfüber | durch das Bad, 30 min |
-| kopfüber stellen | ja (nur MCA28/PP28!) | **nein, entfällt** |
-| Hantieren mit 80 °C heißem Saft | ja, über 50 Flaschen | **nein** |
-| Weinflaschen (BVS) | ❌ nie kopfüber | ✅ stehend im Bad, kein Problem |
-| Thermoschock an den Flaschen | Risiko | **keins** — alles erwärmt sich zusammen |
-| Qualität | ok | ⭐ besser, 12+ Monate |
+| 80 W | −0,25 K/min | **20 min** |
+| 150 W | −0,48 K/min | **10 min** |
+| 200 W | −0,64 K/min | **8 min** |
 
-**Konkret heißt das: du kannst 50 Flaschen in aller Ruhe über eine Stunde füllen,
-kalt, ohne Verbrennungsgefahr, ohne Stoppuhr.** Genau deshalb steht in
-[01](01_Grundprinzip.md) der Satz „Reihenfolge umdrehen" — das war nie nur ein
-Hygiene-Trick, das ist der Teil, der den Stress rausnimmt.
+**4,5 L sind ~6 Flaschen à 0,7 L.** Also selbst im schlechtesten Fall **über eine
+Minute pro Flasche.** Das ist kein Sprint.
 
-### Die Abfüllstation wird dadurch einfacher, nicht komplizierter
+### Und es gibt gar keine irreversible Uhr
 
-Weil du **nicht heiß** füllen musst, brauchst du den Kessel beim Füllen gar nicht:
+Der Kessel hält 50 L bei 83–86 °C praktisch beliebig lange (Deckel zu, gelegentlich
+ein Scheit). **Das Umfüllgefäß ist nur ein Puffer.** Wenn es abkühlt: Saft zurück
+in den Kessel oder frischen heißen nachschöpfen. **Nichts geht verloren, nichts
+muss in einer bestimmten Zeit fertig sein.**
 
-```
-   [SAMLA-Box / Behälter]              [KESSEL]
-   Saft kalt oder angewärmt    →       Wasserbad
-        ↓                              (läuft nebenher)
-   Oberteil Dampfentsafter
-   + Silikonschlauch + Klemme
-        ↓
-   Flasche im Getränkekasten
-        ↓
-   Deckel drauf, 2-3 cm Kopfraum
-        ↓
-   → in den Kessel, stehend, auf den Einlegerost
-```
+### ⭐ Der eigentliche Trick: entkoppele die Deckelentkeimung vom Tempo
 
-**Wichtig: Flaschen kommen in lauwarmes Wasser, nicht in heißes.** Kessel mit
-Wasser füllen, Flaschen rein (Saft kalt = Flaschen kalt), **dann** anfeuern und
-zusammen hochfahren. So gibt es keinen Temperaturschock, und das ist auch der
-Standard beim Einkochen.
+Dein Flaschenhals wird durch den heißen Saft entkeimt — **der Deckel muss das nicht
+über den Saft machen.** Mach ihn vorher keimfrei, dann ist es völlig egal, wie
+schnell du arbeitest:
 
-Wenn du die Aufheizzeit verkürzen willst: Saft vorher im Edelstahltopf auf dem
-Gasring auf 40–50 °C anwärmen. Muss aber nicht.
+1. **Alle Deckel 5 min in kochendem Wasser** (zweiter Kessel oder großer Topf)
+2. **im heißen Wasser liegen lassen**
+3. mit einer **ausgekochten Zange** greifen, aufschrauben
+4. **fertig.** Kein Wettlauf.
 
-### Reihenfolge der Chargen
+Damit bleibt das Kopfüberstellen eine **zusätzliche** Sicherheit, nicht die einzige.
 
-1. **Erst die angegorene Charge** — die hat keinen Puffer mehr
-2. Dann die frische
-3. **Zweite Ladung:** das heiße Wasser im Kessel lassen, Flaschen tauschen,
-   nur kurz nachheizen. Spart ~15 min und die Hälfte des Holzes.
+### Kopfüber — so geht es ohne Akrobatik
+
+- **Nur bei MCA28 / PP28 / PP31,5.** 🚨 **BVS-Weinflaschen niemals kopfüber** —
+  nur stehend, siehe [08](08_Gewindenormen_Referenz.md)
+- **Im Getränkekasten:** Flaschen kopfüber in den Kasten stellen, Kasten auf ein
+  Brett. Damit kannst du 12–20 Stück auf einmal stellen, statt sie in der Hand zu halten
+- **2–3 Minuten reichen**, dann umdrehen und stehend auskühlen
+- Nicht stapeln, nicht auf kalte Steinplatte
+
+### Abkühlen
+
+Industriell wird aktiv gekühlt, weil langes Warmhalten das Aroma kostet
+([Fischer-Lahr](https://www.fischer-lahr.de/Konservieren-Einmachen)). **Heiße Glasflaschen
+unter kaltes Wasser ist aber Temperaturschock.** Praxis für dich:
+
+1. nach dem Kopfüberstellen **aufrecht, zugfrei** auskühlen lassen
+2. nicht stapeln (Wärmestau)
+3. nicht auf kalte Steinplatte — Holzbrett oder Handtuch
+4. **nach 24 h Dichtheitstest:** Button eingezogen? Deckel fest? nichts ausgelaufen?
+   Jede Flasche, die durchfällt → sofort in den Kühlschrank, zuerst trinken
+
+---
+
+## 🚨 Der Punkt, der bei Hot Fill wirklich kritisch ist: Anbrennen
+
+Das ist das eigentliche Risiko von Modus B, nicht die Temperatur.
+
+**Holzfeuer direkt unter der Emaille + Saft mit Trub und Hefesatz am Boden = der Satz
+brennt an.** Angebrannter Hefesatz gibt einen bitter-röstigen Ton an die ganze Charge ab,
+und du bekommst ihn nicht mehr raus. Bei 18 cm Füllhöhe liegt der Satz direkt über der
+Flamme.
+
+**Deshalb, in dieser Reihenfolge:**
+
+1. **Saft kalt stehen lassen**, bis sich der Trub abgesetzt hat (hast du schon)
+2. **Klaren Saft abziehen** — genau dafür brauchst du den Schlauch
+   (8–12 mm, siehe [20](20_Einkauf_heute.md))
+3. **Bodensatz separat** in einen Topf → später durch ein Tuch pressen oder verwerfen
+4. **Erst dann in den Kessel**
+5. **Phase 1 rühren**, bis ~50 °C — danach ist Konvektion genug
+6. **Nicht mit voller Flamme durchheizen**, wenn der Saft schon warm ist
+
+### Alternative, falls dir das Feuer zu unkontrollierbar ist
+
+Du hast einen **Gaskocher-Ring** und einen **~28-l-Edelstahltopf** ([09](09_Bestandsaufnahme_Fotos.md)).
+
+| | Kessel (Holz) | Gasring + 28-l-Topf |
+|---|---|---|
+| Menge pro Charge | 50 L am Stück | 2 × ~22 L |
+| Regelbarkeit | ⚠️ träge | ⭐ **stufenlos** |
+| Anbrennen | ⚠️ Risiko | ✅ gering |
+| Aufwand | 1 × anfeuern | 2 × erhitzen |
+| Kessel-Rolle | Saft erhitzen | ⭐ **Heißwasser**: Flaschen vorwärmen, Deckel auskochen, reinigen |
+
+**Der Gasring ist der kontrollierbarere Erhitzer, der Kessel das bessere Logistikzentrum.**
+Wenn du dich mit dem Feuer unwohl fühlst: Saft auf dem Gasring, Kessel für Heißwasser.
+Beide Wege führen zum selben Produkt.
 
 ---
 
 ## Checkliste für heute abend
 
-- [ ] Zwei Thermometer, beide **im Wasser**, verschiedene Stellen
-- [ ] Metalleimer + Schaufel für die Glut griffbereit
-- [ ] Einlegerost im Kessel
-- [ ] Wasserstand über Flaschenschulter
-- [ ] **Flaschen mit 2–3 cm Kopfraum** füllen
-- [ ] Phase 2 einhalten: ab 60 °C **keine Scheite mehr nachlegen**
-- [ ] Bei 77 °C Glut raus
-- [ ] **Timer stellen ab 80 °C** — 30 min
-- [ ] 1 kleines Scheit alle 15–20 min in der Haltephase
-- [ ] Feuer aus → 30–45 min stehen lassen → Flaschen auf Holz/Tuch, nicht auf Stein
-- [ ] Nach 24 h: **Deckel-Test.** MCA28-Button eingezogen = dicht.
-  Jeder Deckel, der sich hochdrücken lässt → Flasche sofort in den Kühlschrank, zuerst trinken
+- [ ] **Saft abziehen** — klarer Saft in den Kessel, Bodensatz separat
+- [ ] **Einen Behälter kalten Saft als Notbremse** neben den Kessel stellen
+- [ ] Zwei Thermometer, **im Saft**, verschiedene Stellen
+- [ ] **Alle Deckel 5 min auskochen** und im heißen Wasser liegen lassen
+- [ ] Ausgekochte Zange für die Deckel bereitlegen
+- [ ] Oberteil + Schlauch + Klemme auskochen, Oberteil vorwärmen
+- [ ] Metalleimer + Schaufel für die Glut
+- [ ] Ab 60 °C **keine Scheite mehr**, bei 80 °C **Glut raus**
+- [ ] **Schaum abschöpfen**, Freibord im Auge behalten
+- [ ] Ziel **83–86 °C**, hartes Limit **90 °C**
+- [ ] **Randvoll** füllen, sofort verschließen
+- [ ] **2–3 min kopfüber** im Kasten — **außer BVS-Weinflaschen**
+- [ ] aufrecht, zugfrei auskühlen, nicht stapeln
+- [ ] **nach 24 h Dichtheitstest**

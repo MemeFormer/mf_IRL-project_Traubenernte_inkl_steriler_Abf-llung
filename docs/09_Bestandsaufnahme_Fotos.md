@@ -107,50 +107,44 @@ Für Saft: nur der **Edelstahltopf** oder der emaillierte Kessel.
 
 ## Deine Flaschenbilanz
 
-⚠️ **KORREKTUR 14.09.:** Die ursprüngliche Bilanz (46 Stück / 32,9 L) stammt aus der
-Fotoauswertung **vor** dem Zukauf der 20 × 1,0 L Gerolsteiner. Aktualisiert:
+⚠️ **ZWEITE KORREKTUR (14.09.):** Ich hatte hier zuerst behauptet, die 20 × 1,0 L
+Gerolsteiner seien PET und nicht pasteurisierbar. **Das war falsch.** Gerolsteiner
+führt die **1,0-Liter-Glas-Mehrwegflasche im 6er-Kasten seit 2010** — das Gebinde existiert
+in Glas *und* in PET. Deine Flaschen sind Glas. Ausschlaggebend ist ohnehin, was du in
+der Hand hast, nicht was der Brunnen sonst noch anbietet.
 
-| Größe | Anzahl | Volumen | Material | Pasteurisieren? |
-|---|---|---|---|---|
-| 1,0 L | 13 | 13,0 L | Glas | ✅ |
-| 0,7 L | 17 | 11,9 L | Glas | ✅ |
-| 0,5 L | 13 | 6,5 L | Glas | ✅ |
-| 0,5 L Bügel (Flensburger) | 3 | 1,5 L | Glas | ✅ |
-| **Zwischensumme Bestand** | **46** | **≈ 32,9 L** | Glas | ✅ |
-| 1,0 L Gerolsteiner (Zukauf) | 20 | 20,0 L | 🚨 **PET** | ❌ **nein** |
-| **Gesamt** | **66** | **≈ 52,9 L** | | **nur 32,9 L** |
+**Stand: ausschließlich Glasware im Sortiment.**
 
-### 🚨 Die 20 Gerolsteiner sind PET — die können NICHT pasteurisiert werden
+| Größe | Anzahl | Volumen |
+|---|---|---|
+| 1,0 L | 13 | 13,0 L |
+| 0,7 L | 17 | 11,9 L |
+| 0,5 L | 13 | 6,5 L |
+| 0,5 L Bügel (Flensburger) | 3 | 1,5 L |
+| **Bestand (Fotoauswertung)** | **46** | **≈ 32,9 L** |
+| 1,0 L Gerolsteiner Glas (Zukauf) | 20 | 20,0 L |
+| **= heute verfügbar** | **66** | **≈ 52,9 L** |
+| + 30 × 0,7 L Glas (geplant) | 30 | +21,0 L |
+| **= nach Zukauf** | **96** | **≈ 73,9 L** |
 
-Gerolsteiner 1 Liter ist das **PET-Mehrweggebinde** (1998 als erste 1-Liter-PET-Mehrweg-
-Mineralwasserflasche eingeführt); Glas gibt es bei Gerolsteiner als 0,75 L.
+⭐ **Damit ist der Bedarf von ~53 L abfüllbarem Saft schon *ohne* den Händler-Zukauf
+gedeckt.** Die 30 zusätzlichen Flaschen sind echte Reserve für die zweite Erntehälfte.
 
-**Standard-PET erweicht und verformt sich ab ca. 60–65 °C.** Für Hot Fill (85–95 °C)
-wird speziell hitzestabilisiertes ("heat-set") PET verwendet — Getränke-Mehrweg-PET
-ist das **nicht**.
+### 🔑 Die offene Frage ist nicht das Material, sondern die Mündung
 
-**Schnelltest in 5 Sekunden:** 1-Liter-PET wiegt 48–62 g und gibt auf Daumendruck
-nach. Eine 1-Liter-Glasflasche wiegt ~500 g. Wenn deine Flaschen leicht sind → PET.
+Die 20 × 1,0 L Gerolsteiner sehen aus wie 1-Liter-Saftflaschen. Bei deutschen
+1-Liter-Glas-Mehrwegflaschen sind **zwei Mündungen** üblich — und die entscheiden,
+welchen Deckel du brauchst:
 
-| Verwendung | PET ok? |
-|---|---|
-| **Einfrieren von Most** (nur zu 4/5 füllen!) | ⭐ **perfekt** — dafür sind sie Gold wert |
-| Kalte Zwischenlagerung im Kühlschrank | ✅ |
-| Hot Fill 85 °C | ❌ verformt sich |
-| Wasserbad 80 °C / 30 min | ❌ verformt sich, Dichtung hält nicht |
-| Dampfsaft direkt aus dem Entsafter | ❌ |
+| Messung an der Glasmündung außen | System | Deckel |
+|---|---|---|
+| **~28 mm** | MCA28 / PP28 | ✅ hast du (100 Stück bestellt) |
+| **~31,5 mm** | **PP31,5** | ⚠️ Raiffeisen — **Anzahl vorher zählen!** |
+| ~30 mm + langer Hals | BVS 30×60 | nur Alu, nur stehend |
 
-→ **Die 20 PET sind dein Einfrier-Ventil für die zweite Erntehälfte**, nicht deine
-Abfüllkapazität. Genau dafür stehen sie schon in
-[04_Ablaufplan_und_Notfallplan.md](04_Ablaufplan_und_Notfallplan.md).
-
-### Die echte Pasteurisier-Kapazität
-
-**32,9 L aus dem Bestand.** Dazu kommen die **30 Glasflaschen vom Getränkehändler**:
-bei 0,7 L = **+21 L → ~54 L**. Das deckt den Bedarf von ~53 L ab — **aber nur,
-wenn es Glas mit MCA28-Mündung ist.** Beim Händler explizit danach fragen:
-„Glas-Mehrweg 0,7 l mit **MCA28**-Schraubgewinde".
-Siehe [08](08_Gewindenormen_Referenz.md).
+🚨 **Bevor du zu Raiffeisen fährst: alle Flaschen mit „großem Deckel" zählen.**
+Eine „Handvoll" PP31,5-Deckel reicht nicht, wenn die 20 Gerolsteiner *plus* einige
+aus dem Bestand 31,5 mm haben — dann bist du bei 25–35 Stück. **Zählen + 20 % Reserve.**
 
 ✅ **Bestätigt: ausnahmslos Schraubgewinde, keine Kork-/Sektflaschen.**
 

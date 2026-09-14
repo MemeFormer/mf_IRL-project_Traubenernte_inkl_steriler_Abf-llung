@@ -75,8 +75,9 @@ Tupperdose oben Saft rausgedrückt war.
 | Meerretticheimer 2,5 kg | ~2,5 L |
 | **Summe** | **~57 L** → abzügl. Trub **~51–53 L** |
 
-🚨 **Flaschenkapazität: 32,9 L Glas** (+ 30 neue 0,7-L-Glas beim Händler = ~54 L ✅).
-Die 20 Gerolsteiner 1 L sind **PET** → nicht pasteurisierbar, nur als Einfrier-Gefäße.
+✅ **Flaschenkapazität reicht: 52,9 L Glas** (46 Bestand + 20 × 1 L Gerolsteiner **Glas**)
+gegen ~53 L abfüllbaren Saft. Alles Glas, kein PET. Die 30 neuen = Reserve.
+🔑 **Zu klären: Mündung 28 mm (MCA28) oder 31,5 mm (PP31,5)?** → Stückzahl vor dem Kauf zählen.
 
 ## Stand der Ernte
 - gut die **Hälfte** abgeerntet, Rest hängt noch am Stock

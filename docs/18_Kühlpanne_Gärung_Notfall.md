@@ -92,46 +92,42 @@ Nachgerechnet aus deinen Angaben (SAMLA Innenmaß ca. 38,5 × 27,5 cm):
 
 Abzüglich ~7 % Trub/Hefesatz: **~51–53 L abfüllbar.**
 
-> ⚠️ **KORREKTUR (14.09., nach Hinweis):** Ich hatte hier zuerst „46 Flaschen ≈ 32,9 L"
-> gerechnet und daraus „es fehlen ~20 L Gefäße" geschlossen. **Die 32,9 L stammen aus
-> der Fotoauswertung *vor* dem Zukauf der 20 × 1,0 L Gerolsteiner.** Die Rechnung war
-> deshalb zu pessimistisch — aber die Entwarnung ist eine andere, als du denkst.
+> ⚠️ **KORREKTUR-Historie zu diesem Abschnitt.** Ich habe hier zweimal danebengegriffen:
+> 1. zuerst mit **46 Flaschen / 32,9 L** gerechnet — das war der Stand **vor** dem
+>    Zukauf der 20 × 1,0 L Gerolsteiner;
+> 2. dann behauptet, die Gerolsteiner seien **PET** und nicht pasteurisierbar.
+>    **Falsch.** Gerolsteiner führt die **1,0-l-Glas-Mehrwegflasche im 6er-Kasten seit
+>    2010**; das Gebinde gibt es in Glas und in PET. Deine sind Glas.
+>
+> Maßgeblich ist, was bei dir im Hof steht, nicht was ich aus Marke + Füllmenge ableite.
 
-### Was du tatsächlich an Kapazität hast
+### ✅ Die Mengenbilanz geht auf — es fehlt nichts
 
-| | Anzahl | Volumen | pasteurisierbar? |
-|---|---|---|---|
-| Bestand Glas (13×1,0 / 17×0,7 / 13×0,5 / 3 Bügel) | 46 | 32,9 L | ✅ |
-| Gerolsteiner 1,0 L | 20 | 20,0 L | 🚨 **nein — PET** |
-| **Gesamt** | **66** | **≈ 52,9 L** | **nur 32,9 L** |
-| + Zukauf 30 × 0,7 L Glas beim Händler | 30 | +21,0 L | ✅ wenn MCA28 |
-| **→ dann** | **96** | **≈ 53,9 L** | **✅ passt zum Bedarf** |
+| | Anzahl | Volumen |
+|---|---|---|
+| Bestand (13×1,0 / 17×0,7 / 13×0,5 / 3 Bügel) | 46 | 32,9 L |
+| 1,0 L Gerolsteiner **Glas** | 20 | 20,0 L |
+| **= heute verfügbar** | **66** | **≈ 52,9 L** |
+| Bedarf abfüllbar | | **~53 L** |
+| + 30 × 0,7 L Glas beim Händler | 30 | +21,0 L → **73,9 L** |
 
-🚨 **Die 20 Gerolsteiner sind PET.** Gerolsteiner 1 Liter ist das PET-Mehrweggebinde
-(1998 als erste 1-Liter-PET-Mehrweg-Mineralwasserflasche eingeführt); Glas gibt es bei
-Gerolsteiner als 0,75 L. **Standard-PET erweicht ab ca. 60–65 °C** — für Hot Fill wird
-speziell hitzestabilisiertes PET verwendet, Getränke-Mehrweg-PET ist das nicht.
+**Die 30 Flaschen vom Getränkehändler sind also Reserve für die zweite Erntehälfte,
+nicht die Rettung für heute.** Wie du es ursprünglich eingeschätzt hast.
 
-**Schnelltest:** 1-Liter-PET wiegt 48–62 g und gibt auf Daumendruck nach;
-1-Liter-Glas wiegt ~500 g.
+### 🔑 Die wirklich offene Frage: welche Mündung haben die 20 Gerolsteiner?
 
-→ **Die 20 PET sind nicht deine Abfüllkapazität, sondern dein Einfrier-Ventil** —
-und dafür sind sie Gold wert (nur zu 4/5 füllen). Details und Belege:
-[09_Bestandsaufnahme_Fotos.md](09_Bestandsaufnahme_Fotos.md).
+Sie sehen aus wie 1-Liter-Saftflaschen. Bei deutschen 1-l-Glas-Mehrwegflaschen sind
+zwei Mündungen üblich, und die entscheiden über den Deckel:
 
-**Der Zukauf beim Getränkehändler ist also keine „ Reserve für später", sondern der
-Teil, der den heutigen Bedarf deckt.** Deshalb beim Händler explizit fragen:
-> „Glas-Mehrweg 0,7 l mit **MCA28**-Schraubgewinde" — nicht „irgendwas mit Schraubverschluss".
+| Mündung außen gemessen | System | Deckel |
+|---|---|---|
+| **~28 mm** | MCA28 / PP28 | ✅ hast du (100 Stk bestellt) |
+| **~31,5 mm** | **PP31,5** | ⚠️ Raiffeisen |
+| ~30 mm + langer Hals | BVS 30×60 | nur Alu, nur stehend |
 
-### Falls es doch knapp wird — Abhilfe in dieser Reihenfolge
-1. **Bügelflaschen/Einkochgläser mit Gummiring** — gehen ins Wasserbad (80 °C/30 min)
-2. **Twist-off-Gläser** (Marmeladengläser) — ebenfalls wasserbadfähig, aber
-   **TO-Deckel ≠ MCA28**, Größe separat messen (TO 48/63/82)
-3. **Nachbarschaft/Kleinanzeigen:** leere Saft-/Mineralwasserflaschen mit Schraubgewinde.
-   **Vorher Mündung messen** → MCA28 oder PP28? Siehe [08](08_Gewindenormen_Referenz.md)
-4. **Einfrieren:** die 20 PET-Flaschen zu 4/5 füllen, oder Gefrierbeutel
-5. Was übrig bleibt: **bewusst vergären lassen** → Jungwein für Vaters Ansatz.
-   Offenes Gefäß mit Tuch/Gäraufsatz, **nie dicht verschlossen.**
+🚨 **Zähle die Flaschen mit „großem Deckel", bevor du zu Raiffeisen fährst.**
+„Eine Handvoll" reicht nicht, wenn die 20 Gerolsteiner *plus* einige aus dem Bestand
+31,5 mm haben — dann brauchst du 25–35 Stück. **Zählen + 20 % Reserve.**
 
 ### ⚠️ Und: die SAMLA-Boxen sind laut IKEA kein Lebensmittelbehälter
 Auf der Produktseite der 22-l-SAMLA steht ausdrücklich:
@@ -150,38 +146,50 @@ Also: heute umfüllen und die Boxen danach aus dem Saftkreislauf nehmen.
 
 ---
 
-## 5. Ablauf heute
+## 5. Ablauf heute — Hot Fill aus dem Kessel
 
 **Reihenfolge ist wichtig: der gärende Teil hat Vorrang, der frische hat Puffer.**
+Verfahren: **Saft komplett im Kessel erhitzen, dann heiß abfüllen** — siehe
+[07](07_Schlachtkessel.md) „Entscheidung Modus B" und
+[19](19_Kessel_Temperatursteuerung_Abfuellstation.md).
 
-1. **Kühlschrank kontrollieren** — läuft er wirklich? Thermometer rein, Ziel ≤ 6 °C.
-   Kippschalter **mit Klebeband fixieren oder Kabelbinder dran**, damit das nicht
-   nochmal passiert. Zweiten Schrank ebenfalls prüfen.
+1. **Kühlschrank kontrollieren** — läuft er? Thermometer in ein Glas Wasser rein,
+   Ziel ≤ 6 °C. **Kippschalter mit Klebeband fixieren oder Kabelbinder dran.**
+   Zweiten Schrank ebenfalls prüfen.
 2. **Alles öffnen, Druck ablassen, Schaum abschöpfen, Triage** (Abschnitt 2 + 3).
-3. **Kessel vorbereiten, während du abfüllst:** Wasser zuerst (60–70 L), Einlegerost
-   rein, **dann** Feuer. Nie umgekehrt. → [12](12_Kessel_Betrieb_Sicherheit.md)
-4. **Charge A (angegoren) zuerst abfüllen.** Zwei Varianten, beide richtig:
-   - **A1 – heiß abfüllen:** Saft im Edelstahltopf/Einkochtopf auf **80 °C** bringen,
-     2 min halten, randvoll in vorgewärmte Flaschen, sofort verschließen.
-     ⭐ Bei gärendem Saft die **bessere** Wahl, weil das CO₂ dabei entgast.
-     Langsam füllen, es schäumt.
-   - **A2 – Wasserbad:** warm (60–70 °C) abfüllen, verschließen, 80 °C / 30 min im Kessel.
-     Nur wenn der Saft vorher **offen entgast** ist, und mit 3–4 cm Kopfraum.
-5. **Charge B (frisch) danach** — Wasserbad 80 °C / 30 min.
-6. **Etikettieren: `Presssaft 2026 – angegoren` vs. `Presssaft 2026 – frisch`.**
-   Im Februar schmeckst du den Unterschied und willst wissen, was was ist.
-7. **Kühlschrank auswischen.** Hefiger Saft auf Kunststoff = Fruchtfliegen und
-   Geruch. Essigwasser, auch in die Ritzen und Dichtungen.
+   Nichts davon in verschlossene Flaschen füllen.
+3. **Vom Hefesatz abziehen** 🚨 — klarer Saft in den Kessel, Bodensatz separat.
+   **Ohne diesen Schritt brennt der Satz am Kesselboden an** und ruiniert die Charge
+   geschmacklich. Schlauch 8–12 mm, siehe [20](20_Einkauf_heute.md).
+4. **Deckel 5 min auskochen** und im heißen Wasser liegen lassen, Zange bereitlegen.
+   Damit ist die Deckelentkeimung **vom Abfülltempo entkoppelt.**
+5. **Abfüllstation aufbauen:** Edelstahl-Oberteil des Dampfentsafters + Silikonschlauch
+   + Klemme, alles ausgekocht, Oberteil mit Heißwasser vorgewärmt. Flaschen im
+   Getränkekasten darunter.
+6. **Kessel: 50 L Saft erhitzen.** Phase 1 volle Flamme + rühren, ab 60 °C **kein Holz
+   mehr**, bei **80 °C Glut raus** → kriecht auf 83–86 °C.
+   🚨 **Einen Behälter kalten Saft als Notbremse daneben stellen**
+   (+5 L à 15 °C in 45 L à 90 °C = −7,5 K, ohne Thermoschock, ohne Verdünnung).
+7. **Charge A (angegoren) zuerst.** Langsam füllen — das CO₂ schäumt. Freibord im
+   Kessel im Auge behalten, Schaum abschöpfen.
+8. **Randvoll füllen**, sofort verschließen, **2–3 min kopfüber** im Kasten.
+   🚨 **BVS-Weinflaschen nie kopfüber** — nur stehend.
+9. **Charge B (frisch) danach**, gleiches Spiel.
+10. **Etikettieren:** `Presssaft 2026 – angegoren (PP31,5, zuerst trinken)` vs.
+    `Presssaft 2026 – frisch`. Im Februar willst du wissen, was was ist.
+11. **Kühlschrank auswischen** — Essigwasser, auch Ritzen und Dichtungen.
+12. **Nach 24 h Dichtheitstest** (Button eingezogen, nichts ausgelaufen),
+    **nach 7 Tagen zweiter Test** (Druck, Wölbung, Nachgärung).
 
-**Zeitrealistisch:** 46+ Flaschen füllen ≈ 1–1,5 h, zwei Kesselladungen ≈ 2–2,5 h +
-1,5 h. **Das ist ein Nachmittag plus Abend.** Fang jetzt an, nicht nach dem Mittagessen.
+**Zeitrealistisch:** Abziehen ~1 h, Erhitzen ~20 min, Abfüllen 60–70 Flaschen
+≈ 1,5 h, Auskühlen über Nacht. **Ein Nachmittag plus Abend** — aber ohne Sprint.
 
-**Warum 80 °C reicht:** Hefen und Schimmelpilze sterben im Bereich 75–90 °C sicher ab.
+**Warum 83–86 °C reicht:** Hefen und Schimmelpilze sterben bei 75–90 °C sicher ab.
 Im Fruchtwein-Forum ist dokumentiert, dass **45 °C die Hefe nicht tötet** — wer zu
-niedrig erhitzt, hat danach in der Flasche weiter Gärung. Mit 80 °C / 30 min bist du
-auf der sicheren Seite, und 100 °C ist nicht nötig (Traubensaft pH ~3,5).
+niedrig erhitzt, hat Nachgärung in der Flasche. **Obergrenze 90 °C**, darüber
+Kochgeschmack ([06](06_Einkochtopf.md)).
 
-➡️ **Anheizphase, Überschwinger, die Bremsen und die Abfüllstation im Detail:**
+➡️ **Anheizphase, Überschwinger, die fünf Bremsen, Abfüllstation und Zeitfenster:**
 **[19_Kessel_Temperatursteuerung_Abfuellstation.md](19_Kessel_Temperatursteuerung_Abfuellstation.md)**
 
 ---
@@ -239,7 +247,12 @@ Zellstruktur aufgebrochen ist. Das ist dein Ventil, falls das Wetter dir die Tag
 - ❌ Schimmel abschöpfen und den Rest verwenden → weg damit
 - ❌ Alles in einen Topf kippen, **bevor** du gekostet hast — ein Essig-Behälter
   ruiniert dann wirklich die ganze Mischung
-- ❌ Kesselfeuer ohne Wasser / kaltes Wasser in heißen Kessel → Emaille
+- ❌ **Kesselfeuer ohne Inhalt** → Trockenlauf sprengt die Emaille ([12](12_Kessel_Betrieb_Sicherheit.md))
+- ❌ **Saft mit Hefesatz in den Kessel** → der Satz brennt am Boden an, bitter-röstiger
+  Ton in der ganzen Charge, nicht mehr rauszubekommen
+- ❌ **Über 90 °C** → Kochgeschmack und Aromaverlust, irreversibel
+- ❌ **Sagrotan/Flächendesinfektion in den Schlauch** → nicht ausspülbar, nicht
+  lebensmittelzugelassen. Starsan oder heißes Wasser.
 - ❌ SAMLA-Boxen heiß befüllen oder als Lager behalten
 
 ---
