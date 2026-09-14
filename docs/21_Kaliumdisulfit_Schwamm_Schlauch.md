@@ -58,6 +58,27 @@ Ein Päckchen = 10 g. Du hast 3 Päckchen = 30 g.
 - Budget: 30 g = 1,5 L 2%-Lösung. Für viel Geschirr ist das knapp — dann auf **1 %**
   (10 g/L) gehen und **länger** einwirken lassen, oder die Lösung mehrfach verwenden.
 
+### ✅ Ja, zum Reinigen/Entkeimen ist es genau das richtige — Teil für Teil
+
+Sulfitlösung ist ein **no-rinse-Desinfektionsmittel**: einwirken lassen, abtropfen,
+**nicht zwingend nachspülen** (der SO₂-Rest schützt). Für deine Teile:
+
+| Teil | Vorgehen | Hinweis |
+|---|---|---|
+| **Deckel** | 2–3 min in 1–2 % legen, abtropfen/trocknen | ⭐ Einfacher & garantiert ist aber das **5-min-Auskochen**, das wir fürs Hot Fill eh geplant haben — such dir eins von beiden, nicht beide nötig. Metalldeckel nach Sulfit **trocknen** (sonst Wasserflecken/Korrosion) |
+| **Flaschenhals / Flaschen** | einlegen oder ausspülen, abtropfen | gut für sauber gelagerte Flaschen vor dem Befüllen |
+| **Silikonschlauch** (Dampfentsafter) | Lösung **durchziehen**, kurz stehen, auslaufen lassen | Silikon ist sulfitfest — unbedenklich |
+| **PVC-Schlauch** (Gardena) | Lösung **durchziehen**, auslaufen lassen | siehe Grenze unten |
+
+### ⚠️ Die zwei Grenzen, die du kennen musst
+
+1. **Sulfit entkeimt (Mikroben) — es macht nichts „lebensmittelecht".**
+   Beim Gardena-PVC-Schlauch tötst du damit Keime, aber die **Weichmacher-/Chemie-Frage
+   bleibt unverändert**. „Mit Sulfit gereinigt" heißt also nicht „jetzt sicher für Saft".
+   Für den PVC-Schlauch gilt weiterhin: nur kalt, nur kurz, erste 0,5 L verwerfen.
+2. **Sulfit reinigt nicht sichtbar** — es desinfiziert nur. Groben Schmutz/Trub erst
+   mechanisch + heißes Wasser entfernen, **dann** Sulfit als Desinfektion.
+
 ---
 
 ## 3. Der Schwamm auf den Fotos: ja, bedenkenlos — mit einer Einschränkung
