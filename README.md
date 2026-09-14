@@ -24,6 +24,8 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 | [16_Dampfentsafter_eigenes_Produkt.md](docs/16_Dampfentsafter_eigenes_Produkt.md) | Dampfsaft als zweites, eigenständiges Produkt |
 | [17_Entblaettern_Bewertung.md](docs/17_Entblaettern_Bewertung.md) | 🚨 Folgen der Entblätterung — **jetzt ernten, nicht warten** |
 | [18_Kühlpanne_Gärung_Notfall.md](docs/18_Kühlpanne_Gärung_Notfall.md) | 🚨 **AKTUELL.** Kühlschrank war 48 h aus — der Saft gärt. Triage + Rettungsplan |
+| [19_Kessel_Temperatursteuerung_Abfuellstation.md](docs/19_Kessel_Temperatursteuerung_Abfuellstation.md) | ⭐ **Anheizphase ohne Angst.** Überschwinger berechnet + die 5 Bremsen + warum Wasserbad = kein Zeitdruck |
+| [20_Einkauf_heute.md](docs/20_Einkauf_heute.md) | 🛒 Baumarkt / Getränkehändler / Raiffeisen — Schlauchmaß, MCA28-Satz, PP31,5-Kriterien |
 | [bilder/statusupdate.md](docs/bilder/statusupdate.md) | Laufendes Erntelogbuch (Mengen, Probleme, Tagesstand) |
 
 ## ⚠️ Aktueller Stand (nach Fotoauswertung)
@@ -31,7 +33,8 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 > 🚨 **Mo 14.09. — AKUT:** Kühlschrank war ~48 h aus (Kippschalter), der Saft gärt
 > leicht. **Kein Totalverlust**, aber heute abkochen. Triage, Mengentabelle und
 > Ablauf: **[docs/18_Kühlpanne_Gärung_Notfall.md](docs/18_Kühlpanne_Gärung_Notfall.md)**
-> ⚠️ Außerdem: **~57 L Saft, aber nur 32,9 L Flaschen** → ~20 L Gefäße fehlen.
+> ⚠️ Außerdem: **~57 L Saft.** Kapazität: 32,9 L Glas + 30 neue 0,7-L-Glas = ~54 L ✅ —
+> aber **die 20 Gerolsteiner 1 L sind PET** und können **nicht** pasteurisiert werden.
 > Und: **SAMLA-Boxen sind laut IKEA nicht lebensmittelecht.**
 
 - ✅ **Schlachtkessel: einsatzbereit.** Emaille intakt, ~110–125 L, 35–45 Flaschen/Ladung
@@ -65,6 +68,15 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
    Weinflaschen (BVS) sind zweite Wahl — nur Alu-Verschluss, nur stehend.
 7. **Mutters Einkochtopf** (passiv, Ceranfeld) liefert den **Ablasshahn** = Abfüllstation.
    Temperatur musst du selbst regeln → Thermometer ist Pflicht.
-8. ⭐ **Die alten Schlachtkessel sind das wichtigste Gerät überhaupt.** 40–80 Flaschen
+8. ⭐ **Der Kessel ist träge — und genau das macht ihn steuerbar.** Bei 70 L Wasser
+   bedeuten 5 kW Restglut nur 1 K/min. Protokoll: ab 60 °C kein Holz mehr, bei 77 °C
+   Glut raus. **Dein Risiko ist nicht der Überschwinger (85 °C ist harmlos),
+   sondern der Unterschwinger.** Details: [docs/19](docs/19_Kessel_Temperatursteuerung_Abfuellstation.md)
+9. ⭐ **Wasserbad = kein Zeitdruck beim Abfüllen.** Du kannst kalt füllen, in Ruhe
+   verschließen, und die 30 min bei 80 °C entkeimen den Deckel zuverlässiger als
+   jedes Kopfüberstellen. **Flaschen mit 2–3 cm Kopfraum** (Saft dehnt sich +2,7 % aus).
+10. 🚨 **PET-Flaschen sind keine Abfüllflaschen.** Gerolsteiner 1 L = PET, erweicht
+    ab ~60–65 °C. Nur zum Einfrieren. Abfüllen nur in Glas.
+11. ⭐ **Die alten Schlachtkessel sind das wichtigste Gerät überhaupt.** 40–80 Flaschen
    Wasserbad pro Ladung, holzbefeuert, autark im Hof. Damit ist Pasteurisieren kein
    Engpass mehr, der E-Herd ist gestrichen, und 12+ Monate Haltbarkeit werden Standard.

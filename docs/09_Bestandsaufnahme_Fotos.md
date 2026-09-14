@@ -107,18 +107,53 @@ Für Saft: nur der **Edelstahltopf** oder der emaillierte Kessel.
 
 ## Deine Flaschenbilanz
 
-| Größe | Anzah| Volumen |
-|---|---|---|
-| 1,0 L | 13 | 13,0 L |
-| 0,7 L | 17 | 11,9 L |
-| 0,5 L | 13 | 6,5 L |
-| 0,5 L Bügel (Flensburger) | 3 | 1,5 L |
-| **Summe** | **46** | **≈ 32,9 L** |
+⚠️ **KORREKTUR 14.09.:** Die ursprüngliche Bilanz (46 Stück / 32,9 L) stammt aus der
+Fotoauswertung **vor** dem Zukauf der 20 × 1,0 L Gerolsteiner. Aktualisiert:
 
-⭐ **Damit ist dein 30-L-Eigenanteil bereits vollständig abgedeckt.**
-Flaschen sind **kein Engpass mehr**. Alles Weitere ist Puffer.
+| Größe | Anzahl | Volumen | Material | Pasteurisieren? |
+|---|---|---|---|---|
+| 1,0 L | 13 | 13,0 L | Glas | ✅ |
+| 0,7 L | 17 | 11,9 L | Glas | ✅ |
+| 0,5 L | 13 | 6,5 L | Glas | ✅ |
+| 0,5 L Bügel (Flensburger) | 3 | 1,5 L | Glas | ✅ |
+| **Zwischensumme Bestand** | **46** | **≈ 32,9 L** | Glas | ✅ |
+| 1,0 L Gerolsteiner (Zukauf) | 20 | 20,0 L | 🚨 **PET** | ❌ **nein** |
+| **Gesamt** | **66** | **≈ 52,9 L** | | **nur 32,9 L** |
+
+### 🚨 Die 20 Gerolsteiner sind PET — die können NICHT pasteurisiert werden
+
+Gerolsteiner 1 Liter ist das **PET-Mehrweggebinde** (1998 als erste 1-Liter-PET-Mehrweg-
+Mineralwasserflasche eingeführt); Glas gibt es bei Gerolsteiner als 0,75 L.
+
+**Standard-PET erweicht und verformt sich ab ca. 60–65 °C.** Für Hot Fill (85–95 °C)
+wird speziell hitzestabilisiertes ("heat-set") PET verwendet — Getränke-Mehrweg-PET
+ist das **nicht**.
+
+**Schnelltest in 5 Sekunden:** 1-Liter-PET wiegt 48–62 g und gibt auf Daumendruck
+nach. Eine 1-Liter-Glasflasche wiegt ~500 g. Wenn deine Flaschen leicht sind → PET.
+
+| Verwendung | PET ok? |
+|---|---|
+| **Einfrieren von Most** (nur zu 4/5 füllen!) | ⭐ **perfekt** — dafür sind sie Gold wert |
+| Kalte Zwischenlagerung im Kühlschrank | ✅ |
+| Hot Fill 85 °C | ❌ verformt sich |
+| Wasserbad 80 °C / 30 min | ❌ verformt sich, Dichtung hält nicht |
+| Dampfsaft direkt aus dem Entsafter | ❌ |
+
+→ **Die 20 PET sind dein Einfrier-Ventil für die zweite Erntehälfte**, nicht deine
+Abfüllkapazität. Genau dafür stehen sie schon in
+[04_Ablaufplan_und_Notfallplan.md](04_Ablaufplan_und_Notfallplan.md).
+
+### Die echte Pasteurisier-Kapazität
+
+**32,9 L aus dem Bestand.** Dazu kommen die **30 Glasflaschen vom Getränkehändler**:
+bei 0,7 L = **+21 L → ~54 L**. Das deckt den Bedarf von ~53 L ab — **aber nur,
+wenn es Glas mit MCA28-Mündung ist.** Beim Händler explizit danach fragen:
+„Glas-Mehrweg 0,7 l mit **MCA28**-Schraubgewinde".
+Siehe [08](08_Gewindenormen_Referenz.md).
 
 ✅ **Bestätigt: ausnahmslos Schraubgewinde, keine Kork-/Sektflaschen.**
+
 Alle 46 Flaschen sind verwendbar. Mix aus Teinacher (vermutl. MCA28),
 Weinflaschen (BVS 30×60) und wenigen Spirituosenflaschen (PP28).
 → Nur noch Stückzahlen je System ermitteln, siehe [10](10_Deckel_Bestellliste.md).

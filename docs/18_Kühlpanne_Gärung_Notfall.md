@@ -77,7 +77,7 @@ und entfernt den Großteil der Hefezellen vor dem Erhitzen.
 
 ---
 
-## 4. ⭐ Mengenproblem — du hast mehr Saft als Flaschen
+## 4. ⭐ Mengenbilanz — Saft vs. Flaschen (korrigiert)
 
 Nachgerechnet aus deinen Angaben (SAMLA Innenmaß ca. 38,5 × 27,5 cm):
 
@@ -91,22 +91,47 @@ Nachgerechnet aus deinen Angaben (SAMLA Innenmaß ca. 38,5 × 27,5 cm):
 | **Summe** | **~57 L** (55–59) |
 
 Abzüglich ~7 % Trub/Hefesatz: **~51–53 L abfüllbar.**
-Deine Flaschenbilanz aus [09](09_Bestandsaufnahme_Fotos.md) = **46 Flaschen ≈ 32,9 L.**
 
-> **→ Es fehlen rund 20 L Gefäße.** Das ist heute dein größeres Problem als die Gärung.
+> ⚠️ **KORREKTUR (14.09., nach Hinweis):** Ich hatte hier zuerst „46 Flaschen ≈ 32,9 L"
+> gerechnet und daraus „es fehlen ~20 L Gefäße" geschlossen. **Die 32,9 L stammen aus
+> der Fotoauswertung *vor* dem Zukauf der 20 × 1,0 L Gerolsteiner.** Die Rechnung war
+> deshalb zu pessimistisch — aber die Entwarnung ist eine andere, als du denkst.
 
-**Abhilfe, in dieser Reihenfolge:**
-1. **Bügelflaschen/Einkochgläser mit Gummiring** — die gehen ins Wasserbad (80 °C/30 min)
-   und sind die sauberste Lösung für die Übermenge
-2. **Glas-Twist-off-Gläser** (Marmeladengläser) — ebenfalls wasserbadfähig
+### Was du tatsächlich an Kapazität hast
+
+| | Anzahl | Volumen | pasteurisierbar? |
+|---|---|---|---|
+| Bestand Glas (13×1,0 / 17×0,7 / 13×0,5 / 3 Bügel) | 46 | 32,9 L | ✅ |
+| Gerolsteiner 1,0 L | 20 | 20,0 L | 🚨 **nein — PET** |
+| **Gesamt** | **66** | **≈ 52,9 L** | **nur 32,9 L** |
+| + Zukauf 30 × 0,7 L Glas beim Händler | 30 | +21,0 L | ✅ wenn MCA28 |
+| **→ dann** | **96** | **≈ 53,9 L** | **✅ passt zum Bedarf** |
+
+🚨 **Die 20 Gerolsteiner sind PET.** Gerolsteiner 1 Liter ist das PET-Mehrweggebinde
+(1998 als erste 1-Liter-PET-Mehrweg-Mineralwasserflasche eingeführt); Glas gibt es bei
+Gerolsteiner als 0,75 L. **Standard-PET erweicht ab ca. 60–65 °C** — für Hot Fill wird
+speziell hitzestabilisiertes PET verwendet, Getränke-Mehrweg-PET ist das nicht.
+
+**Schnelltest:** 1-Liter-PET wiegt 48–62 g und gibt auf Daumendruck nach;
+1-Liter-Glas wiegt ~500 g.
+
+→ **Die 20 PET sind nicht deine Abfüllkapazität, sondern dein Einfrier-Ventil** —
+und dafür sind sie Gold wert (nur zu 4/5 füllen). Details und Belege:
+[09_Bestandsaufnahme_Fotos.md](09_Bestandsaufnahme_Fotos.md).
+
+**Der Zukauf beim Getränkehändler ist also keine „ Reserve für später", sondern der
+Teil, der den heutigen Bedarf deckt.** Deshalb beim Händler explizit fragen:
+> „Glas-Mehrweg 0,7 l mit **MCA28**-Schraubgewinde" — nicht „irgendwas mit Schraubverschluss".
+
+### Falls es doch knapp wird — Abhilfe in dieser Reihenfolge
+1. **Bügelflaschen/Einkochgläser mit Gummiring** — gehen ins Wasserbad (80 °C/30 min)
+2. **Twist-off-Gläser** (Marmeladengläser) — ebenfalls wasserbadfähig, aber
+   **TO-Deckel ≠ MCA28**, Größe separat messen (TO 48/63/82)
 3. **Nachbarschaft/Kleinanzeigen:** leere Saft-/Mineralwasserflaschen mit Schraubgewinde.
-   In einer Weinbaugegend kein Problem. **Vorher Mündung messen** → MCA28 oder PP28?
-   Siehe [08](08_Gewindenormen_Referenz.md)
-4. **Einfrieren als Ventil:** PET-Flaschen nur zu 4/5 füllen (Ausdehnung!), oder
-   Gefrierbeutel. Most einfrieren und später pasteurisieren ist völlig legitim.
-5. Was übrig bleibt und nicht mehr reinpasst: **bewusst vergären lassen** → Jungwein
-   für Vaters Ansatz oder zum Selbsttrinken. Offenes Gefäß mit Tuch/Gäraufsatz,
-   **nie dicht verschlossen.**
+   **Vorher Mündung messen** → MCA28 oder PP28? Siehe [08](08_Gewindenormen_Referenz.md)
+4. **Einfrieren:** die 20 PET-Flaschen zu 4/5 füllen, oder Gefrierbeutel
+5. Was übrig bleibt: **bewusst vergären lassen** → Jungwein für Vaters Ansatz.
+   Offenes Gefäß mit Tuch/Gäraufsatz, **nie dicht verschlossen.**
 
 ### ⚠️ Und: die SAMLA-Boxen sind laut IKEA kein Lebensmittelbehälter
 Auf der Produktseite der 22-l-SAMLA steht ausdrücklich:
@@ -155,6 +180,9 @@ Also: heute umfüllen und die Boxen danach aus dem Saftkreislauf nehmen.
 Im Fruchtwein-Forum ist dokumentiert, dass **45 °C die Hefe nicht tötet** — wer zu
 niedrig erhitzt, hat danach in der Flasche weiter Gärung. Mit 80 °C / 30 min bist du
 auf der sicheren Seite, und 100 °C ist nicht nötig (Traubensaft pH ~3,5).
+
+➡️ **Anheizphase, Überschwinger, die Bremsen und die Abfüllstation im Detail:**
+**[19_Kessel_Temperatursteuerung_Abfuellstation.md](19_Kessel_Temperatursteuerung_Abfuellstation.md)**
 
 ---
 
@@ -267,9 +295,10 @@ Triage nicht.** Der Befund sitzt oben:
   und einen Schluck probieren
 - Alternative: vorsichtig aus der Ecke in ein Glas gießen, ohne den Bodensatz aufzuwirbeln
 
-Ein **Lebensmittelschlauch** (z. B. klarer PVC-Schlauch aus dem Baumarkt, nur für
-Lebensmittel deklariert, oder ein Bierschlauch) ist trotzdem eine gute Anschaffung für
-später — aber er blockiert heute nichts.
+Ein **Lebensmittelschlauch** ist trotzdem die richtige Anschaffung — aber **nicht 1 Zoll**
+und **nicht zum heißen Abfüllen** (lebensmittelechter PVC-Getränkeschlauch ist meist nur
+bis +60 °C freigegeben). Richtig: **8–12 mm Innendurchmesser, 2 m, „lebensmittelecht /
+EU 10/2011 / phthalatfrei"**. Details: **[20_Einkauf_heute.md](20_Einkauf_heute.md)**
 
 ### ⚠️ „Gläser/Flaschen sind da" — passt der Deckel?
 Gute Nachricht für die ~20 L Übermenge. **Aber:** die bestellten Deckel sind
