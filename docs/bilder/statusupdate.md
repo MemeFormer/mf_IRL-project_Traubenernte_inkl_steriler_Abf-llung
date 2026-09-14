@@ -49,3 +49,48 @@ Flaschenhälse mit alufolie umwickel das nix rein kommt
 | FREITAG | | | |
 | SAMSTAG | | | |
 | SONNTAG | | | |
+
+---
+
+# Statusupdate Montag, 14.09. — Kühlpanne
+
+## Was passiert ist
+Beim Volladen des Kühlschranks **Freitag abend** versehentlich den **Kippschalter im
+Innenraum** betätigt → Schrank war aus. Bemerkt **Sonntag nacht**, weil bei der
+Tupperdose oben Saft rausgedrückt war.
+
+## Befund
+- ~**48 h ohne Kühlung**
+- Behälter (ältere Charge, stand **oben**) drückt Saft raus, **Schaumschicht** sichtbar
+- **Geruch noch nach Traubensaft**, kein Essig
+- Neuere Charge stand unten, ältere oben
+
+## Bestand Saft (ungefähr)
+| Behälter | Menge |
+|---|---|
+| SAMLA 22 l, Füllstand 21 cm | ~22 L |
+| SAMLA 22 l, fast voll | ~25–27 L |
+| Tupperdose lang | ~4 L |
+| 2 kleine Vierkant, ~70 % | ~2,5 L |
+| Meerretticheimer 2,5 kg | ~2,5 L |
+| **Summe** | **~57 L** → abzügl. Trub **~51–53 L** |
+
+🚨 **Flaschenkapazität ist nur 32,9 L** → es fehlen ~20 L Gefäße.
+
+## Stand der Ernte
+- gut die **Hälfte** abgeerntet, Rest hängt noch am Stock
+- am Wochenende mehrfach kurzer **Regen** → Beeren müssen jetzt dringend runter
+- Sa + So **nicht weitergearbeitet** (Erschöpfung, Kühlschrank voll)
+- **Deckel sollen heute (Mo) kommen** → Abkochen + Abfüllen heute geplant
+
+## Bewertung + Plan
+→ **[18_Kühlpanne_Gärung_Notfall.md](../18_Kühlpanne_Gärung_Notfall.md)**
+
+Kurzfassung: **kein Totalverlust.** Gärung hat gerade erst begonnen (~1–3 %vol),
+Abkochen auf 80 °C stoppt sie. Gärenden und frischen Saft bis zum Erhitzen getrennt
+halten, **mischen ist danach unbedenklich**. Zweite Erntehälfte über den
+Dampfentsafter statt über die Pressen-Linie — der braucht keinen Kühlschrank-Puffer.
+
+⚠️ Neu entdeckt: **SAMLA ist laut IKEA nicht für Lebensmittel freigegeben**
+(„Nicht für den Kontakt mit Lebensmitteln geeignet"). Kalt + kurz ist unkritisch,
+aber nicht heiß befüllen und nicht als Dauerlager nutzen.

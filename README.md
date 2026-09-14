@@ -23,8 +23,16 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 | [15_Verfahrensplan_final.md](docs/15_Verfahrensplan_final.md) | ⭐ **Der finale Ablauf.** Mühle + Presse + Entsafter parallel |
 | [16_Dampfentsafter_eigenes_Produkt.md](docs/16_Dampfentsafter_eigenes_Produkt.md) | Dampfsaft als zweites, eigenständiges Produkt |
 | [17_Entblaettern_Bewertung.md](docs/17_Entblaettern_Bewertung.md) | 🚨 Folgen der Entblätterung — **jetzt ernten, nicht warten** |
+| [18_Kühlpanne_Gärung_Notfall.md](docs/18_Kühlpanne_Gärung_Notfall.md) | 🚨 **AKTUELL.** Kühlschrank war 48 h aus — der Saft gärt. Triage + Rettungsplan |
+| [bilder/statusupdate.md](docs/bilder/statusupdate.md) | Laufendes Erntelogbuch (Mengen, Probleme, Tagesstand) |
 
 ## ⚠️ Aktueller Stand (nach Fotoauswertung)
+
+> 🚨 **Mo 14.09. — AKUT:** Kühlschrank war ~48 h aus (Kippschalter), der Saft gärt
+> leicht. **Kein Totalverlust**, aber heute abkochen. Triage, Mengentabelle und
+> Ablauf: **[docs/18_Kühlpanne_Gärung_Notfall.md](docs/18_Kühlpanne_Gärung_Notfall.md)**
+> ⚠️ Außerdem: **~57 L Saft, aber nur 32,9 L Flaschen** → ~20 L Gefäße fehlen.
+> Und: **SAMLA-Boxen sind laut IKEA nicht lebensmittelecht.**
 
 - ✅ **Schlachtkessel: einsatzbereit.** Emaille intakt, ~110–125 L, 35–45 Flaschen/Ladung
 - ✅ **Flaschen: 46 Stück ≈ 33 L** — Eigenbedarf gedeckt, kein Engpass mehr
