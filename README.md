@@ -26,6 +26,7 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 | [18_Kühlpanne_Gärung_Notfall.md](docs/18_Kühlpanne_Gärung_Notfall.md) | 🚨 **AKTUELL.** Kühlschrank war 48 h aus — der Saft gärt. Triage + Rettungsplan |
 | [19_Kessel_Temperatursteuerung_Abfuellstation.md](docs/19_Kessel_Temperatursteuerung_Abfuellstation.md) | ⭐ **Anheizphase ohne Angst.** Überschwinger berechnet + die 5 Bremsen + warum Wasserbad = kein Zeitdruck |
 | [20_Einkauf_heute.md](docs/20_Einkauf_heute.md) | 🛒 Baumarkt / Getränkehändler / Raiffeisen — Schlauchmaß, MCA28-Satz, PP31,5-Kriterien |
+| [21_Kaliumdisulfit_Schwamm_Schlauch.md](docs/21_Kaliumdisulfit_Schwamm_Schlauch.md) | 🧪 Sulfit-Anleitung (stoppt keine laufende Gärung!), Schwamm-Freigabe, Gardena-Schlauch-Bewertung |
 | [bilder/statusupdate.md](docs/bilder/statusupdate.md) | Laufendes Erntelogbuch (Mengen, Probleme, Tagesstand) |
 
 ## ⚠️ Aktueller Stand (nach Fotoauswertung)

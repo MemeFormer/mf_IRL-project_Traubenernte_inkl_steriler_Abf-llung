@@ -96,3 +96,36 @@ Dampfentsafter statt über die Pressen-Linie — der braucht keinen Kühlschrank
 ⚠️ Neu entdeckt: **SAMLA ist laut IKEA nicht für Lebensmittel freigegeben**
 („Nicht für den Kontakt mit Lebensmitteln geeignet"). Kalt + kurz ist unkritisch,
 aber nicht heiß befüllen und nicht als Dauerlager nutzen.
+
+---
+
+# Statusupdate #2 — Montag, 14.09. (Einkauf + Material)
+
+Bilder: `Materialien_besorgung1–6.jpeg`, `Saftausbeute1–6.jpeg`
+
+## Gekauft / erhalten
+- ✅ **Deckel sind da** (~100 goldene Metall-Schraubverschlüsse)
+- **Schlauch:** nur Gardena-PVC aus dem Baumarkt bekommen, ~12 mm, 2,0 m
+  → ⚠️ nicht lebensmittelecht, nur als **kalt**-Abziehschlauch ok ([21](../21_Kaliumdisulfit_Schwamm_Schlauch.md))
+- ❌ **PP31,5 gestrichen** — Raiffeisen: nicht für Heißabfüllung geeignet.
+  Flaschen mit 31,5-mm-Mündung fallen als Lagerflaschen aus (oder gebrauchte Deckel
+  für „zuerst trinken")
+- **Getränkemarkt wenig ergiebig:** nur 13 Flaschen mitgenommen (Saftflaschen,
+  2 Kisten Wasser-Leergut, 1 Pélerino-Grünglas) → als Puffer ausreichend
+- **3 × 10 g Kaliumpyrosulfit (K₂S₂O₅)** — zum Reinigen + für frischen Most
+- **Scotch-Brite 2in1 Non-Scratch** — ✅ bedenkenlos auf Emaille
+
+## Auswertung / Anweisung
+→ **[21_Kaliumdisulfit_Schwamm_Schlauch.md](../21_Kaliumdisulfit_Schwamm_Schlauch.md)**
+
+Kernpunkte:
+- 🚨 **Sulfit stoppt KEINE laufende Gärung** → die gärende Charge wird **nur durch
+  Hitze** gerettet. Sulfit ist für **frischen Most vor der Gärung** (5–10 g/100 L)
+  und zum **Entkeimen** (20 g/1 L = 2 %).
+- Schwamm: Non-Scratch = kratzt nicht, weiche Seite reicht, danach ausspülen.
+- Gardena-Schlauch: kalt ok, nicht heiß, nicht Dauerlösung.
+
+## Kühlschrank-Bilder
+Die `Saftausbeute1–6` zeigen die Gefäße im Kühlschrank (klare Boxen mit dunklem
+Saft auf Holzlatten über schwarzer Wanne) — **der Upload ist also durchgekommen**,
+auch wenn er im UI als fehlend gemeldet wurde.
