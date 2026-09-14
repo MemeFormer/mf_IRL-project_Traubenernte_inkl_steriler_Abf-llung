@@ -218,6 +218,9 @@ Zellstruktur aufgebrochen ist. Das ist dein Ventil, falls das Wetter dir die Tag
 
 ## 8. Offene Punkte, die ich nicht prüfen kann
 
+> **Stand Mo nach Rückmeldung:** Punkte 1 und 4 sind geklärt, Gläser/Deckel teils —
+> siehe **[Abschnitt 9](#9-rückmeldung-montag--stand-der-offenen-punkte)**.
+
 - **Ist der Kühlschrank seit Sonntag nacht wieder an?** Falls nein: alles steht seit
   ~60 h warm, dann ist die Triage (Abschnitt 3) wichtiger als alles andere.
 - **Temperatur jetzt im Schrank** — ohne Thermometer weißt du nicht, ob die Gärung
@@ -242,3 +245,53 @@ Zellstruktur aufgebrochen ist. Das ist dein Ventil, falls das Wetter dir die Tag
   vollständige Gärung ~11 %vol
 - IKEA Produktseite SAMLA 22 l (Art. 694.408.22): **„Nicht für den Kontakt mit
   Lebensmitteln geeignet"**, Material Polypropylen, nur für Innenräume
+
+---
+
+## 9. Rückmeldung Montag — Stand der offenen Punkte
+
+### ✅ Kühlschrank läuft seit Sonntag nacht wieder
+Damit ist das warme Fenster **~48 h** (Freitag abend → Sonntag nacht), nicht mehr.
+Seitdem ~10–12 h wieder kühl. **Bei unter 10 °C läuft die Gärung stark gebremst,
+aber nicht gestoppt** — sie pausiert nur. Das ändert nichts am Plan: heute abkochen.
+
+**Thermometer:** nicht nur die Luft messen, sondern **ein Glas Wasser in den Schrank**
+stellen und darin messen — die Lufttemperatur schwankt beim Öffnen stark, und was zählt
+ist die Temperatur im Saft. Ziel ≤ 6 °C.
+
+### ✅ Kosten ohne Schlauch — du brauchst keinen
+Zum Abziehen von klarem Saft über dem Bodensatz ist ein Schlauch praktisch, **für die
+Triage nicht.** Der Befund sitzt oben:
+- Schaum/Hefedecke anschauen (cremig-weiß = Hefe, pelzig-farbig = Schimmel)
+- dann mit einem **sauberen Löffel oder Messbecher unter die Schaumschicht** tauchen
+  und einen Schluck probieren
+- Alternative: vorsichtig aus der Ecke in ein Glas gießen, ohne den Bodensatz aufzuwirbeln
+
+Ein **Lebensmittelschlauch** (z. B. klarer PVC-Schlauch aus dem Baumarkt, nur für
+Lebensmittel deklariert, oder ein Bierschlauch) ist trotzdem eine gute Anschaffung für
+später — aber er blockiert heute nichts.
+
+### ⚠️ „Gläser/Flaschen sind da" — passt der Deckel?
+Gute Nachricht für die ~20 L Übermenge. **Aber:** die bestellten Deckel sind
+**MCA28 (28-mm-Flaschenmündung)** — die passen **nicht** auf Einmachgläser.
+
+| Gefäß | Verschluss | Deckel beschaffen |
+|---|---|---|
+| Mineralwasser-/Saftflasche | MCA28 / PP28 | ✅ bestellt |
+| Weinflasche Schraub | BVS 30×60 | nur Alu, nur stehend |
+| **Twist-off-Glas** (Marmelade/Einmach) | **TO 48 / 63 / 82** — Zahl = Öffnung in mm | ⚠️ **separat**, passt nicht von der MCA28-Bestellung |
+| Weck-/Bügelglas | Gummiring + Klammer | nur **neue Gummiringe** |
+
+→ **Mündung der Gläser messen** (Außendurchmesser des Gewindes), dann TO-Deckel in der
+passenden mm-Zahl. **Alte, gebrauchte Twist-off-Deckel dichten bei Pasteurisation
+unzuverlässig** — Dichtungsrand prüfen, im Zweifel neu (billig).
+Referenz: [08_Gewindenormen_Referenz.md](08_Gewindenormen_Referenz.md),
+[03_Flaschentypen_Verschluss.md](03_Flaschentypen_Verschluss.md)
+
+### ⏳ Deckel: „jein"
+Versandbestätigung liegt vor, Paket noch nicht da. **Plan B falls sie heute nicht
+kommen:**
+1. **Bügel-/Weckgläser** mit neuen Gummiringen — brauchen keine Schraubdeckel
+2. Saft kühl stellen und **morgen** füllen — bei <10 °C verlierst du einen Tag,
+   keinen Saft
+3. **Nicht** auf alte, unbekannte Deckel ausweichen und hoffen
