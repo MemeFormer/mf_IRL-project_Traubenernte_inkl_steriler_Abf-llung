@@ -107,18 +107,47 @@ Für Saft: nur der **Edelstahltopf** oder der emaillierte Kessel.
 
 ## Deine Flaschenbilanz
 
-| Größe | Anzah| Volumen |
+⚠️ **ZWEITE KORREKTUR (14.09.):** Ich hatte hier zuerst behauptet, die 20 × 1,0 L
+Gerolsteiner seien PET und nicht pasteurisierbar. **Das war falsch.** Gerolsteiner
+führt die **1,0-Liter-Glas-Mehrwegflasche im 6er-Kasten seit 2010** — das Gebinde existiert
+in Glas *und* in PET. Deine Flaschen sind Glas. Ausschlaggebend ist ohnehin, was du in
+der Hand hast, nicht was der Brunnen sonst noch anbietet.
+
+**Stand: ausschließlich Glasware im Sortiment.**
+
+| Größe | Anzahl | Volumen |
 |---|---|---|
 | 1,0 L | 13 | 13,0 L |
 | 0,7 L | 17 | 11,9 L |
 | 0,5 L | 13 | 6,5 L |
 | 0,5 L Bügel (Flensburger) | 3 | 1,5 L |
-| **Summe** | **46** | **≈ 32,9 L** |
+| **Bestand (Fotoauswertung)** | **46** | **≈ 32,9 L** |
+| 1,0 L Gerolsteiner Glas (Zukauf) | 20 | 20,0 L |
+| **= heute verfügbar** | **66** | **≈ 52,9 L** |
+| + 30 × 0,7 L Glas (geplant) | 30 | +21,0 L |
+| **= nach Zukauf** | **96** | **≈ 73,9 L** |
 
-⭐ **Damit ist dein 30-L-Eigenanteil bereits vollständig abgedeckt.**
-Flaschen sind **kein Engpass mehr**. Alles Weitere ist Puffer.
+⭐ **Damit ist der Bedarf von ~53 L abfüllbarem Saft schon *ohne* den Händler-Zukauf
+gedeckt.** Die 30 zusätzlichen Flaschen sind echte Reserve für die zweite Erntehälfte.
+
+### 🔑 Die offene Frage ist nicht das Material, sondern die Mündung
+
+Die 20 × 1,0 L Gerolsteiner sehen aus wie 1-Liter-Saftflaschen. Bei deutschen
+1-Liter-Glas-Mehrwegflaschen sind **zwei Mündungen** üblich — und die entscheiden,
+welchen Deckel du brauchst:
+
+| Messung an der Glasmündung außen | System | Deckel |
+|---|---|---|
+| **~28 mm** | MCA28 / PP28 | ✅ hast du (100 Stück bestellt) |
+| **~31,5 mm** | **PP31,5** | ⚠️ Raiffeisen — **Anzahl vorher zählen!** |
+| ~30 mm + langer Hals | BVS 30×60 | nur Alu, nur stehend |
+
+🚨 **Bevor du zu Raiffeisen fährst: alle Flaschen mit „großem Deckel" zählen.**
+Eine „Handvoll" PP31,5-Deckel reicht nicht, wenn die 20 Gerolsteiner *plus* einige
+aus dem Bestand 31,5 mm haben — dann bist du bei 25–35 Stück. **Zählen + 20 % Reserve.**
 
 ✅ **Bestätigt: ausnahmslos Schraubgewinde, keine Kork-/Sektflaschen.**
+
 Alle 46 Flaschen sind verwendbar. Mix aus Teinacher (vermutl. MCA28),
 Weinflaschen (BVS 30×60) und wenigen Spirituosenflaschen (PP28).
 → Nur noch Stückzahlen je System ermitteln, siehe [10](10_Deckel_Bestellliste.md).

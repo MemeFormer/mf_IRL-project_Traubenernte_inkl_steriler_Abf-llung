@@ -25,9 +25,36 @@ du benutzt ihn bestimmungsgemäß.
 **Der E-Herd in der Scheune ist damit endgültig gestrichen.** Kein Elektriker,
 kein Termin, keine externe Abhängigkeit mehr. Das war die letzte.
 
-## Die zwei realistischen Betriebsmodi
+## ⭐ Entscheidung (14.09.): Modus B — Saft im Kessel, dann Hot Fill
 
-### Modus A: Kessel als Wasserbad-Pasteur (⭐ Empfehlung)
+Die frühere Empfehlung in diesem Dokument war Modus A (Wasserbad). **Die Entscheidung
+ist auf Modus B gefallen**, aus vier praktischen Gründen:
+
+| Argument | Wirkung |
+|---|---|
+| **Menge** | ~50 L Saft passen in **eine** Kesselladung. 66+ Flaschen passen **nicht** — das wären 2–3 Wasserbad-Ladungen |
+| **Handling** | Keine heißen, nassen Glasflaschen im Kessel einsetzen, halten, kippsicher stellen, wieder herausholen |
+| **Bruchrisiko** | Im Wasserbad steht empfindliches Glas in 80 °C heißem Wasser, das du bewegen musst. Bei Modus B bleibt das Glas draußen |
+| **Dauer** | Wasserbad braucht Zeit, bis der **Flaschenkern** Temperatur hat. Beim direkten Erhitzen ist der Saft selbst das Medium |
+
+**Beide Verfahren machen haltbar.** Der Unterschied ist die Haltbarkeitsdauer:
+
+| | Haltbarkeit | Aufwand |
+|---|---|---|
+| **Modus B — Hot Fill** (gewählt) | **10–12 Monate** | ⭐ eine Ladung, einfacher |
+| Modus A — Wasserbad | 12+ Monate | 2–3 Ladungen, mehr Handling |
+
+10–12 Monate ist für deinen Eigenbedarf **mehr als genug** — die Ernte ist nächstes
+Jahr im September wieder fällig.
+
+**Die beiden Bedingungen dafür:**
+1. 🚨 **Emaille absolut intakt** — laut [09](09_Bestandsaufnahme_Fotos.md) ist sie
+   „sehr gut, keine sichtbaren Abplatzer". ✅
+2. 🚨 **Saft vorher vom Hefesatz abziehen** — sonst brennt der Satz am Kesselboden an.
+   Das ist das eigentliche Risiko bei Modus B. Details und Temperaturprotokoll:
+   **[19_Kessel_Temperatursteuerung_Abfuellstation.md](19_Kessel_Temperatursteuerung_Abfuellstation.md)**
+
+### Referenz: Modus A (Wasserbad) — falls du später doch umsteigen willst
 Das ist der Modus, für den er gebaut wurde.
 
 1. Saft **warm** (60–70 °C) abfüllen — im Einkochtopf von Mutter oder im 2. Kessel

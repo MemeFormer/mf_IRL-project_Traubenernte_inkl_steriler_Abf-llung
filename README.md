@@ -23,8 +23,21 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 | [15_Verfahrensplan_final.md](docs/15_Verfahrensplan_final.md) | ⭐ **Der finale Ablauf.** Mühle + Presse + Entsafter parallel |
 | [16_Dampfentsafter_eigenes_Produkt.md](docs/16_Dampfentsafter_eigenes_Produkt.md) | Dampfsaft als zweites, eigenständiges Produkt |
 | [17_Entblaettern_Bewertung.md](docs/17_Entblaettern_Bewertung.md) | 🚨 Folgen der Entblätterung — **jetzt ernten, nicht warten** |
+| [18_Kühlpanne_Gärung_Notfall.md](docs/18_Kühlpanne_Gärung_Notfall.md) | 🚨 **AKTUELL.** Kühlschrank war 48 h aus — der Saft gärt. Triage + Rettungsplan |
+| [19_Kessel_Temperatursteuerung_Abfuellstation.md](docs/19_Kessel_Temperatursteuerung_Abfuellstation.md) | ⭐ **Anheizphase ohne Angst.** Überschwinger berechnet + die 5 Bremsen + warum Wasserbad = kein Zeitdruck |
+| [20_Einkauf_heute.md](docs/20_Einkauf_heute.md) | 🛒 Baumarkt / Getränkehändler / Raiffeisen — Schlauchmaß, MCA28-Satz, PP31,5-Kriterien |
+| [21_Kaliumdisulfit_Schwamm_Schlauch.md](docs/21_Kaliumdisulfit_Schwamm_Schlauch.md) | 🧪 Sulfit-Anleitung (stoppt keine laufende Gärung!), Schwamm-Freigabe, Gardena-Schlauch-Bewertung |
+| [bilder/statusupdate.md](docs/bilder/statusupdate.md) | Laufendes Erntelogbuch (Mengen, Probleme, Tagesstand) |
 
 ## ⚠️ Aktueller Stand (nach Fotoauswertung)
+
+> 🚨 **Mo 14.09. — AKUT:** Kühlschrank war ~48 h aus (Kippschalter), der Saft gärt
+> leicht. **Kein Totalverlust**, aber heute abkochen. Triage, Mengentabelle und
+> Ablauf: **[docs/18_Kühlpanne_Gärung_Notfall.md](docs/18_Kühlpanne_Gärung_Notfall.md)**
+> ✅ Mengenmäßig kein Problem: **~53 L abfüllbarer Saft, ~52,9 L Glasflaschen**
+> (46 Bestand + 20 × 1 L Gerolsteiner **Glas**) — die 30 neuen sind Reserve.
+> 🔑 **Offen: Mündung messen** (28 mm = MCA28 ✅ / 31,5 mm = PP31,5 → Stückzahl zählen!)
+> ⚠️ **SAMLA-Boxen sind laut IKEA nicht lebensmittelecht.**
 
 - ✅ **Schlachtkessel: einsatzbereit.** Emaille intakt, ~110–125 L, 35–45 Flaschen/Ladung
 - ✅ **Flaschen: 46 Stück ≈ 33 L** — Eigenbedarf gedeckt, kein Engpass mehr
@@ -46,8 +59,8 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 ## TL;DR
 
 1. **Nicht sterilisieren — pasteurisieren.** Traubensaft ist sauer (pH < 4), da reichen 80 °C.
-2. **Reihenfolge umdrehen:** sauber+heiß abfüllen → verschließen → *dann* erhitzen.
-   Damit entfällt das Problem der keimfreien Lagerung komplett.
+2. **Reihenfolge umdrehen:** sauber + heiß abfüllen → verschließen. Damit entfällt das
+   Problem der keimfreien Lagerung komplett.
 3. **Spülmaschine (70 °C) + Backofen (110 °C)** sind deine Hauptwerkzeuge. Mikrowelle: vergiss es.
 4. **Deine Kühlschränke sind kein Notfallplan, sondern der Hauptplan** — sie kaufen dir
    48–72 h Zeit und klären den Saft nebenbei.
@@ -57,6 +70,22 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
    Weinflaschen (BVS) sind zweite Wahl — nur Alu-Verschluss, nur stehend.
 7. **Mutters Einkochtopf** (passiv, Ceranfeld) liefert den **Ablasshahn** = Abfüllstation.
    Temperatur musst du selbst regeln → Thermometer ist Pflicht.
-8. ⭐ **Die alten Schlachtkessel sind das wichtigste Gerät überhaupt.** 40–80 Flaschen
-   Wasserbad pro Ladung, holzbefeuert, autark im Hof. Damit ist Pasteurisieren kein
-   Engpass mehr, der E-Herd ist gestrichen, und 12+ Monate Haltbarkeit werden Standard.
+8. ⭐ **Verfahren entschieden: Saft komplett im Kessel erhitzen, dann Hot Fill** (Modus B).
+   Eine Ladung Saft statt 2–3 Ladungen Flaschen im Wasserbad. **Haltbarkeit 10–12 Monate**
+   statt 12+ — für den Eigenbedarf mehr als genug. Begründung:
+   [docs/07](docs/07_Schlachtkessel.md)
+9. 🚨 **Vorher vom Hefesatz abziehen.** Holzfeuer direkt unter der Emaille + Trub am
+   Boden = der Satz brennt an und gibt einen bitter-röstigen Ton an die ganze Charge ab.
+10. ⭐ **Der Kessel ist träge — und genau das macht ihn steuerbar.** 50 L Saft = 209 kJ/K,
+    bei reiner Glut nur 1,4 K/min. Protokoll: ab 60 °C kein Holz mehr, bei 80 °C Glut raus
+    → kriecht auf 83–86 °C. **Zielband 82–86 °C, hartes Limit 90 °C** (Kochgeschmack).
+    **Notbremse: kalten Saft nachgießen** (−7,5 K pro 5 L, ohne Thermoschock, ohne Verdünnung).
+    Details: [docs/19](docs/19_Kessel_Temperatursteuerung_Abfuellstation.md)
+11. ⭐ **Beim Abfüllen gibt es keinen Wettlauf.** Dein Umfüllgefäß (4,5 L) hält 85→80 °C
+    für **8–20 min**, der Kessel ist das Nachheiz-Reservoir. Der eigentliche Trick:
+    **Deckel 5 min auskochen** und im heißen Wasser liegen lassen — dann ist die
+    Deckelentkeimung vom Tempo entkoppelt. **Randvoll füllen** (Gegenteil vom Wasserbad),
+    2–3 min kopfüber — **außer BVS-Weinflaschen**.
+12. ⭐ **Die alten Schlachtkessel sind das wichtigste Gerät überhaupt.** 110–125 L,
+    holzbefeuert, autark im Hof. Damit ist Pasteurisieren kein Engpass mehr und der
+    E-Herd ist gestrichen.

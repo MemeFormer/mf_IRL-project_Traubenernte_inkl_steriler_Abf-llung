@@ -49,3 +49,83 @@ Flaschenhälse mit alufolie umwickel das nix rein kommt
 | FREITAG | | | |
 | SAMSTAG | | | |
 | SONNTAG | | | |
+
+---
+
+# Statusupdate Montag, 14.09. — Kühlpanne
+
+## Was passiert ist
+Beim Volladen des Kühlschranks **Freitag abend** versehentlich den **Kippschalter im
+Innenraum** betätigt → Schrank war aus. Bemerkt **Sonntag nacht**, weil bei der
+Tupperdose oben Saft rausgedrückt war.
+
+## Befund
+- ~**48 h ohne Kühlung**
+- Behälter (ältere Charge, stand **oben**) drückt Saft raus, **Schaumschicht** sichtbar
+- **Geruch noch nach Traubensaft**, kein Essig
+- Neuere Charge stand unten, ältere oben
+
+## Bestand Saft (ungefähr)
+| Behälter | Menge |
+|---|---|
+| SAMLA 22 l, Füllstand 21 cm | ~22 L |
+| SAMLA 22 l, fast voll | ~25–27 L |
+| Tupperdose lang | ~4 L |
+| 2 kleine Vierkant, ~70 % | ~2,5 L |
+| Meerretticheimer 2,5 kg | ~2,5 L |
+| **Summe** | **~57 L** → abzügl. Trub **~51–53 L** |
+
+✅ **Flaschenkapazität reicht: 52,9 L Glas** (46 Bestand + 20 × 1 L Gerolsteiner **Glas**)
+gegen ~53 L abfüllbaren Saft. Alles Glas, kein PET. Die 30 neuen = Reserve.
+🔑 **Zu klären: Mündung 28 mm (MCA28) oder 31,5 mm (PP31,5)?** → Stückzahl vor dem Kauf zählen.
+
+## Stand der Ernte
+- gut die **Hälfte** abgeerntet, Rest hängt noch am Stock
+- am Wochenende mehrfach kurzer **Regen** → Beeren müssen jetzt dringend runter
+- Sa + So **nicht weitergearbeitet** (Erschöpfung, Kühlschrank voll)
+- **Deckel sollen heute (Mo) kommen** → Abkochen + Abfüllen heute geplant
+
+## Bewertung + Plan
+→ **[18_Kühlpanne_Gärung_Notfall.md](../18_Kühlpanne_Gärung_Notfall.md)**
+
+Kurzfassung: **kein Totalverlust.** Gärung hat gerade erst begonnen (~1–3 %vol),
+Abkochen auf 80 °C stoppt sie. Gärenden und frischen Saft bis zum Erhitzen getrennt
+halten, **mischen ist danach unbedenklich**. Zweite Erntehälfte über den
+Dampfentsafter statt über die Pressen-Linie — der braucht keinen Kühlschrank-Puffer.
+
+⚠️ Neu entdeckt: **SAMLA ist laut IKEA nicht für Lebensmittel freigegeben**
+(„Nicht für den Kontakt mit Lebensmitteln geeignet"). Kalt + kurz ist unkritisch,
+aber nicht heiß befüllen und nicht als Dauerlager nutzen.
+
+---
+
+# Statusupdate #2 — Montag, 14.09. (Einkauf + Material)
+
+Bilder: `Materialien_besorgung1–6.jpeg`, `Saftausbeute1–6.jpeg`
+
+## Gekauft / erhalten
+- ✅ **Deckel sind da** (~100 goldene Metall-Schraubverschlüsse)
+- **Schlauch:** nur Gardena-PVC aus dem Baumarkt bekommen, ~12 mm, 2,0 m
+  → ⚠️ nicht lebensmittelecht, nur als **kalt**-Abziehschlauch ok ([21](../21_Kaliumdisulfit_Schwamm_Schlauch.md))
+- ❌ **PP31,5 gestrichen** — Raiffeisen: nicht für Heißabfüllung geeignet.
+  Flaschen mit 31,5-mm-Mündung fallen als Lagerflaschen aus (oder gebrauchte Deckel
+  für „zuerst trinken")
+- **Getränkemarkt wenig ergiebig:** nur 13 Flaschen mitgenommen (Saftflaschen,
+  2 Kisten Wasser-Leergut, 1 Pélerino-Grünglas) → als Puffer ausreichend
+- **3 × 10 g Kaliumpyrosulfit (K₂S₂O₅)** — zum Reinigen + für frischen Most
+- **Scotch-Brite 2in1 Non-Scratch** — ✅ bedenkenlos auf Emaille
+
+## Auswertung / Anweisung
+→ **[21_Kaliumdisulfit_Schwamm_Schlauch.md](../21_Kaliumdisulfit_Schwamm_Schlauch.md)**
+
+Kernpunkte:
+- 🚨 **Sulfit stoppt KEINE laufende Gärung** → die gärende Charge wird **nur durch
+  Hitze** gerettet. Sulfit ist für **frischen Most vor der Gärung** (5–10 g/100 L)
+  und zum **Entkeimen** (20 g/1 L = 2 %).
+- Schwamm: Non-Scratch = kratzt nicht, weiche Seite reicht, danach ausspülen.
+- Gardena-Schlauch: kalt ok, nicht heiß, nicht Dauerlösung.
+
+## Kühlschrank-Bilder
+Die `Saftausbeute1–6` zeigen die Gefäße im Kühlschrank (klare Boxen mit dunklem
+Saft auf Holzlatten über schwarzer Wanne) — **der Upload ist also durchgekommen**,
+auch wenn er im UI als fehlend gemeldet wurde.
