@@ -129,3 +129,53 @@ Kernpunkte:
 Die `Saftausbeute1–6` zeigen die Gefäße im Kühlschrank (klare Boxen mit dunklem
 Saft auf Holzlatten über schwarzer Wanne) — **der Upload ist also durchgekommen**,
 auch wenn er im UI als fehlend gemeldet wurde.
+
+---
+
+# Statusupdate #3 — Dienstag, 15.09. — Füllaktion #1 abgeschlossen 🏁
+
+Bilder: `Etappensieg_Abfüllung.pdf` (5 Seiten) → als `Etappensieg1_seite1–5.jpg` extrahiert.
+Auswertung, Zahlen, Korrekturen: **[22_Fuellaktion1_Abschlussbericht.md](../22_Fuellaktion1_Abschlussbericht.md)**
+
+## Ergebnis
+- ✅ **Komplette Saftmenge ist in Flaschen** — ~40 Flaschen, gemischte Formate, dunkles Glas,
+  randvoll, Kappen zu, im Keller in Kisten gestellt
+- ✅ **Pasteurisation erreicht:** Topf im Wasserbad, ~80 °C, **33 min gehalten**, vorher mehrfach
+  umgerührt. Deutlich über dem Referenzwert aus [18](../18_Kühlpanne_Gärung_Notfall.md)
+  (80 °C / 2 min + 20 min über 70 °C)
+- ✅ Nachheizen der letzten Liter auf **83 °C** auf der Induktionsplatte + kopfüber = korrekt
+  (Temperatur + gebrauchte Deckel waren sonst ein zu hohes Restrisiko)
+- 🚨 Rest im Kühlschrank (kleiner Überstand) → **innerhalb 48 h** in eine verheiratete
+  Flasche mit neuer Kappe, sonst einfrieren
+- ⏱️ **Dauer: nachmittags bis ~02:00 Uhr.** Bewertung: Produkt gut, Ablauf schlecht —
+  ~5 h davon waren Planungs-/Ausrüstungsprobleme, kein Saftproblem
+
+## 🚨 Der Befund, der für die nächsten Jahre zählt
+**Emaille im unteren Bereich des Kessels nicht vollflächig intakt.**
+→ **Modus B (Saft direkt im Kessel) gesperrt.** Kessel nur noch als **Wasserbad / Heißwasser**.
+Prüfauftrag (Markieren, Foto, Material der Ersatz-Einlagen) steht in [22](../22_Fuellaktion1_Abschlussbericht.md), Abschnitt 1.
+Betroffene Docs korrigiert: [07](../07_Schlachtkessel.md), [09](../09_Bestandsaufnahme_Fotos.md), [19](../19_Kessel_Temperatursteuerung_Abfuellstation.md).
+
+## Was wehgetan hat (und wie es abgestellt wird)
+| Problem | Ursache | Maßnahme |
+|---|---|---|
+| Schlauch „reinste Katastrophe" | Memory-Form von der Rolle, kein Saugfuß, kein Führungsrohr | **Schwimmsauger** bauen + lebensmittelechter 8-mm-Schlauch bzw. Silikon; Start mit Wasserpfropf statt Mundsaugen |
+| Feuer #1 durchgebrannt | angezündet, bevor das Bad bestückbar war | **Feuer zum Bad, nicht zum Prozess** — 75–90 min Aufheizfenster für alles andere nutzen |
+| Topf fast übergelaufen, Kessel in der heißen Phase angehoben | Topf fasst nur ~28–33 L, Charge war größer | **4/5-Regel**, zweiter Topf, Standplatz **vorher** nicht-brennbar ausrichten 🚨 (kein Holz unterm Feuer) |
+| Temperaturkurve fremd | Kennlinie „Topf im Bad" nie gemessen | eigene Kurve aufnehmen; Rühren = Haupthebel; Badende = 100 °C = **Überschwinger unmöglich** |
+| Deckelchaos beim Abfüllen | Flaschen/Kappen nicht sortiert, PP31,5 + „komische" Weinflaschen (ROPP) | **„Verheiraten"-Regel** beim Waschen + 100 × MCA28 (≈6 €) |
+
+## Erntestand
+- **Erste Hälfte: verarbeitet und im Keller.** Zweite Hälfte hängt noch am Stock
+  ([17](../17_Entblaettern_Bewertung.md): ohne Laub kein Zuckerzuwachs, Regenrisiko)
+- **Weg für den Rest:** Dampfentsafter-Straße ([16](../16_Dampfentsafter_eigenes_Produkt.md)) —
+  kein Bad, kein Topf, kein Nachheizen, Saft kommt heiß raus
+- ⚠️ **Keine Nachtschicht mehr:** 23:00-Regel — Rest in den Kühlschrank, fertig am nächsten Morgen
+
+## Nachtragen (Zahlen fehlen im Status)
+| Posten | Wert |
+|---|---|
+| Flaschen 0,7 L / 1,0 L / andere | ___ / ___ / ___ |
+| Liter abgefüllt | ___ L |
+| Topf-Innenmaß → max. Chargenvolumen | ___ × ___ cm → ___ L |
+| Kappen: neu / gebraucht / gemischt | ___ / ___ / ___ |

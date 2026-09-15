@@ -45,7 +45,7 @@ siehe [11](11_Presse_und_Entsafter.md).
 
 | Merkmal | Befund |
 |---|---|
-| **Emaille innen** | ⭐ **Sehr gut.** Gleichmäßig, keine sichtbaren Abplatzer oder Rostnarben |
+| **Emaille innen** | ⭐ **Sehr gut.** Gleichmäßig, keine sichtbaren Abplatzer oder Rostnarben<br>🚨 **15.09. WIDERRUFEN** — bei der Endreinigung vor dem Erhitzen war die Beschichtung **im unteren Bereich nicht vollflächig**. Siehe [22](22_Fuellaktion1_Abschlussbericht.md) |
 | Innendurchmesser | **~59–60 cm** (Zollstock IMG_4881) |
 | Innentiefe | **~40–45 cm** (IMG_4883) |
 | **Nutzvolumen** | **≈ 110–125 Liter** |
@@ -55,8 +55,17 @@ siehe [11](11_Presse_und_Entsafter.md).
 | Ablasshahn | ✅ unten sichtbar (IMG_4886) |
 | Außenrost | nur kosmetisch am Blechmantel — **irrelevant** |
 
-**Der Kessel ist einsatzbereit.** Emaille intakt heißt: du könntest sogar Saft
-direkt darin erhitzen. Für Wasserbad-Pasteurisation sowieso perfekt.
+**Der Kessel ist einsatzbereit** — **für Wasserbad und Heißwasser.** ⚠️ Nach dem Emaille-Befund
+vom 15.09. gilt **nicht** mehr, was hier ursprünglich stand: „Emaille intakt heißt: du könntest
+sogar Saft direkt darin erhitzen" → **gesperrt**, Details [22](22_Fuellaktion1_Abschlussbericht.md).
+Für Wasserbad-Pasteurisation ist er unverändert perfekt (und jetzt das Standardverfahren).
+
+> **Warum die Foto-Bewertung falsch sein musste:** beide Kesselbilder (`IMG_4881`, `IMG_4883`)
+> zeigen den Innenraum **bis zum Rand mit Wasser gefüllt** — der Boden, um den es geht, war auf
+> keinem Foto sichtbar, und das matte, teils hell gesprenkelte Bild der Innenwand oberhalb der
+> Wasserlinie hat mehr hergegeben als „keine Abplatzer". **Lehre: Emaille-Diagnose nur trocken,
+> mit Taschenlampe, und immer mit Blick auf die untersten 5 cm.
+> Ein Foto von der Innenwand reicht nicht — der Boden ist der kritische Punkt.**
 
 ### Kapazität Wasserbad
 Bei ~59 cm Innendurchmesser und Flaschen à ~8 cm Ø:

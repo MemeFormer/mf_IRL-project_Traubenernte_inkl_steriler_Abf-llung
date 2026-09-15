@@ -100,6 +100,34 @@ sowieso welche hast, und dann stehend im Wasserbad.
 
 ---
 
+## 4. 🚨 „Lässt sich andrehen, aber nicht zumachen" — die ROPP-Falle
+
+**Neu nach Füllaktion #1 (15.09.):** du hattest auf einmal Weinflaschen im Bestand, deren
+Gewinde sich **von der Größe her passte**, die sich ein paar Gänge aufdrehen ließen — und die
+dann nicht dicht zu bekamen. Das ist kein Zufall und kein Fertigungsfehler deiner Deckel, sondern
+eine vierte Familie, die in der 28-mm-Welt herumläuft:
+
+| | **Twist-off / MCA-Familie** (EN 17829) | 🚨 **ROPP = Anrollgewinde** |
+|---|---|---|
+| Glasgewinde | **mehrere Gänge**, beginnt direkt unter dem Rand, fertig ausgebildet | **1 flacher Gang** oder nur ein Wulst — das Gewinde entsteht erst beim **Anrollen** |
+| Kappe ab Werk | vorgewalzter Handverschluss (Metall oder Kunststoff) | Alu-**Rohling**, der maschinell über die Flasche gewalzt wird (Achslast + Radialkraft) |
+| Von Hand zudrehbar | ✅ | ❌ — setzt sich nach 1–3 Gängen fest, dichtet nie |
+| Heißabfüllung | ✅ mit passendem Deckel | ❌ |
+| Wo du sie findest | Wasser-/Saft-/Mostflaschen | **sehr viele Wein-, Sekt- und Ölflaschen** |
+
+Der Grund steht sinngemäß in deiner Recherche
+([Research_Task_Schraubverschluss.md](Research_Task_Schraubverschluss.md), Abschnitt 2):
+*„A ROPP closure begins as an aluminium shell … rollers press the shell over the bottle finish,
+form the thread directly against the glass thread"* — die Glasform ist **Dorn und Gewindelehrdorn
+in einem**. Eine vorgewalzte Kappe findet dort kein Gewinde vor, sie findet nur eine Kontur vor,
+gegen die sie verformt wurde. Deswegen: **andrehen ja, zudrehen nein.**
+
+**Konsequenz als Regel (nicht in der Abfüllnacht, sondern beim Einräumen):**
+
+> **Flasche und Kappe werden verheiratet.** Beim Waschen bekommt jede Flasche ihre passende
+> Kappe **handfest bis zum Anschlag** drauf und bleibt damit liegen. Wer nicht sauber zugeht,
+> wandert in die **„diese Woche trinken"-Kiste**. Beim Abfüllen wird nichts mehr probiert.
+
 ## Übersicht: was passt worauf
 
 | Flasche | Mündung | Passender Deckel | Hot Fill | Kopfüber |
@@ -109,10 +137,30 @@ sowieso welche hast, und dann stehend im Wasserbad.
 | Weinflasche Schraub | BVS 30×60 | **BVS Alu + Zinn-Saran** | ✅ ≤90 °C | ❌ nur stehend |
 | Weinflasche Kork | — | — | ❌ | ❌ |
 | Twist-Off-Glas | TO 48 / TO 63 / TO 82 | TO in passender mm-Zahl | ✅ | ✅ |
-| Bügelflasche | — | Gummidichtung erneuern | ✅ | ✅ |
+| Bügelflasche | — | Gummidichtung erneuern | ⚠️ **schlechteste Wahl** | ❌ Druck hebt den Stopper, beim Abkühlen zieht die Bügel-Dichtung Luft |
+| 🚨 Anroll-/ROPP-Flasche (viele Wein-/Ölflaschen) | 1 flacher Gang / Wulst | vorgewalzte Kappe **passt nicht** | ❌ | ❌ |
 
 **Twist-Off (TO):** Zahl = Öffnungsdurchmesser in mm. TO82 = 82 mm.
 Einfach mit dem Lineal über die Glasöffnung messen — das ist die Größe.
+
+> ⚠️ **Korrektur nach Füllaktion #1:** Bügelflaschen waren hier als „✅ heiß, ✅ kopfüber"
+> freigegeben. In der Praxis (du hattest eine befüllt, Foto
+> [seite3](bilder/Etappensieg1_seite3.jpg)) ist das der schwächste Verschluss im Haus: beim
+> Ausdehnen des heißen Safts hebt der Überdruck den Porzellanstopper, beim Abkühlen zieht die
+> Gummidichtung Luft zurück. **Wenn überhaupt: nur bis zur Schulter füllen (Kopfraum lassen),
+> neue Dichtung, nicht kopfüber, Kühlschrank, 2–3 Wochen trinken.**
+
+### Der 4-Schritte-Feldtest (30 Sekunden pro Flasche — **vor** der Charge, nicht dabei)
+
+1. **Mündung Außendurchmesser** mit Messschieber: 28 mm ±0,3 → MCA-Familie;
+   30–31,5 mm → für Heißabfüllung ausgeschlossen ([20](20_Einkauf_heute.md))
+2. **Fingernagel-Test am Gewinde:** beginnt es **direkt unter dem Rand** und hat **≥1,5 Gänge**?
+   → twist-off-fähig. Nur ein Wulst oder ein flacher Gang → 🚨 **ROPP, aussortieren**
+3. **Kappe:** Dichtung **verankert** (MCA) ✅ / **lose Einlagescheibe** (PP, Weißblech) ⚠️ einmal
+   verwenden oder wegwerfen
+4. **Zu-Test:** passende Kappe handfest zudrehen. Sie muss **am Anschlag** stehen und plan auf dem
+   Rand sitzen. Blockiert sie vorher, dreht sie durch, oder steht sie schräg →
+   **Flasche in die „diese Woche trinken"-Kiste**
 
 ---
 

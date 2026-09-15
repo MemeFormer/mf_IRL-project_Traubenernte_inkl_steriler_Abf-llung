@@ -25,7 +25,21 @@ du benutzt ihn bestimmungsgemäß.
 **Der E-Herd in der Scheune ist damit endgültig gestrichen.** Kein Elektriker,
 kein Termin, keine externe Abhängigkeit mehr. Das war die letzte.
 
-## ⭐ Entscheidung (14.09.): Modus B — Saft im Kessel, dann Hot Fill
+## 🚨 Korrektur 15.09. — Modus B ist gesperrt (Emaille-Befund)
+
+> Bei der **Endreinigung vor dem Erhitzen** am 14./15.09. war die Emaille im unteren Bereich
+> **nicht vollflächig vorhanden**. Damit ist Bedingung 1 weiter unten **nicht erfüllt** — und sie
+> war als harte Bedingung geschrieben.
+>
+> **Freigabe ab sofort:**
+> - ✅ Kessel als **Wasserbad** (Topf oder Flaschen im Einsatz), Heißwasser, Deckel auskochen, Reinigen
+> - ❌ **kein** Saft, keine Maische, kein säurehaltiges Gut direkt in der emaillierten Schüssel —
+>   bis eine **Edelstahl-Ersatz-Einlage** verifiziert ist
+>
+> Abschlussbericht mit allen Korrekturen:
+> **[22_Fuellaktion1_Abschlussbericht.md](22_Fuellaktion1_Abschlussbericht.md)**, Abschnitt 1.
+
+## ⭐ Entscheidung (14.09.): Modus B — Saft im Kessel, dann Hot Fill — ⚠️ von 15.09. überstimmt
 
 Die frühere Empfehlung in diesem Dokument war Modus A (Wasserbad). **Die Entscheidung
 ist auf Modus B gefallen**, aus vier praktischen Gründen:
@@ -49,13 +63,32 @@ Jahr im September wieder fällig.
 
 **Die beiden Bedingungen dafür:**
 1. 🚨 **Emaille absolut intakt** — laut [09](09_Bestandsaufnahme_Fotos.md) ist sie
-   „sehr gut, keine sichtbaren Abplatzer". ✅
+   „sehr gut, keine sichtbaren Abplatzer". **❌ WIDERRUFEN (15.09.):** bei der Endreinigung war
+   die Beschichtung im unteren Bereich nicht vollflächig vorhanden. Fürs Wasserbad unkritisch
+   (nur Wasser am Blech), für Modus B **hart gesperrt**.
 2. 🚨 **Saft vorher vom Hefesatz abziehen** — sonst brennt der Satz am Kesselboden an.
    Das ist das eigentliche Risiko bei Modus B. Details und Temperaturprotokoll:
    **[19_Kessel_Temperatursteuerung_Abfuellstation.md](19_Kessel_Temperatursteuerung_Abfuellstation.md)**
 
-### Referenz: Modus A (Wasserbad) — falls du später doch umsteigen willst
-Das ist der Modus, für den er gebaut wurde.
+### ⭐ Stand nach Füllaktion #1 (15.09.): **Modus A ist dein Verfahren**
+
+Nach dem Emaille-Befund bleibt das Wasserbad — und der Praxisabend hat gezeigt, dass Modus A
+sogar der robustere Weg ist: **kein Zeitdruck beim Abfüllen** (60–70 °C reichen zum Füllen, das
+Bad macht die Arbeit), kein Anbrennen, kein randvoller Topf, keine Deckel-Hektik — dafür die
+**längste Haltbarkeit**. Was du stattdessen gefahren bist („Topf im Bad"), ist die Hybridform mit
+den Nachteilen beider Welten: Trägheit des Bads **und** Hot-Fill-Tempo beim Füllen.
+Analyse und Zeitbedarf: [22, Abschnitt 4 + 10](22_Fuellaktion1_Abschlussbericht.md).
+
+### ⭐ Modus A (Wasserbad) — so geht es richtig
+Das ist der Modus, für den er gebaut wurde. Zwei Punkte aus der Praxis dazu:
+
+- **Haltezeit am Kältestpunkt starten**, nicht am Bad: Kern der Flasche in Ladungsmitte
+  (Kontrollflasche mit Sonde) bzw. Mitte des Topfinhalts. Das Bad darf ruhig 95–100 °C haben —
+  höher kann es nicht werden, deshalb ist **Überhitzen hier nicht das Risiko** (Gegenteil von
+  Modus B, [19](19_Kessel_Temperatursteuerung_Abfuellstation.md)).
+- **Vorlauf einplanen:** ~30 L brauchen im Bad **75–90 min**, nicht ~20 min wie beim reinen
+  Wassertest — begrenzt durch die Naturkonvektion im Gut, nicht durchs Feuer. Umrühren halbiert
+  die Zeit. Rechnung: [22, Abschnitt 4](22_Fuellaktion1_Abschlussbericht.md).
 
 1. Saft **warm** (60–70 °C) abfüllen — im Einkochtopf von Mutter oder im 2. Kessel
 2. Flaschen verschließen

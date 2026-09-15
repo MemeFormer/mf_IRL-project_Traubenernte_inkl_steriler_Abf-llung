@@ -1,5 +1,12 @@
 # 🚨 Notfall: Kühlschrank war aus — der Saft gärt
 
+> ✅ **ERLEDIGT (15.09.)** — der Plan aus diesem Dokument ist aufgegangen: Charge abgezogen,
+> filtriert, **33 min bei ~80 °C im Wasserbad** gehalten, abgefüllt. Ergebnis, Restrisiken und
+> der Prüfplan für die nächsten 30 Tage:
+> **[22_Fuellaktion1_Abschlussbericht.md](22_Fuellaktion1_Abschlussbericht.md)** (Abschnitt 6).
+> **Dauerhaft gültig aus diesem Doc: die Kost-und-Trenn-Regel (Abschnitt 7) und die
+> Sulfit-/Hitzegrundlagen** — alles andere ist Archiv.
+
 **Stand: Montag Vormittag.** Ausgelöst durch den Kippschalter im Innenraum,
 betätigt beim Einräumen Freitag abend, bemerkt Sonntag nacht → **~48 h ohne Kühlung.**
 

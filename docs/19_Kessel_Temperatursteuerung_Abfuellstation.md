@@ -3,10 +3,32 @@
 Zwei Sorgen, beide berechtigt. Die eine löst sich durch Rechnen, die andere durch
 einen Trick, den du noch nicht auf dem Zettel hast.
 
+> 🚨 **GELTUNGSBEREICH (nach Aktion #1, 15.09.)**
+>
+> Alles auf dieser Seite — „ab 60 °C kein Holz mehr", „bei 80 °C Glut raus",
+> „Überschwinger ist das größere Risiko", „kalter Saft als Notbremse" — gilt **nur für
+> Modus B: Saft direkt im Kessel**.
+>
+> **Modus B ist seit dem Emaille-Befund gesperrt** ([07](07_Schlachtkessel.md)).
+> Für das **Wasserbad** (Topf oder Flaschen im Bad) ist die Regelung **genau umgekehrt**:
+>
+> | | Modus B (Saft direkt im Kessel) | Wasserbad |
+> |---|---|---|
+> | Gefahr | Überschwinger | **Unterschwinger** |
+> | Obergrenze | offen (Feuer) | **durchs Bad bei 100 °C gedeckelt** |
+> | bei 75 °C | nur noch Glut | **Holz nachlegen ist richtig** |
+> | Haltezeit startet | im Saft | **am Kältestpunkt des Guts**, nicht im Bad |
+> | Glut raus | bei 80 °C | erst nach der Haltezeit, bei **80–82 °C im Topfkern** |
+>
+> Warum das Bad so träge ist (Zahlen, Rühren als Haupthebel, eigene Kennlinie aufnehmen):
+> **[22_Fuellaktion1_Abschlussbericht.md](22_Fuellaktion1_Abschlussbericht.md), Abschnitt 4.**
+> Dass du 19 in der Nacht über den Haufen geworfen hast, war korrekt.
+
 > **Verfahren, um das es hier geht:** Saft komplett in der emaillierten Einlage des
 > Schlachtkessels erhitzen → **heiß abfüllen (Hot Fill)** → 2–3 min kopfüber.
 > Nicht das Wasserbad-Verfahren. Begründung in
 > [07_Schlachtkessel.md](07_Schlachtkessel.md), Abschnitt „Entscheidung Modus B".
+> ⚠️ Verfahren seit 15.09. überstimmt, siehe Geltungsbereich oben.
 
 ---
 
