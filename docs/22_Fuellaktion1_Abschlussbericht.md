@@ -723,8 +723,8 @@ dichter, aber die *Änderung* mit der Temperatur ist fast gleich — der Zucker 
 Bei einer randvoll gefüllten **0,7-L-Flasche** sind 2,6 % = **18–19 mL**, bei 1 L = **26–27 mL**.
 Der Flaschenhals hat nur ~2 cm² Querschnitt (16 mm Lichtung), also sind 19 mL **≈ 9,5 cm
 Spiegelabsenkung** gemessen von der Kappenunterseite aus — und weil der Hals nach unten breiter
-wird, landet der Spiegel real **6–10 cm** tief, oft genau an der Schulter. **Genau das „ziemlich
-viel Leerraum", das dich gewundert hat**, und bei einer 1-L-Flasche entsprechend noch mehr.** **Der Effekt ist also erwartet und dein Füllen war offensichtlich
+wird, landet der Spiegel real **6–10 cm** tief, oft genau an der Schulter. Genau das „ziemlich viel
+Leerraum", das dich gewundert hat — bei einer 1-L-Flasche entsprechend noch mehr. **Der Effekt ist also erwartet und dein Füllen war offensichtlich
 heiß. Er beweist es aber nicht:** Schaum, der nach dem Verschließen zusammenfällt, und der Überlauf
 beim Zudrehen einer bis über das Gewinde vollen Flasche sind dieselbe Größenordnung. Zwei
 Gegeneffekte, eine Messgröße → als Temperaturbeweis untauglich, als „Füllstand ist ok"-Befund
