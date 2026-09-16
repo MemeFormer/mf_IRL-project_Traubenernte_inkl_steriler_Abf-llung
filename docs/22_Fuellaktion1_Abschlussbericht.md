@@ -557,6 +557,18 @@ sondern aus deinem Bauch kamen:
    mit den Fingerspitzen gefasst, und das Gewicht für den Topf-Auftrieb hygienisch in einem
    zugedeckten Induktionstopf versteckt. Kleinigkeiten, aber sie zeigen: das Hygiene-Denken
    hat funktioniert, der Prozess drumherum nicht.
+6. ⭐ **Zwei Dinge, die du richtig entschieden hast, ohne nachzuschlagen** (und die meine
+   Modellrechnung widerlegt haben):
+   - Den **Riesen-Topf im Bad stehen lassen** und **beide Deckel** drauf (Topf + Kessel) —
+     genau das, was die Kette warm hält. Ich hatte „rauskühlen" unterstellt; real war der Topf
+     die **stabilste** Stufe deiner Kette (≈0,1 K/min, und während das Feuer noch glüht: keine
+     Abkühlung). 15.1 ist deshalb umgezeichnet.
+   - Den **Dampfentsafter-Mittelteil nicht als Abfüllgefäß** zu zweckentfremden, weil der
+     nach oben offene **Trichterboden** nur wenige Liter effektiv fasst — stattdessen ein zweiter
+     großer Topf, **bewusst relativ voll** gehalten. Das ist die korrekte Antwort auf
+     Geometrie-Verluste: nicht „schneller", sondern „Füllgefäß nie halb leer laufen lassen"
+     (15.1, Station 2b) — und bei dir gleichzeitig der Grund, warum der Abend nicht noch
+     zwei Stunden länger ging.
 
 ---
 
