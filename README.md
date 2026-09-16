@@ -27,7 +27,7 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 | [19_Kessel_Temperatursteuerung_Abfuellstation.md](docs/19_Kessel_Temperatursteuerung_Abfuellstation.md) | ⭐ **Anheizphase ohne Angst** (⚠️ nur Modus B!). Überschwinger berechnet + die 5 Bremsen — Gegenstück Wasserbad: [22, Abschn. 4](docs/22_Fuellaktion1_Abschlussbericht.md) |
 | [20_Einkauf_heute.md](docs/20_Einkauf_heute.md) | 🛒 Baumarkt / Getränkehändler / Raiffeisen — Schlauchmaß, MCA28-Satz, PP31,5-Kriterien |
 | [21_Kaliumdisulfit_Schwamm_Schlauch.md](docs/21_Kaliumdisulfit_Schwamm_Schlauch.md) | 🧪 Sulfit-Anleitung (stoppt keine laufende Gärung!), Schwamm-Freigabe, Gardena-Schlauch-Bewertung |
-| [22_Fuellaktion1_Abschlussbericht.md](docs/22_Fuellaktion1_Abschlussbericht.md) | 🏁 **Abschlussbericht Füllaktion #1.** Emaille-Befund, Wasserbad-Physik, Schlauch-Bastelei, Verschluss-Chaos, Prüfplan, neuer Ablauf |
+| [22_Fuellaktion1_Abschlussbericht.md](docs/22_Fuellaktion1_Abschlussbericht.md) | 🏁 **Abschlussbericht Füllaktion #1.** Emaille-Befund, Wasserbad-Physik, Schlauch-Bastelei, Verschluss-Chaos, Prüfplan, neuer Ablauf. **+ Abschnitt 15: Temperaturverlust über die Füllstrecke, Kopfraum/Vakuum, Beschriftung, Lagerung** |
 | [bilder/statusupdate.md](docs/bilder/statusupdate.md) | Laufendes Erntelogbuch (Mengen, Probleme, Tagesstand) |
 
 ## ⚠️ Aktueller Stand (nach Füllaktion #1, Di 15.09.)
@@ -145,3 +145,14 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
     heiß befüllt. 100 × MCA28 ≈ 6 € lösen das Thema dauerhaft.
     ([08](docs/08_Gewindenormen_Referenz.md),
     [22, Abschnitt 8](docs/22_Fuellaktion1_Abschlussbericht.md))
+17. 🌡️ **„Kein Zeitdruck beim Abfüllen" gilt nur mit Nachheizquelle.** Dein Topf (45–48 L, gemessen
+    Ø 40 × H 38) verliert außerhalb des Bads ~8 K/h, das kleine Füllgefäß ~4 K pro Runde und jede
+    kalte Flasche zieht 1,5–2 K. Gegenmittel kostet nichts: **Topf im Bad lassen + Flaschen mit
+    10 s Badewasser vorwärmen.** Rechnung:
+    [22, Abschnitt 15.1](docs/22_Fuellaktion1_Abschlussbericht.md)
+18. 🏷️ **Nach der Aktion kommt die Sortierung, nicht ins Regal.** **24 h:** Drücktest an jeder Kappe
+    (muldrig + kein Klick = Dichtung ok). **Kopfraum 3–7 cm ist normal** — so wirkt die
+    2,7 %-Thermoschrumpfung von 80→20 °C, er ist kein Zeichen für zu kalt gefüllt. **Kappe
+    anmalen:** A = nichts, B = Punkt, C = zwei Punkte → C zuerst trinken. **Lagern: stehend**
+    (kein Kork, kein Hefelager → Liegen und Vierteldrehen bringen beim Saft nur Nachteile).
+    [22, Abschnitt 15.3–15.5](docs/22_Fuellaktion1_Abschlussbericht.md)

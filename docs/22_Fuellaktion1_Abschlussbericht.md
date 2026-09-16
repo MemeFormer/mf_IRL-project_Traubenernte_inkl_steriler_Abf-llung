@@ -17,9 +17,9 @@ Auswertung deines Status vom **Dienstag, 15.09.** plus `bilder/Etappensieg_Abfü
 3. 🚨 **Der Emaille-Befund ist die eigentliche Nachricht des Abends** — er widerruft eine
    Grundannahme des ganzen Projekts: siehe Abschnitt 1.
 4. ⚠️ **Deine 8 Stunden waren zu ~80 % Ablaufprobleme, nicht Saftprobleme:** falsche
-   Reihenfolge, ein zu kleiner Topf für die Charge, Verschlusschaos *während* des Abfüllens,
-   und ein Temperaturprotokoll, das für ein anderes Verfahren geschrieben war. Alles vier
-   behebbare Dinge — Baustellenliste mit Prioritäten: Abschnitt 11.
+   Reihenfolge, ein Topf ohne jeden Puffer für die Charge, Verschlusschaos *während* des
+   Abfüllens, und ein Temperaturprotokoll, das für ein anderes Verfahren geschrieben war. Alles
+   vier behebbare Dinge — Baustellenliste mit Prioritäten: Abschnitt 11.
 
 > **„Ich mach nie mehr Traubensaft"** — verstanden. Zur Einordnung: du warst allein, in
 > einer Nacht, mit ~40–60 Flaschen, einem Topf, der für die Menge zu klein war, und gemischtem
@@ -88,7 +88,7 @@ Emaille-Diagnose nur trocken, mit Taschenlampe, Fokus auf die untersten 5 cm.**
 | 2 | Abziehen mit Schlauch = „Katastrophe und Sauerei" | Schlauch-Memory von Neuware, kein Saugfuß, kein Führungsrohr | **sehr hoch** | Abschnitt 3 (Schwimmsauger) |
 | 3 | Anfeuern #1 ist durchgebrannt | Feuer angezündet, **bevor** das Bad bestückbar war | ~40–60 min | Regel „Feuer zum Bad, nicht zum Prozess" (Abschnitt 5) |
 | 4 | Schaum abschöpfen + eine IKEA-Kiste komplett nachfiltern | gemischte Charge (Kühlpannen-Saft + frischer Saft) | ~30–45 min | Trennregel vor dem Mischen (Abschnitt 5) |
-| 5 | Topf fast überlaufend, Kessel in der heißen Phase angehoben/unterbaut | Topf-Volumen ≈ **28–33 L** ≠ Chargenvolumen (Rechnung Abschnitt 7) | ~45 min + Risiko | 4/5-Regel, zweiter Topf |
+| 5 | Topf fast überlaufend, Kessel in der heißen Phase angehoben/unterbaut | Topf (45–48 L) ≈ Charge → **null Puffer** auf geneigtem Standplatz (Rechnung Abschnitt 7) | ~45 min + Risiko | 4/5-Regel, zweite Ladung |
 | 6 | Temperaturnervosität, Taktik über den Haufen geworfen | Kennlinie „Topf im Bad" nie gemessen | ~30 min | eigene Kurve aufnehmen (Abschnitt 4) |
 | 7 | Flaschen-/Deckelchaos **mitten** im Abfüllen | Verschlüsse nicht sortiert, kein Deckel-Vorrat | ~45 min + Restrisiko | „Verheiraten"-Regel (Abschnitt 8) |
 | 8 | Letzte Liter zu kalt → Induktion, 83 °C, Umparken | Topf aus dem Bad genommen, lange Einzel-Schöpf-Ketten | ~40 min | Hahn statt Schöpfkelle (Abschnitt 3) |
@@ -198,6 +198,10 @@ Konsequenzen, in dieser Reihenfolge:
    Aufheizraten. **Regel fürs nächste Mal: alle 5 min umrühren, ab 60 °C alle 3 min.**
 2. **Flach schlägt hoch.** Volumen pro benetzter Bodenfläche ist alles. Ein zweiter
    20-L-Topf heizt schneller als ein 45-L-Klotz — und passt zu deinem „Eimer-für-Eimer"-Rhythmus.
+> 📌 **Nachtrag 16.09.:** der Topf fasst ~45–48 L, nicht 30 L (Abschnitt 7) — alle Zahlen hier
+> sind damit **zu optimistisch**, realer Bad-Vorlauf **1,5–2 h**. Temperaturverlust *während* des
+> Abfüllens: **[Abschnitt 15](#15-nachtrag-mi-1609--temperaturverlust-kopfraum-sortieren-lagerung)**.
+
 3. **Deine Kennlinie ist jetzt bekannt, also mess sie fest.** Probelauf (nur Wasser im Topf,
    im Bad, Feuer so wie am Abend): alle 10 min Temperatur notieren. 5 Minuten Papier, und du
    planst die nächste Aktion mit einer echten Zahl statt mit Bauchgefühl. Meine Schätzung, wenn
@@ -327,31 +331,47 @@ ist die, die dir später erklärt, ob eine Flasche ein Ausreißer ist.
 ## 7. Rechnung, die du dir merken solltest: Topf ≠ Charge
 
 Du hast geschrieben: *„plötzlich schon gefährlich nah an den Topfrand, hinten noch gute 3–5 cm."*
-Das war kein Pech, das war Geometrie:
+Das war kein Pech, das war Geometrie — **und hier lag ich mit der Schätzung falsch** (Maße
+nachgeliefert am 16.09.):
 
-- Topf muss **in den schmäleren unteren Teil des Einsatzes** passen, ~Fingerbreit Luft
-  → Ø geschätzt **35–37 cm**
-- Höhe mit Deckel **2–3 cm unter Kesseldeckel**, Kesseltiefe 40–45 cm
-  → Topf-Innenhöhe geschätzt **28–32 cm**
-- Volumen: `π/4 · d² · h` = 0,785 · 0,36² · 0,30 m ≈ **30 L** (±4 L)
+| Maß | Wert |
+|---|---|
+| Ø oben am Rand | **40 cm** |
+| Höhe innen | **38 cm** |
+| Form | „maximal leicht konisch" (Bodenmaß noch offen) |
+| **Volumen** | `π/4 · d² · h` = 0,785 · 0,40² · 0,38 ≈ **48 L** (bei leichtem Konus **44–46 L**) |
 
-**Ergebnis: dein Topf fasst ~28–33 L. Du hast versucht, ~45–50 L durch ihn durchzuschleusen.**
-Dazu kam der Auftrieb — der leere Topf will nach oben, und beim Reinstellen verdrängt er
-Badewasser, das im Kessel steigt. Für den Saft ist das egal, für die Nerven nicht. Und das Gefälle:
-**3–5 cm Höhenversatz über 35 cm Topfdurchmesser bedeuten ~6° Neigung der Flüssigkeitsoberfläche**
-— vorne ist der Topf dann schlicht voll, während er hinten noch Luft hat.
+**Ergebnis: der Topf fasst ~45–48 L — und die Charge war ~45–50 L.** Also nicht „zu kleiner Topf",
+sondern **null Puffer**: Topf ≈ Charge. Deshalb die Warnung, die davor stand — sie gilt erst recht,
+nur mit anderer Begründung:
 
-→ Bitte mit Zollstock nachmessen und in die Bilanztabelle unten eintragen — die Zahl entscheidet
-über die Chargengröße, nicht dein Gefühl.
+- **Vorne gefährlich nah am Rand, hinten 3–5 cm frei:** bei 40 cm Durchmesser sind 4 cm Höhenversatz
+  **~6° Neigung** der Flüssigkeitsoberfläche. Ein randvoller Topf auf geneigtem Standplatz läuft
+  nicht „fast" über — er läuft über, sobald jemand anrollt.
+- **Auftrieb:** der leere Topf (Edelstahl, ~2–3 kg, 48 L Verdrängung = 48 kg Auftrieb) will nach oben.
+  Ohne Beschwerung oder ohne Wasser im Topf ist das ein instabiles Objekt im heißen Bad. Dein Gewicht
+  im Induktionstopf war die richtige Lösung.
+- **Chargenregel bleibt, jetzt härter formuliert:** `Charge ≤ Topfvolumen × 0,8` → bei 46–48 L Topf
+  sind das **~36–38 L je Bad-Füllung**. Der Rest ist deliberate Rücklage im Kühlschrank (die hast du
+  ohnehin gebaut: „ein kleiner Teil ist wieder in den Kühlschrank") — der Unterschied ist, dass es
+  beim nächsten Mal **Plan** ist statt Sekundären decision um 23:40.
+- **Und damit ändert sich der Bad-Vorlauf in Abschnitt 4:** nicht 30 L, sondern **45–48 L** =
+  ~190–200 kJ/K → **1,5–2 h**, bis der Kern 80 °C sieht. Dein Abend war also nicht nur chaotisch,
+  er war thermisch realistisch.
 
-**Regel: Chargengröße = Topfvolumen × 0,8. Was darüber ist, ist ein zweiter Topf, nicht ein
-vollerer Topf.**
+> **Noch offen (2 Minuten):** Bodendurchmesser → exaktes Volumen (Formel unten, oder schlicht
+> mit dem Messbeimer voll Wasser und Strich drüber). Und: **Was wiegt der Topf leer?** Für die
+> Hubwagen-Frage.
+
+
+**Regel: `Charge = Topfvolumen × 0,8`. Was darüber liegt, ist ein zweiter Topf (bzw. eine
+Kühlschrank-Rücklage), nicht ein vollerer Topf.**
 
 ### Bilanztabelle zum Nachtragen (die habe ich frei gelassen, weil dein Status keine Zahl enthält)
 
 | Posten | Wert |
 |---|---|
-| Topf-Innenmaß Ø × Höhe → Volumen | ____ L |
+| Topf-Volumen (Ø 40 × H 38 cm, gemessen 16.09.) | **~45–48 L** |
 | Traubenmenge netto verarbeitet (Di+Mi + Wochenende) | ____ kg |
 | Saft **vor** Trubabzug | ____ L |
 | Trub + Verwurf (Filter, Schaum, Rest im Kühlschrank) | ____ L |
@@ -364,11 +384,13 @@ vollerer Topf.**
 | Stunden von „Anfang" bis „2 Uhr" | ____ h |
 | Was ich beim nächsten Mal **nicht** wieder anfasse | ____ |
 
-Zum Vergleich: die Mengenschätzung in [18](18_Kühlpanne_Gärung_Notfall.md) war
-**~57 L im Kühlschrank → ~51–53 L abfüllbar**. Wenn du bei ~35–40 L gelandet bist, ist das
-kein Fehler, das sind Trub + Schaum + Nachfiltern + der eine 8-kg-Eimer an die Bekannte. Aber
-dann ist **die Glasflaschen-Kapazität von 52,9 L kein Engpass mehr** und du brauchst
-**kein Leergut mehr** — das ist eine gute Nachricht, die im Chaos untergeht.
+**Abgleich mit der Schätzung:** [18](18_Kühlpanne_Gärung_Notfall.md) sagte **~57 L im Kühlschrank →
+~51–53 L abfüllbar**. Mit dem Topf bei ~46 L und einer zweiten, nachgeheizten Ladung ist das genau
+die Größenordnung, die du an dem Abend bewegt hast — **deine Rechnung und meine Rechnung treffen
+sich bei ~45–50 L abgefüllt**, minus Trub, Schaum, Nachfiltern und dem einen 8-kg-Eimer an die
+Bekannte. Und nach dem Fund der übersehenen Teinacher-Kiste (16.09., Abschnitt 15.6) ist auch die
+zweite gute Nachricht da: **Leergut war nie das Problem**, die Knappheit war eine
+Sortier-, keine Bestandsknappheit. 52,9 L Glas verfügbar gegen ~48 L Saft.
 
 ---
 
@@ -453,16 +475,19 @@ VORBEREITUNG (tagsüber, kein Feuer, kein Zeitdruck)
   4. Standplatz: Steine/Beton richten, Kessel fest, Wasserwaage im Füllwasser
   5. Kappen für die ganze Charge in einem Topf auskochen und im Wasser lassen
 
-Aktion (1 Person, ~4,5 h)
-  T− 90  Bad ~60–70 L Wasser rein, Topf mit 4/5 Saft rein, FEUER AN
-  T− 90  parallel: letzte Behälter abziehen (Schwimmsauger), Schaum KALT abnehmen
-  T− 60  Deckel kochen, Flaschen aufstellen, Filterstraße aufräumen
-  T− 30  umrühren (alle 5 min), Bad darf auf 95–100
-  T−  5  Kernmessung Topf 1: 80 °C → Halten startet
-  T   0  füllen (Topf BLEIBT im Bad), Kiste unter dem Auslauf, Röhrchen in den Hals
-  T+ 45  Topf 2 (bereits durch) → weiterfüllen
+Aktion (1 Person, ~5 h bei 45 L — der Bad-Vorlauf ist der lange Teil, nicht das Füllen)
+  T−110  Bad 60–70 L Wasser, Topf zu 4/5 (≈36 L) mit Saft rein, FEUER AN
+  T−110  parallel: letzte Behälter abziehen (Schwimmsauger), Schaum KALT abnehmen
+  T− 90  Deckel kochen, Flaschen vorwärmen, Filterstraße aufräumen
+  T− 60  umrühren (alle 5 min), Bad darf auf 95–100, Topfdeckel drauf
+  T− 15  Kernmessung: 80 °C → Haltezeit startet (30 min bei 80, oder 5 min bei 83+)
+  T    0  füllen (Topf BLEIBT im Bad), Kiste unter dem Auslauf, Röhrchen in den Hals
+  T+ 45  zweite Topf-Ladung (die Rücklage vom Kühlschrank) ins Bad → wieder 60 °C hoch
   T+ 90  23:00-Regel: was übrig ist → Deckel drauf, Kühlschrank, morgen früh fertig
-  danach  Flaschen 24 h ruhen, Dichtheitstest (Abschnitt 6)
+  danach  Flaschen 24 h ruhen, Dichtheitstest + Drücktest (Abschnitt 6 + 15.3)
+
+Ladungsregel: **Charge pro Bad-Durchgang = Topfvolumen × 0,8 ≈ 36 L.** Bei ~48 L Saft sind das
+zwei Durchgänge — die zweiter läuft, während der erste abkühlt, also kein zusätzlicher Abend.
 ```
 
 ### Und welche Methode eigentlich? Deine Optionen, sortiert
@@ -541,17 +566,256 @@ sondern aus deinem Bauch kamen:
 | [19_Kessel_Temperatursteuerung_Abfuellstation.md](19_Kessel_Temperatursteuerung_Abfuellstation.md) | Geltungsbereich vorangestellt: gilt für Modus B, **nicht** fürs Wasserbad |
 | [08_Gewindenormen_Referenz.md](08_Gewindenormen_Referenz.md) | neuer Abschnitt „andrehen ja, zudrehen nein" (ROPP-Anrollgewinde) + 4-Schritte-Feldtest |
 | [bilder/statusupdate.md](bilder/statusupdate.md) | Statusupdate #3 (15.09.) mit Schlussstand, Bilanz-Lücken und Erntestand |
+| alle oben genannten | **Nachtrag 16.09. (Abschnitt 15):** Topf-Maße korrigiert (45–48 L statt 30 L), Füllstrecken-Temperaturrechnung, Kopfraum/Vakuum-Einordnung, A/B/C-Beschriftung, „stehend lagern" |
 
 ## 14. Offen — sag mir Bescheid, sonst mache ich das
 
-1. **Wie viele Flaschen und wie viel Liter sind es geworden?** Zahlen in die Bilanztabelle
-   (Abschnitt 7), dann schreibe ich Ausbeute und den Rest des Leergut-Bedarfs fest.
-2. **Sind die Ersatz-Einlagen Edelstahl oder emailliert?** Edelstahl → ich schreibe Modus B
+1. **Sind die Ersatz-Einlagen Edelstahl oder emailliert?** Edelstahl → ich schreibe Modus B
    in 07 wieder frei. Emailliert/Alu → bleibt gesperrt.
-3. **Maß des Topfes** (Ø × Höhe innen) → die Zahl kommt als „max. Chargenvolumen" an den Topf
-   und in 07 rein.
+2. ✅ **Topfmaße sind da (16.09.):** Ø 40 cm × H 38 cm → **~45–48 L.** Eingetragen in Abschnitt 7.
+   Offen ist nur noch der **Bodendurchmesser** (für das exakte Volumen bei leichtem Konus) und das
+   **Leergewicht** (Hubwagen-Frage). Die Zahl „max. Chargenmenge ~36 L je Bad-Durchgang" bitte als
+   Etikett an den Topf.
+3. **Wie viel ist es geworden?** Nachtrag in Abschnitt 7, dann trage ich Ausbeute (L je kg) und den
+   echten Restbedarf an Gläsern fest — nach der gefundenen Teinacher-Kiste vermute ich: **null Bedarf.**
 4. **Zweite Erntehälfte:** Dampfentsafter (langsam, nebenher, kein Bad) oder Bad-Modus A
    (2 Ladungen an einem Abend)? Ich baue den Zeitplan passend, Standard wäre: Entsafter läuft,
    Bad bleibt Reserveweg.
 5. Wenn du magst: **Basteleinzeichnung** für Schwimmsauger + Abfüllstation (Maße, Stückliste,
    Bohrungen) als eigener Doc — sag „zeichne mir das".
+6. **Wein, Saft, oder beides** für die zweite Hälfte — wenn du willst, rechne ich dir die zwei Wege
+   mit Arbeitsstunden und Risiko gegenüber (du hast Mühle, Presse, Gärfass mit Hahn, Sulfit und
+   Kellerraum; das ist beides machbar).
+
+---
+
+## 15. Nachtrag Mi 16.09. — Temperaturverlust, Kopfraum, Sortieren, Lagerung
+
+Beantwortet deine drei Fragen aus dem Chat (Temperaturverlust über die Füllstrecke, „ist mein
+Contamination-Argument zu optimistisch", Beschriftung/Reihenfolge) plus zwei Dinge, die du
+nachgeliefert hast: **die Topfmaße** (Abschnitt 7 ist entsprechend korrigiert) und **die gefundene
+Teinacher-Kiste**.
+
+### 15.1 Temperaturverlust über die Füllstrecke — gerechnet
+
+Dein Weg war nicht „Topf → Flasche", sondern **vier Stationen hintereinander**. Jede kostet Grade.
+(Zahlen sind gerechnete Größenordnungen aus Topfgeometrie, Flächen und Naturkonvektion — kein
+Messprotokoll. Die *Reihenfolge* der Verluste ist belastbar, das einzelne Grad nicht.)
+
+| Station | Masse & Fläche | Verlustrate | was das heißt |
+|---|---|---|---|
+| **1 · Topf im Bad**, nach der Haltezeit | 46 L Saft = **193 kJ/K**, Bad bei 85–95 °C | ≈ **0** (Bad = Nachheizung) | 80 °C im Kern, ±1 K beim Rühren |
+| **2 · Topf raus**, auf der Station, **Deckel zu** | benetzte Wand 0,42 m² + Deckel, ~450–500 W | **−0,12 bis −0,16 K/min** | nach 45 min: **74–75 °C** — noch im Zielband |
+| **2b · … mit offenem Deckel** (beim Schöpfen) | +0,13 m² freie Oberfläche, Verdampfung dominiert | **−0,35 bis −0,5 K/min** in den offenen Phasen | 10 min offen = −4 bis −5 K |
+| **3 · Füllgefäß** (Dampfentsafter-Oberteil, ~4,5 L) | 19 kJ/K, dünnes Blech, offen | **−0,25 bis −0,64 K/min** ([19](19_Kessel_Temperatursteuerung_Abfuellstation.md)) | eine 6-Flaschen-Runde (8–12 min) = **−3 bis −7 K** |
+| **4 · die Flasche selbst** | 0,45 kg Glas = **0,38 kJ/K** gegen 0,7 L Saft = **2,93 kJ/K** | **−5 bis −7 K in der Sekunde des Füllens** (80 °C Saft + 20 °C Glas mischen sich auf **73 °C**) | das ist der **größte Einzelverlust der ganzen Kette** und er ist vermeidbar |
+
+**Rekonstruktion deines Abends** (Modellrechnung, keine Messung — konservative Annahmen):
+
+| Abschnitt | Flaschen | Saft im Topf | **nach dem Einfüllen in der Flasche** |
+|---|---|---|---|
+| direkt nach der Rausnahme, erster Schwung | ca. 1–15 | 79–80 °C | **75–76 °C** ✅ reicht für Dichtflächen + Dampf |
+| mittlerer Teil (Kappenproblem, Rumräumen, offene Deckelphasen) | ca. 16–40 | 72–77 °C | **68–73 °C** ⚠️ Saft pasteurisiert, Dichtflächen-Entkeimung grenzwertig |
+| „zig mal Saft holen", Ende des Topfes | letzte ~8–12 | 66–70 °C | **62–66 °C** ❌ zu kalt — hier stimmt deine Sorge |
+| nach dem Nachheizen auf der Induktion | dieselben + Rest | 83 °C | **~78–80 °C** ✅ wieder im Band, mit mehr Rand als der erste Schwung |
+
+> ⭐ **Der Punkt, der dich entlastet:** der größte Einzelverlust entsteht **in der Sekunde des
+> Einfüllens** — die kühle Glasflasche zieht dem Inhalt sofort 5–7 K ab, und kein schneller Finger
+> der Welt holt die zurück. Der Topf mit 46 L ist dabei das träge, warme Lager (0,12 K/min), die
+> Flasche der Wärmefresser. **Deshalb ist „Flaschen vorwärmen" der Hebel mit dem meisten Effekt pro
+> Sekunde Aufwand** — 90 °C-Badewasser stand die ganze Zeit daneben, 60 s pro Flasche. Gerechnet:
+> damit schließen deine letzten Flaschen bei **68–70 °C statt 62–66 °C** und die ersten bleiben im
+> Zielband — und die Kette „Temperaturverlust = schuld an allem" ist damit entschärft.
+
+**Einordnung:** der Saft war in jeder Phase pasteurisiert (Abschnitt 6), verloren gegangen ist bei
+den letzten Litern nur das, was die **Fülltemperatur** zusätzlich erledigt: Entkeimung der
+Dichtflächen + Dampf für den Unterdruck. Genau das hast du mit 83 °C + Kopfüber zurückgeholt.
+**Dein Instinkt hat die richtigen Flaschen erwischt, nicht die falschen.**
+
+**Die drei Hebel fürs nächste Mal** (alle null Aufwand, alle greifen vor Station 3):
+
+1. **Topf im Bad stehen lassen** und von dort schöpfen bzw. den Hahn oben drauf setzen — die
+   −0,13 K/min von Station 2 verschwinden komplett (der Bad-Wärmestrom ist größer als der Verlust).
+2. ⭐ **Vorwärmen — 60 Sekunden Badewasser, das steht ja schon bereit.** Kesselbad 90 °C, pro
+   Flasche randvoll anfüllen, 1 min stehen lassen, ausgießen, sofort füllen. Die Glaswand (2–3 mm)
+   ist nach einer Minute auf 45–65 °C → **Restverlust nur noch ~1,5–2 K statt 5–7 K**. Bei 10 s
+   Schwenken mit Heißwasser reicht es für ~3 K Rückgewinn, wenn es schnell gehen muss.
+   Das ist genau die „vorgewärmte Flasche" aus [01](01_Grundprinzip.md) und
+   [06](06_Einkochtopf.md) — und nebenbei der **Thermoschock-Schutz**, wenn die Halle im Oktober
+   einstellig wird: kaltes Glas + 80 °C Inhalt ist die Kombination, bei der Flaschen springen.
+3. **Größeres Füllgefäß oder gleich Hahn:** 4,5 L sind zu klein für 40 Flaschen (14 Umfüllungen =
+   14 × Anlaufverlust). Ein 10-L-Gefäß halbiert die Runden; ein **Abfüllhahn am Topf im Bad**
+   (Schlauch + Federklemme + Röhrchen, Abschnitt 3) streicht das Umfüllen ganz — dann fällt
+   Station 3 komplett weg und du bist bei 50–60 Flaschen/h aus [04](04_Ablaufplan_und_Notfallplan.md).
+
+### 15.2 „Contamination eher gering" — zu optimistisch? Nein. Aber der Engpass ist ein anderer
+
+Deine Vorbehandlung war ehrlich **solide bis vorbildlich für Hobbybedingungen**: heiß gespült,
+staubfrei abgedeckt, Verschlüsse ausgekocht, und die Entkeimung der kritischen Flächen über die Hitze
+des Produkts statt über Hygiene-Apparate. Einzelprüfung:
+
+| Deine Maßnahme | Was sie wirklich leistet | Bewertung |
+|---|---|---|
+| Spülmaschine 70 °C + Trocknung | Reduktion um mehrere Zehnerpotenzen; und die Restwärme aus der Maschine zählt noch für die Fülltemperatur (15.1, Station 4) | ✅ **mehr als genug** — die Flasche war nie das Problem |
+| Alufolie über der Öffnung, danach kopfüber gelagert | verhindert **Re**-kontamination (Staub, Insekten, Sprühnebel) — der eigentliche Killer bei 2 Tagen Lagerung | ✅ genau richtig, und billiger als jeder „sterile Lagerschrank" |
+| neue Kappen 5 min in kochendem Wasser | entkeimt Kappe **und** Dichtfläche, ohne dass du Tempo laufen musst | ✅ der saubere Weg (siehe [19](19_Kessel_Temperatursteuerung_Abfuellstation.md): entkoppelt) |
+| Kopfüber-Stehen nach dem Füllen | heiße Flüssigkeit + Dampf an Kappe, Gewinde, Mündung = die eigentliche Entkeimung dieser Zonen | ✅ **das ist der Punkt, an dem Heißabfüllung steril macht** |
+| gebraucht gewesene PP31,5-Kappen ohne Auskochen | Dichtfläche unkontrolliert **und** eingesetzte/verformte Dichtung | 🔴 das ist die einzige echte Schwachstelle |
+
+**Also: ja, dein Argument trägt.** Die Wahrscheinlichkeit, dass Keime von *Glas oder Kappe* kommen,
+ist klein. Was du damit aber **nicht** abhandelst, ist nicht mikrobiell, sondern physikalisch, und
+das ist der Satz, den ich dir mitgeben will:
+
+> Bei Heißabfüllung ist **Fülltemperatur = Dichtungsbildung**, nicht nur Keimabtötung.
+> Zu kalt gefüllt → zu wenig Dampf → zu wenig Unterdruck → Kappe liegt nicht hart an, Sauerstoff
+> bleibt im Kopfraum. **Folge: Schimmer- oder Kahmhefe-Film oben an der Luftgrenzfläche und
+> Aromaabbau — nicht „die Flasche war dreckig".**
+
+Deshalb ist die Sortierfrage (15.4) wichtiger als die Rekonstruktion: Die Flaschen, bei denen
+Unterdruck fehlt, erkennst du an der Kappe — und die trinkst du zuerst.
+
+**Ein Punkt gegen falsche Sicherheit:** der Kopfraum ist bei dir zusätzlich groß (15.3). Viel
+Luft = viel O₂ = die Grenze, an der sich Schimmel/Oberhefe zeigt, egal wie heiß du gefüllt hast.
+Das spricht dafür, die Flaschen mit der größten Lücke zuerst zu trinken, und es ist der eine Punkt,
+an dem ich dich **weniger optimistisch** machen würde als du bist. Kein Grund zur Sorge, aber ein
+Grund für „Winter trinken statt Sommer 2027".
+
+### 15.3 Der Leerraum oben: normal, erwartet — und keine Temperatur-Urkunde
+
+Was du siehst, ist Physik. Wasser und Traubensaft ziehen sich beim Abkühlen zusammen (Most ist
+dichter, aber die *Änderung* mit der Temperatur ist fast gleich — der Zucker verschiebt sie kaum):
+
+| Temperatur | Dichte | Volumenänderung ggü. 20 °C |
+|---|---|---|
+| 20 °C | 998,2 kg/m³ | — |
+| 40 °C | 992,2 | −0,60 % |
+| 60 °C | 983,2 | −1,52 % |
+| **70 °C** | 977,8 | **−2,09 %** |
+| **80 °C** | 971,8 | **−2,72 %** |
+| 85 °C | 968,6 | −3,06 % |
+
+Bei einer randvoll gefüllten **0,7-L-Flasche** sind 2,7 % = **19 mL**, bei 1 L = **27 mL**. Der
+Flaschenhals hat nur ~2 cm² Querschnitt (16 mm licht), und weil die Flüssigkeit beim Sinken in den
+breiteren Schulterbereich läuft, ergibt das real **3–7 cm Niveauverlust** — genau das „ziemlich viel
+Leerraum", das dich gewundert hat. **Der Effekt ist also erwartet und dein Füllen war offensichtlich
+heiß. Er beweist es aber nicht:** Schaum, der nach dem Verschließen zusammenfällt, und der Überlauf
+beim Zudrehen einer bis über das Gewinde vollen Flasche sind dieselbe Größenordnung. Zwei
+Gegeneffekte, eine Messgröße → als Temperaturbeweis untauglich, als „Füllstand ist ok"-Befund
+völlig ausreichend.
+
+**Was der Kopfraum dir WIRKLICH sagt:** die Sauerstoffmenge.
+
+| Lücke im Hals (0,7 L) | Gas im Kopfraum | davon O₂ (≈21 %) | Bedeutung |
+|---|---|---|---|
+| ≤ 2 cm | ~4 mL | ~0,8 mL | Ideal: kaum Oxidation, lange haltbar |
+| 2–4 cm | 4–8 mL | 0,8–1,7 mL | normal, 6–12 Monate gut trinkbar |
+| 5–8 cm | 10–16 mL | 2–3,5 mL | **dieses Jahr trinken** — Aromaverlust kommt vor jedem Mikrobenrisiko |
+| > 8 cm **und** flache Kappe | > 16 mL | > 3,5 mL | nacharbeiten: öffnen, erhitzen, neue Kappe — oder sofort trinken |
+
+> Die O₂-Menge ist die eigentliche Haltbarkeitsuhr: **2 mL Sauerstoff reichen für einen sichtbaren
+> Kahmhefe-Film**, falls irgendwo ein Sporeneinschlag überlebt hat. „Randvoll" ist deshalb keine
+> Perfektioniererei, sondern der halbe Konservierungsmechanismus.
+
+Und der Drücktest als **Dichtigkeits**-Aussage (nicht als Temperatur-Aussage — Unterdruck entsteht
+auch bei 65 °C noch, deshalb kann man aus „muldrig" keine Fülltemperatur zurückrechnen):
+
+| Befund nach 24–48 h | Bedeutung | Aktion |
+|---|---|---|
+| Kappe muldrig, gibt beim Daumendruck nicht nach, kein „Klick" | Vakuum steht, Dichtung ok | Lagern |
+| Kappe plan, aber fest; kein Klick | Dichtung ok, Dampfmenge klein (kühler gefüllt) | Zone B → früher trinken |
+| Kappe wölbt sich, klickt, Hals feucht/klebrig, Ring am Gewinde | Dichtung undicht oder Nachgärung | aufziehen, kosten, nachpasteurisieren (Abschnitt 6) |
+| Bügel/Weinkapsel | **nicht bewertbar** | Kühlschrank + 3 Wochen, nie nachlagern |
+
+Fürs nächste Mal, damit es beides gibt — randvoll **und** kein Überlauf: **in zwei Schritten füllen.**
+Erst ~2/3, 20–30 s stehen lassen bis der Schaum weg ist, dann bis kurz unter den Gewindeanfang
+auffüllen. So steht der Saft am Dichtungsrand an, ohne dass das Zudrehen ihm 5 mL wieder
+rausdrückt.
+
+### 15.4 Beschriften & Verbrauchsreihenfolge — 10 Minuten für die ganze Kammer
+
+Deine Drittel-Idee ist richtig (die Gefährdung ist monoton zur Abfüllreihenfolge), aber
+Positionswissen verrottet bis Februar. Deshalb: **Erkennungsmerkmal an die Kappe, Erklärung an
+die Kiste, Reihenfolge aufs Foto.**
+
+1. **Foto der jetzigen Anordnung** (deine Flaschen stehen noch in Füllreihenfolge!) — 3 Bilder:
+   jede Kiste von vorne, dazu ein Bild mit der Hand am Übergang. Das ist die billige
+   Version von „Dokumentation" und die einzige, die du in der Hand hast, bevor du umräumst.
+2. **Drei Markierungen auf der Kappe** (Metallkappen sind dafür ideal: nichts klebt, nichts quillt
+   auf, und im feuchten Keller löst sich Papier von allein ab):
+   | Farbe/Zeichen auf der Kappe | Zone | Was das heißt |
+   |---|---|---|
+   | **nichts** | **A** | heiß gefüllt (≈77–80 °C), neue MCA28, Lücke klein → **bis 12 Monate** |
+   | **ein Punkt** | **B** | mittlere Phase, 70–76 °C → **Frühjahr/Sommer 2027** |
+   | **zwei Punkte / Querstrich** | **C** | Endphase, nachgeheizt, gebrauchte Kappe, Bügel, große Lücke → **erst trinken (Winter)** |
+   Nagellack (~1 €) oder Edding; notfalls ein Klebepunkt Panzertape. Ab geht's mit Aceton oder
+   einfach mit dem Rand des Flaschenöffners.
+3. **Ein handgeschriebener Zettel pro Kiste**, in die Kiste geklemmt, nicht auf die Flasche:
+   `Charge 1 · 15./16.09.26 · Bad 80 °C/33 min + Hot Fill · 0,7 L Teinacher/Weinglas · A/B/C = Kappe`
+   (Eine Zeile „Abgefüllt um 23:40, letzte 10 nachgeheizt 83 °C" reicht als Gedächtnisprothese.)
+4. **Übergang markieren, nicht rechnen:** du musst die Drittel nicht exakt kennen. Nimm die
+   **Kappe-Prüfung (15.3)** als Sortierung — die ist gemessen statt erinnert. Flasche, die beim
+   Drücken nachgibt, wird C, egal welche Position. Eine Ausnahme: **jede Flasche mit
+   gebrauchter Kappe wird C**, unabhängig davon, wie gut der Drücktest aussieht.
+5. Optional, wenn du's ordentlich willst: ein Streifen **Malerkrepp** mit Datum + Zone am Hals —
+   der einzige Nachteil: im kühlen Keller saugt Krepp Feuchtigkeit und lässt sich nach 6 Monaten
+   in Flocken abpulen. Als Jahres-Label völlig ausreichend.
+
+Und der Satz, der das einordnet, damit es nicht in die falsche Richtung skaliert:
+**Der Unterschied zwischen A und C ist vor allem Aroma und Farbe, nicht Sicherheit.** C heißt nicht
+„vielleicht giftig", C heißt „trink es, solange es gut schmeckt, und schau beim Öffnen kurz rein".
+
+### 15.5 Stehend oder liegend lagern?
+
+**Stehend, ausnahmslos.** Wein-Liegen ist eine **Kork**-Geschichte (Kork muss feucht bleiben, sonst
+schrumpft er, sonst kommt Luft rein) und eine **Hefe**-Geschichte (Umdrehen hält die Hefe in
+Suspension, „sur lie"). Beides trifft auf deinen Saft nicht zu — im Gegenteil:
+
+| Grund | Wirkung bei dir |
+|---|---|
+| Keine Korken | Liegen bringt null Dichtvorteil |
+| Säure (pH ~3,4) + Dichtungsfläche monatelang in Kontakt | Geschmacksthema + Korrosion an Kappenrand → **Saft von der Kappe fernhalten** |
+| Trub/Hefesatz-Relikte | legen sich beim Liegen **auf die ganze Glasfläche**, kommen beim letzten Schluck raus und sehen aus wie Schimmel |
+| Dichttest | stehend sichtbar (feuchte Schultern, Ausblühen am Rand), liegend nicht |
+| Vakuum | ändert nichts — aber liegend tropft jede undichte Flasche auf deine Kistenstapel |
+
+Das „viertelweise Umdrehen" beim Wein kannst du also komplett streichen — für Saft gibt es dafür
+keinen Nutzen und drei Nachteile. Was du **nicht** tun solltest: Flaschen aus dem Keller direkt an
+eine warme Stelle stellen (Temperaturschwankung > 15 K wiederholt = Dichtungsstress), und: **Frost**.
+So gegen −5 bis −7 °C gefriert Traubensaft (der Zucker schiebt den Punkt nur leicht runter) —
+er drückt Kappen hoch und sprengt Glas. Wenn dein Keller
+im Winter in die Nähe von 0 °C kommt → eine Plane/Decke über die Kisten oder eine Kiste hoch ins
+Haus. Kisten nicht direkt auf den Betonboden, ein Brett drunter (Feuchtigkeit, Etiketten, Korrosion
+am Kappenrand). Und max. zwei Kisten hoch.
+
+### 15.6 Die gefundene Teinacher-Kiste — gute Nachricht, zwei Folgen
+
+**0,7-L-Teinacher-Mehrweg mit der weißen Kunststoffkappe ist mit hoher Wahrscheinlichkeit genau
+dein Referenzsystem:** MCA28, einteilig verankerte Dichtung, heißabfüllfest
+([08](08_Gewindenormen_Referenz.md) sagt das schon, du hast es jetzt physisch im Bestand).
+**30-Sekunden-Bestätigung:** an einer Flasche den Gewinde-Außendurchmesser messen — 28 mm und die
+eigene Kappe dreht bis zum Anschlag zu, dann ist die ganze Kiste A-Klasse-Leergut. Zwei Folgen:
+
+1. **Dein Bestand ist A-Klasse, nicht Mischware.** Ab sofort gilt für neue Chargen:
+   Teinacher-Kisten kaufen/abholen + 100 MCA28-Kappen ≈ 6 € → **ein** System, **null**
+   Sortieraktion am Abfüllabend. Das ist die Antwort auf dein „komische Weinflaschen"-Debakel.
+2. **Der Rest im Kühlschrank hat jetzt ein Ziel.** Du hast noch Überstand im Kühlschrank + eine volle
+   Kiste sauberer Flaschen: **20 Minuten Arbeit**, und die Charge ist zu Ende statt „irgendwann
+   auch noch". Ablauf: Topf auf Induktion, **85 °C**, Flaschen mit Badewasser/Heißwasser aus der
+   Spülmaschine **vorgewärmt**, randvoll in zwei Schritten (15.3), Kappe handfest, 2 min
+   kopfüber, Beschriftung **B** (nachträglich gefüllt = andere Thermik, andere Haltezeit),
+   nach 24 h Drücktest. Wenn du's nicht diese Woche machst: **ab in die Gefriertruhe**
+   (PET, zu 4/5 voll, „Sommermost 2026" drauf) — einfrieren ist unbegrenzt haltbar und
+   [04](04_Ablaufplan_und_Notfallplan.md) hat den Weg schon freigegeben. Nicht im Kühlschrank
+   „parken und schauen" — das ist genau die Falle, die dich am Wochenende erwischt hat.
+
+### 15.7 Was ich heute noch tun würde (Reihenfolge, ~45 min gesamt)
+
+- [ ] **Zählen + Foto** der Kisten (2 min) → die Zahl in Abschnitt 7 eintragen
+- [ ] **Drücktest** über alle Flaschen, einmal durch (10 min für ~60) → C-Liste
+- [ ] **Kappen markieren** A/B/C (5 min, Nagellack oder Edding)
+- [ ] **Zettel pro Kiste** mit Datum + Verfahren (3 min)
+- [ ] **Kühlschrank-Rest** in die Teinacher-Kiste (85 °C, vorgewärmt, 2 min kopfüber) oder
+      einfrieren — **nicht** stehen lassen (20 min)
+- [ ] **Lagerung kontrollieren**: stehend, Brett unterm Stapel, max. 2 Kisten hoch, Frost im
+      Winter im Blick (5 min)
+- [ ] Optional, weil's 6 € sind und dein nächstes Problem verhindert: **100 MCA28 Kappen**

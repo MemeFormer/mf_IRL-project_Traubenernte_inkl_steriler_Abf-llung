@@ -239,6 +239,13 @@ Dein Umfüllgefäß (Dampfentsafter-Oberteil, ~4,5 L) hat eine Wärmekapazität 
 | 150 W | −0,48 K/min | **10 min** |
 | 200 W | −0,64 K/min | **8 min** |
 
+> 📌 **Prüfung durch die Praxis (15./16.09.):** die Rechnung stimmt, und sie war der Grund, warum
+> bei dir die letzten Liter zu kalt waren. Die Zahl für **46 L im Topf** (das ist dein Topf,
+> Ø 40 × H 38 cm) ist eine ganz andere Größe: ~193 kJ/K → **−0,12 bis −0,16 K/min** bei
+> geschlossenem Deckel, also **~8 K in 60 min** — und das ist noch harmlos. Der Fressfaktor ist das
+> kleine Zwischen-Füllgefäß + offene Deckelphasen. Kettenrechnung über alle Stationen:
+> **[22, Abschnitt 15.1](22_Fuellaktion1_Abschlussbericht.md)**.
+
 **4,5 L sind ~6 Flaschen à 0,7 L.** Also selbst im schlechtesten Fall **über eine
 Minute pro Flasche.** Das ist kein Sprint.
 
@@ -248,6 +255,13 @@ Der Kessel hält 50 L bei 83–86 °C praktisch beliebig lange (Deckel zu, geleg
 ein Scheit). **Das Umfüllgefäß ist nur ein Puffer.** Wenn es abkühlt: Saft zurück
 in den Kessel oder frischen heißen nachschöpfen. **Nichts geht verloren, nichts
 muss in einer bestimmten Zeit fertig sein.**
+
+> ⚠️ **Und der Nachtrag dazu:** „kein Wettlauf" gilt **nur**, wenn dein Vorratsgefäß während des
+> Füllens auf Temperatur bleibt (im Bad / auf der Platte). Wenn es auf dem Tisch steht und du
+> holst in 4,5-L-Runden nach, dann verlierst du pro Runde ~4 K an Gefäß + ~1,5 K an die kalten
+> Flaschen — und nach der zehnten Runde bist du bei 68 °C. **Der Satz „kein Zeitdruck" setzt die
+> Nachheizquelle voraus.** Zwei Gegenmittel mit null Aufwand: Topf im Bad lassen, Flaschen vorwärmen
+> (10 s Badewasser rein, ausgießen).
 
 ### ⭐ Der eigentliche Trick: entkoppele die Deckelentkeimung vom Tempo
 

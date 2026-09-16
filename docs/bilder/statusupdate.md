@@ -179,3 +179,47 @@ Betroffene Docs korrigiert: [07](../07_Schlachtkessel.md), [09](../09_Bestandsau
 | Liter abgefüllt | ___ L |
 | Topf-Innenmaß → max. Chargenvolumen | ___ × ___ cm → ___ L |
 | Kappen: neu / gebraucht / gemischt | ___ / ___ / ___ |
+
+---
+
+# Statusupdate #4 — Mittwoch, 16.09. — Zahlen nachgereicht, Kammer vorbereitet
+
+## Topf-Maße (Nachmessung) — meine Schätzung vom Vortag war zu klein
+| Maß | Wert |
+|---|---|
+| Ø oben am Rand | 40 cm |
+| Höhe innen | 38 cm |
+| Form | „maximal leicht konisch" (Bodenmaß steht noch aus) |
+| **Volumen** | **~45–48 L** |
+
+Konsequenz: der Topf war **nicht** zu klein — er war **genau so groß wie die Charge**, also ohne
+jeden Puffer. Chargenregel fürs Bad: `Topfvolumen × 0,8 ≈ 36 L je Durchgang`, Rest = Rücklage im
+Kühlschrank und zweiter Durchgang. Bad-Vorlauf für ~45 L: **1,5–2 h**, nicht 75–90 min.
+Details: [22, Abschnitt 7 + 15.1](../22_Fuellaktion1_Abschlussbericht.md)
+
+## Fund: übersehene Kiste in der Garage
+Volle Kiste **bereits gereinigter 0,7-L-Teinacher-Flaschen** (Mehrzweck „Wasser mit Geschmack",
+weiße Kunststoffkappe → hoher Wahrscheinlichkeit MCA28 ✅). Heißt:
+- Engpass gab es keinen, die Rechnung aus [18](../18_Kühlpanne_Gärung_Notfall.md) hat gestimmt
+- **Reserve ist da** → kein Leergut-Bedarf für eine weitere Charge
+- **Action:** Kühlschrank-Rest (2–4 L) damit zu Ende füllen — 85 °C, vorgewärmte Flaschen,
+  randvoll in zwei Schritten, Kappe, 2 min kopfüber, Label **B**. Oder einfrieren (PET, 4/5 voll).
+  **Nicht** im Kühlschrank „parken" — das ist die Falle vom Wochenende.
+
+## Kammer: Sortierung + Lagerung (10 min Arbeit)
+- **Reihenfolge erhalten:** Foto der Kisten, so wie sie nach dem Füllen stehen
+- **Kappen-Beschriftung:** A = nichts (heiß gefüllt, neue Kappe) · B = ein Punkt (Mittelteil) ·
+  C = zwei Punkte (Endphase, nachgeheizt, gebrauchte/PP31,5-Kappe, Bügel) → **C zuerst trinken**
+- **24-h-Drücktest** über alle: muldrig + kein Klick = Dichtung ok. Planes Gewölbe oder feuchter
+  Hals → aufziehen, kosten, nachpasteurisieren
+- **Kopfraum 3–7 cm ist normal** (2,7 % Thermoschrumpfung von 80 → 20 °C) — kein Hinweis auf zu
+  kalt gefüllt, und kein Mangel
+- **Lagerung: stehend.** Kein Kork, kein Hefelager → Liegen und „Vierteldrehen" bringen beim Saft
+  nur Nachteile (Säure an der Dichtung, Trub auf der Glasfläche, Dichttest nicht sichtbar).
+  Kiste aufs Brett, max. 2 hoch, Keller frostfrei halten (Saft gefriert bei ca. −5 bis −7 °C)
+
+## Offene Entscheidung: zweite Erntehälfte
+Wein / Saft / beides. Kurzfassung der Optionen in
+[22, Abschnitt 15.7 + 14](../22_Fuellaktion1_Abschlussbericht.md); Gegenrechnung (Stunden, Risiko,
+Ergebnis) kommt, sobald er fällt. Bestand dafür: Mühle, kleine Presse, Dampfentsafter (Edelstahl),
+Gärfass mit Hahn, K₂S₂O₅, zwei Kühlschränke, Kessel als Wasserbad.
