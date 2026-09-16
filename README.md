@@ -4,8 +4,13 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 
 ## Dokumente
 
+> 📓 **Neue Session?** Erst [`docs/00_Sitzungsspiegel.md`](docs/00_Sitzungsspiegel.md) lesen — das
+> laufende Gedächtnis (Stand, offene Punkte, Verlauf aller Sessions). Die Pflege-Regel dafür steht
+> in [`AGENTS.md`](AGENTS.md).
+
 | Datei | Inhalt |
 |-------|--------|
+| [00_Sitzungsspiegel.md](docs/00_Sitzungsspiegel.md) | 📓 **Session-Gedächtnis:** ⚡Stand 16.09., 🎯 offene Punkte, 🗒️ Verlauf — wird von jeder Session weitergeführt |
 | [01_Grundprinzip.md](docs/01_Grundprinzip.md) | **Hier anfangen.** Warum "sterile Flaschen" das falsche Ziel sind |
 | [02_Flaschen_Methodenvergleich.md](docs/02_Flaschen_Methodenvergleich.md) | Alle Desinfektionsmethoden mit ehrlicher Bewertung |
 | [03_Flaschentypen_Verschluss.md](docs/03_Flaschentypen_Verschluss.md) | Welche Flaschen/Deckel taugen |
@@ -29,6 +34,7 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 | [21_Kaliumdisulfit_Schwamm_Schlauch.md](docs/21_Kaliumdisulfit_Schwamm_Schlauch.md) | 🧪 Sulfit-Anleitung (stoppt keine laufende Gärung!), Schwamm-Freigabe, Gardena-Schlauch-Bewertung |
 | [22_Fuellaktion1_Abschlussbericht.md](docs/22_Fuellaktion1_Abschlussbericht.md) | 🏁 **Abschlussbericht Füllaktion #1.** Emaille-Befund, Wasserbad-Physik, Schlauch-Bastelei, Verschluss-Chaos, Prüfplan, neuer Ablauf. **+ Abschnitt 15: Temperaturverlust über die Füllstrecke, Kopfraum/Vakuum, Beschriftung, Lagerung** |
 | [bilder/statusupdate.md](docs/bilder/statusupdate.md) | Laufendes Erntelogbuch (Mengen, Probleme, Tagesstand) |
+| [`AGENTS.md`](AGENTS.md) | 🤖 Arbeitsregeln für AI-Sessions (Deutsch, Bilder ins Repo, Spiegel pflegen, committen) |
 
 ## ⚠️ Aktueller Stand (nach Füllaktion #1, Di 15.09.)
 
@@ -42,9 +48,16 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 > Edelstahl-Ersatz-Einlage verifiziert ist. Kessel nur noch als **Wasserbad / Heißwasser**.
 > ([07](docs/07_Schlachtkessel.md), [09](docs/09_Bestandsaufnahme_Fotos.md) sind entsprechend korrigiert)
 >
-> 🔴 **Offen nachzutragen:** Flaschenzahl, Liter, Topf-Innenmaß (Tabelle in
+> 🔴 **Offen nachzutragen:** Flaschenzahl und Liter (Tabelle in
 > [22, Abschnitt 7](docs/22_Fuellaktion1_Abschlussbericht.md)). Der kleine Kühlschrank-Rest
 > muss **binnen 48 h** in eine verheiratete Flasche mit neuer Kappe — oder ins Gefrierfach.
+>
+> 🔧 **Nachlese Mi 16.09.:** Topf **nachgemessen** → Ø 40 × H 38 cm = **~45–48 L** (der Topf war so
+> groß wie die Charge, daher randvoll). Und: der Topf hat das Bad **nie verlassen** — 70–75 %
+> umspült, beide Deckel drauf; abgekühlt ist nur der **Transporttopf** auf dem kalten Tisch, plus
+> 5–7 K pro raumkalter Flasche. Dazu der Fund der übersehenen Teinacher-Kiste → **Leergut war nie
+> das Problem.** Alles nachgerechnet:
+> [22, Abschnitt 15](docs/22_Fuellaktion1_Abschlussbericht.md)
 >
 > ✅ **Erste Erntehälfte ist im Keller.** Zweite Hälfte hängt noch am Stock → Weg:
 > **Dampfentsafter** ([16](docs/16_Dampfentsafter_eigenes_Produkt.md)), kein Bad, kein Nachheizen.
@@ -145,10 +158,11 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
     heiß befüllt. 100 × MCA28 ≈ 6 € lösen das Thema dauerhaft.
     ([08](docs/08_Gewindenormen_Referenz.md),
     [22, Abschnitt 8](docs/22_Fuellaktion1_Abschlussbericht.md))
-17. 🌡️ **„Kein Zeitdruck beim Abfüllen" gilt nur mit Nachheizquelle.** Dein Topf (45–48 L, gemessen
-    Ø 40 × H 38) verliert außerhalb des Bads ~8 K/h, das kleine Füllgefäß ~4 K pro Runde und jede
-    kalte Flasche zieht 1,5–2 K. Gegenmittel kostet nichts: **Topf im Bad lassen + Flaschen mit
-    10 s Badewasser vorwärmen.** Rechnung:
+17. 🌡️ **„Kein Zeitdruck beim Abfüllen" gilt nur, wenn das Füllgefäß warm gehalten wird.** Der
+    45–48-L-Topf im Bad ist der Puffer (≈0,1 K/min, beide Deckel) — die Kette bricht woanders:
+    im **halbleeren Transporttopf** (Fläche/Volumen kippt gegen Ende) und in **jeder kalten Flasche**
+    (0,7 L an 20 °C Glas = −5…−7 K, sofort, nicht aufholbar). Gegenmittel für null Euro:
+    **60 s Heißwasser in jede Flasche, ausgießen, dann füllen.** Rechnung:
     [22, Abschnitt 15.1](docs/22_Fuellaktion1_Abschlussbericht.md)
 18. 🏷️ **Nach der Aktion kommt die Sortierung, nicht ins Regal.** **24 h:** Drücktest an jeder Kappe
     (muldrig + kein Klick = Dichtung ok). **Kopfraum 3–7 cm ist normal** — so wirkt die
@@ -156,3 +170,13 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
     anmalen:** A = nichts, B = Punkt, C = zwei Punkte → C zuerst trinken. **Lagern: stehend**
     (kein Kork, kein Hefelager → Liegen und Vierteldrehen bringen beim Saft nur Nachteile).
     [22, Abschnitt 15.3–15.5](docs/22_Fuellaktion1_Abschlussbericht.md)
+19. 🌡️ **Umgekehrt lesen: der Kopfraum ist ein Thermometer.** Randvoll + heiß gefüllt ⇒ nach dem
+    Erkalten **3–7 cm Leerraum** im Hals (2,6 % Schrumpfung). Also maßbar statt erinnert:
+    8–10 cm ≈ **75–80 °C**, 4–6 cm ≈ 50–65 °C, **< 2 cm bei flacher Kappe = undicht**.
+    (Obergrenze, nicht Beweis — Schaum und Überlauf vergrößern den Kopfraum.)
+    [22, Abschnitt 15.3](docs/22_Fuellaktion1_Abschlussbericht.md)
+20. 🔌 **Induktions-Station: ja als Halten/Nachheizen/Vorwärmen, nein als Chargenheizung.** Ein
+    Stromkreis = **3,7 kW** (eine Doppelplatte füllt ihn fast), Traglast der Platte **20–25 kg**
+    (45-L-Topf voll ≈ 50 kg → zu schwer), und drei Abkoch-Töpfe parallel sind ~7 kW = Sicherung.
+    **Und die Frage, die bei dir zuerst kommt: Hängt der Kühlschrank am selben Kreis?**
+    [22, Abschnitt 15.8](docs/22_Fuellaktion1_Abschlussbericht.md)

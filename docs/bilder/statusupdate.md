@@ -223,3 +223,30 @@ Wein / Saft / beides. Kurzfassung der Optionen in
 [22, Abschnitt 15.7 + 14](../22_Fuellaktion1_Abschlussbericht.md); Gegenrechnung (Stunden, Risiko,
 Ergebnis) kommt, sobald er fällt. Bestand dafür: Mühle, kleine Presse, Dampfentsafter (Edelstahl),
 Gärfass mit Hahn, K₂S₂O₅, zwei Kühlschränke, Kessel als Wasserbad.
+
+## Nachtrag: wie der Topf wirklich stand (16.09., nach deiner Korrektur)
+- **Der Bad-Topf hat das Bad nie verlassen** — zu schwer, Ø 40 cm; er stand zu **70–75 % im Wasser**
+  des Emaille-Einsatzes, mit **Topfdeckel + Kesseldeckel**. Damit ist er der **Puffer**, nicht der
+  Verlierer: ≈0,05–0,10 K/min auf die ganze Baugruppe, nachdem das Feuer aus war.
+- Abgekühlt hat woanders: **Transporttopf** (zweiter großer Induktionstopf) auf dem kalten Tisch,
+  gegen Ende halb leer → Fläche/Volumen kippt, −0,3…−0,5 K/min. Und **jede raumkalte Flasche** zieht
+  dem Inhalt in der Sekunde des Füllens **5–7 K** ab (0,7 L an 0,45 kg Glas: 80 °C + 20 °C → 73 °C).
+- **Konsequenz für die Wiederholung:** nicht schneller arbeiten, sondern **vorwärmen** (60 s
+  Heißwasser pro Flasche) und den Fülltopf auf eine **warme Zone** stellen. Rechnung + Kurve:
+  [22, 15.1](../22_Fuellaktion1_Abschlussbericht.md)
+- **Dein Entsafter-Befund ist dokumentiert:** der Mittelteil hat einen nach oben offenen Trichterboden
+  → als Abfüllgefäß unbrauchbar (wenige Liter effektiv). Genau deshalb war der Transporttopf richtig.
+  Saft **abziehen und im Stahltopf halten**, den Entsafter nur zum Gewinnen benutzen
+  ([22, 15.8](../22_Fuellaktion1_Abschlussbericht.md), [16](../16_Dampfentsafter_eigenes_Produkt.md))
+
+## Deine Induktions-Idee — das Kurzergebnis (Details in [22, 15.8](../22_Fuellaktion1_Abschlussbericht.md))
+| Frage | Antwort |
+|---|---|
+| Zwei Doppelplatten an einem Stromkreis? | ❌ **nein** — 1 Kreis = 16 A = **3,7 kW**, zwei Platten = ~7 kW → Sicherung. Eine Platte pro Kreis |
+| 🚨 Hängt der Kühlschrank am selben Kreis? | **vorher klären** — sonst baust du dir die Kühlpanne selbst |
+| Mehrfachsteckdose / Kabeltrommel? | ❌ keine; wenn Verlängerung: 1,5 mm², kurz, abgerollt |
+| Trägt eine Platte den 45-L-Topf? | ❌ Traglast tragbarer Platten ~**20–25 kg**, der volle Topf ~50 kg → auf der Platte 15–20-L-Töpfe |
+| 3 Abkoch-Töpfe parallel? | 🟡 rechnerisch ~6,6 kW → staffeln, zwei Töpfe reichen (Flaschen müssen nicht kochen, Spüli + Vorwärmen genügt) |
+| Entsafter-Unterteil köcheln, um den Saft warm zu halten | ❌ anders: Saft abziehen, im **Stahltopf auf der Zone** halten — sonst Kochgeschmack |
+| Flaschen im Wasserbad vorwärmen | ✅ **der stärkste Punkt der Liste** — 5–7 K pro Flasche, null Kosten |
+| Fazit | Platten = **Thermostat für die Abfüllkette**, Kessel = **Masse**. Combiniere sie, dann sind letzte und erste Flasche gleich heiß |

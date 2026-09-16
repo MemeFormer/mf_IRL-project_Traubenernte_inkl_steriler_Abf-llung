@@ -91,7 +91,7 @@ Emaille-Diagnose nur trocken, mit Taschenlampe, Fokus auf die untersten 5 cm.**
 | 5 | Topf fast überlaufend, Kessel in der heißen Phase angehoben/unterbaut | Topf (45–48 L) ≈ Charge → **null Puffer** auf geneigtem Standplatz (Rechnung Abschnitt 7) | ~45 min + Risiko | 4/5-Regel, zweite Ladung |
 | 6 | Temperaturnervosität, Taktik über den Haufen geworfen | Kennlinie „Topf im Bad" nie gemessen | ~30 min | eigene Kurve aufnehmen (Abschnitt 4) |
 | 7 | Flaschen-/Deckelchaos **mitten** im Abfüllen | Verschlüsse nicht sortiert, kein Deckel-Vorrat | ~45 min + Restrisiko | „Verheiraten"-Regel (Abschnitt 8) |
-| 8 | Letzte Liter zu kalt → Induktion, 83 °C, Umparken | Topf aus dem Bad genommen, lange Einzel-Schöpf-Ketten | ~40 min | Hahn statt Schöpfkelle (Abschnitt 3) |
+| 8 | Letzte Liter zu kalt → Induktion, 83 °C, Umparken | halbleerer Transporttopf auf kaltem Tisch, lange Einzel-Schöpf-Ketten | ~40 min | Hahn statt Schöpfkelle (Abschnitt 3) |
 
 **In Summe:** ~5 h davon waren planbar. Doc [04](04_Ablaufplan_und_Notfallplan.md) sagt
 **50–60 Flaschen/h** mit Ablasshahn — mit Schöpfkelle, Topftragen und Umräumen bist du realistisch
@@ -252,10 +252,11 @@ und der Deckel bleibt trotzdem zu.
    das Licht knapp wird): **Reserveglut im Metalleimer** nebenan weiterbrennen lassen und
    portional nachlegen — du hast den Eimer für „Glut raus" eh stehen, dann nutz ihn auch für
    „Glut nach".
-2. **Der Topf bleibt im Bad, solange gefüllt wird.** Bad = die beste Warmhalteplatte, die du
-   besitzt. Drin: ~0,2–0,3 K/min Verlust. Rausgenommen: schnell >0,6 K/min, und genau daraus
-   sind deine „letzten Liter" entstanden. Zweit-Topf-Prinzip: Topf 1 auf der Abfüllposition im
-   Bad, Topf 2 heizt daneben durch — der Badinhalt wird nie knapp und nie kalt.
+2. ✅ **Der Topf bleibt im Bad, solange gefüllt wird — hast du genau so gemacht** (Korrektur
+   16.09.: zu schwer zum Rausheben, also drin gelassen, **beide Deckel drauf**, 70–75 % umspült).
+   Damit war der Bad-Topf nie dein Kälteproblem; es war der **Transporttopf auf dem kalten Tisch**,
+   gegen Ende halb leer. Zweit-Topf-Prinzip bleibt trotzdem, nur andersherum begründet: der kleine
+   Kreislauf (Transporttopf) muss warm gehalten werden, nicht der große.
 3. **Nie mehr randvoll in den einen Topf** → 4/5-Regel (Rechnung: Abschnitt 7). Die Restmengen,
    die „sich summiert haben", gehören in Topf 2, nicht in den fast vollen Topf 1. Und:
    **ein Kessel, der auf Rädern steht und Feuer hat, wird nicht angehoben — er wird vor dem
@@ -328,7 +329,7 @@ ist die, die dir später erklärt, ob eine Flasche ein Ausreißer ist.
 
 ---
 
-## 7. Rechnung, die du dir merken solltest: Topf ≠ Charge
+## 7. Rechnung, die du dir merken solltest: Topf **≈** Charge (nachgemessen 16.09.)
 
 Du hast geschrieben: *„plötzlich schon gefährlich nah an den Topfrand, hinten noch gute 3–5 cm."*
 Das war kein Pech, das war Geometrie — **und hier lag ich mit der Schätzung falsch** (Maße
@@ -339,7 +340,7 @@ nachgeliefert am 16.09.):
 | Ø oben am Rand | **40 cm** |
 | Höhe innen | **38 cm** |
 | Form | „maximal leicht konisch" (Bodenmaß noch offen) |
-| **Volumen** | `π/4 · d² · h` = 0,785 · 0,40² · 0,38 ≈ **48 L** (bei leichtem Konus **44–46 L**) |
+| **Volumen** | `π/4 · d² · h` = 0,785 · 0,40² · 0,38 m ≈ **48 L** (bei leichtem Konus **44–46 L**) |
 
 **Ergebnis: der Topf fasst ~45–48 L — und die Charge war ~45–50 L.** Also nicht „zu kleiner Topf",
 sondern **null Puffer**: Topf ≈ Charge. Deshalb die Warnung, die davor stand — sie gilt erst recht,
@@ -354,12 +355,12 @@ nur mit anderer Begründung:
 - **Chargenregel bleibt, jetzt härter formuliert:** `Charge ≤ Topfvolumen × 0,8` → bei 46–48 L Topf
   sind das **~36–38 L je Bad-Füllung**. Der Rest ist deliberate Rücklage im Kühlschrank (die hast du
   ohnehin gebaut: „ein kleiner Teil ist wieder in den Kühlschrank") — der Unterschied ist, dass es
-  beim nächsten Mal **Plan** ist statt Sekundären decision um 23:40.
+  beim nächsten Mal **Plan** ist statt einer Entscheidung um 23:40.
 - **Und damit ändert sich der Bad-Vorlauf in Abschnitt 4:** nicht 30 L, sondern **45–48 L** =
   ~190–200 kJ/K → **1,5–2 h**, bis der Kern 80 °C sieht. Dein Abend war also nicht nur chaotisch,
   er war thermisch realistisch.
 
-> **Noch offen (2 Minuten):** Bodendurchmesser → exaktes Volumen (Formel unten, oder schlicht
+> **Noch offen (2 Minuten):** Bodendurchmesser → exaktes Volumen (Formel oben, oder schlicht
 > mit dem Messbeimer voll Wasser und Strich drüber). Und: **Was wiegt der Topf leer?** Für die
 > Hubwagen-Frage.
 
@@ -381,6 +382,9 @@ Kühlschrank-Rücklage), nicht ein vollerer Topf.**
 | Summe Flaschen / Summe Liter | ____ / ____ L |
 | Ausbeute L je kg Trauben (Ziel: Pressen-Straße 65–70 %) | ____ % |
 | Kappen neu verwendet / gebraucht / gemischt | ____ / ____ / ____ |
+| **Kopfraum** Mitte / letztes Drittel → Fülltemp-Obergrenze (15.3) | ____ / ____ cm |
+| Flaschen mit flachem Deckel oder feuchtem Hals (= undicht) | ____ von ____ |
+| Übersehene Teinacher-Kiste (Fund 16.09.) | ____ Flaschen + ____ Kappen |
 | Stunden von „Anfang" bis „2 Uhr" | ____ h |
 | Was ich beim nächsten Mal **nicht** wieder anfasse | ____ |
 
@@ -598,44 +602,54 @@ Teinacher-Kiste**.
 
 ### 15.1 Temperaturverlust über die Füllstrecke — gerechnet
 
-Dein Weg war nicht „Topf → Flasche", sondern **vier Stationen hintereinander**. Jede kostet Grade.
-(Zahlen sind gerechnete Größenordnungen aus Topfgeometrie, Flächen und Naturkonvektion — kein
-Messprotokoll. Die *Reihenfolge* der Verluste ist belastbar, das einzelne Grad nicht.)
+😅 **Rücknahme + Neuzeichnung (16.09., 2. Korrektur):** mein Modell hatte „Topf raus, auf den
+Tisch, Deckel auf" — **real war es besser.** Der Topf hat das Bad **nie verlassen** (zu schwer, zu
+groß), er stand zu **70–75 % im Wasser des Emaille-Einsatzes**, und du hattest **beide Deckel**
+drauf: Topfdeckel + Schlachtkesseldeckel. Damit ist der Topf kein Wärmefresser, sondern ein
+**Warmhalter**, und die Kette verschiebt sich auf deinen **Transporttopf** (der zweite große
+Induktionstopf, den du jeweils relativ voll gemacht hast). Richtig gerechnet:
 
-| Station | Masse & Fläche | Verlustrate | was das heißt |
+| Station | Masse & Fläche | Rate | was das heißt |
 |---|---|---|---|
-| **1 · Topf im Bad**, nach der Haltezeit | 46 L Saft = **193 kJ/K**, Bad bei 85–95 °C | ≈ **0** (Bad = Nachheizung) | 80 °C im Kern, ±1 K beim Rühren |
-| **2 · Topf raus**, auf der Station, **Deckel zu** | benetzte Wand 0,42 m² + Deckel, ~450–500 W | **−0,12 bis −0,16 K/min** | nach 45 min: **74–75 °C** — noch im Zielband |
-| **2b · … mit offenem Deckel** (beim Schöpfen) | +0,13 m² freie Oberfläche, Verdampfung dominiert | **−0,35 bis −0,5 K/min** in den offenen Phasen | 10 min offen = −4 bis −5 K |
-| **3 · Füllgefäß** (Dampfentsafter-Oberteil, ~4,5 L) | 19 kJ/K, dünnes Blech, offen | **−0,25 bis −0,64 K/min** ([19](19_Kessel_Temperatursteuerung_Abfuellstation.md)) | eine 6-Flaschen-Runde (8–12 min) = **−3 bis −7 K** |
-| **4 · die Flasche selbst** | 0,45 kg Glas = **0,38 kJ/K** gegen 0,7 L Saft = **2,93 kJ/K** | **−5 bis −7 K in der Sekunde des Füllens** (80 °C Saft + 20 °C Glas mischen sich auf **73 °C**) | das ist der **größte Einzelverlust der ganzen Kette** und er ist vermeidbar |
+| **1 · Topf im Bad, beide Deckel** | 46 L Saft = 193 kJ/K, umgeben von ~70 L Badewasser = 293 kJ/K, alles im gedeckelten Kessel (Stahl, ~1,4 m² Hüllfläche) | **≈ −0,05 bis −0,10 K/min** auf die *ganze Baugruppe*, nachdem das Feuer aus ist | während das Feuer noch glüht: **0 bis leicht positiv**. Der Topf war die **stabilste** Stufe deiner Kette |
+| **2 · Transporttopf, frisch geschöpft** (Haushalts-Induktionstopf, 12–18 L) | ~60–75 kJ/K, Deckel drauf | −0,10 bis −0,15 K/min | eine 10-Minuten-Runde kostet **1–2 K** — harmlos |
+| **2b · … gegen Ende, nur noch 3–5 L** | 13–21 kJ/K, aber fast gleiche Wandfläche → **Fläche/Volumen ~4× schlechter** | **−0,3 bis −0,5 K/min** | **hier ist dein Problem gesessen**: nicht das Warten, sondern die *Geometrie des halbleeren Topfes* |
+| **3 · die Flasche selbst** | 0,45 kg Glas = 0,38 kJ/K gegen 0,7 L Saft = 2,93 kJ/K | **−5 bis −7 K in der Sekunde des Füllens** (80 °C Saft + 20 °C Glas mischen sich auf **73 °C**) | der mit Abstand **größte Einzelverlust** — und der einzige, den man für null Euro und 10 s beheben kann |
 
-**Rekonstruktion deines Abends** (Modellrechnung, keine Messung — konservative Annahmen):
+**Rekonstruktion deines Abends** (Modellrechnung, konservative Annahmen):
 
-| Abschnitt | Flaschen | Saft im Topf | **nach dem Einfüllen in der Flasche** |
-|---|---|---|---|
-| direkt nach der Rausnahme, erster Schwung | ca. 1–15 | 79–80 °C | **75–76 °C** ✅ reicht für Dichtflächen + Dampf |
-| mittlerer Teil (Kappenproblem, Rumräumen, offene Deckelphasen) | ca. 16–40 | 72–77 °C | **68–73 °C** ⚠️ Saft pasteurisiert, Dichtflächen-Entkeimung grenzwertig |
-| „zig mal Saft holen", Ende des Topfes | letzte ~8–12 | 66–70 °C | **62–66 °C** ❌ zu kalt — hier stimmt deine Sorge |
-| nach dem Nachheizen auf der Induktion | dieselben + Rest | 83 °C | **~78–80 °C** ✅ wieder im Band, mit mehr Rand als der erste Schwung |
+| Abschnitt | Flaschen | Saft im Bad-Topf | im Transporttopf | **in der Flasche beim Zudrehen** |
+|---|---|---|---|---|
+| erster Schwung | ca. 1–15 | 79–80 | 78–79 | **~73–74 °C** |
+| mittlerer Teil (Kappenchaos, Rumräumen) | ca. 16–40 | 77–79 | 75–77 | **~70–72 °C** |
+| Ende, Topfboden wird sichtbar | letzte ~8–12 | 76–78 | 70–74 | **~64–68 °C** ❌ |
+| nach dem Nachheizen auf 83 °C | dieselben + Rest | — | 83 | **~77–78 °C** ✅ |
 
-> ⭐ **Der Punkt, der dich entlastet:** der größte Einzelverlust entsteht **in der Sekunde des
-> Einfüllens** — die kühle Glasflasche zieht dem Inhalt sofort 5–7 K ab, und kein schneller Finger
-> der Welt holt die zurück. Der Topf mit 46 L ist dabei das träge, warme Lager (0,12 K/min), die
-> Flasche der Wärmefresser. **Deshalb ist „Flaschen vorwärmen" der Hebel mit dem meisten Effekt pro
-> Sekunde Aufwand** — 90 °C-Badewasser stand die ganze Zeit daneben, 60 s pro Flasche. Gerechnet:
-> damit schließen deine letzten Flaschen bei **68–70 °C statt 62–66 °C** und die ersten bleiben im
-> Zielband — und die Kette „Temperaturverlust = schuld an allem" ist damit entschärft.
+> ⭐ **Was sich dadurch für dich ändert: fast nichts — und alles.**
+> **Fast nichts**, weil die Schlussfolgerung hält: Pasteurisation war in jeder Phase erledigt, und
+> die kritische Zone waren die letzten Liter im halb leeren Transporttopf.
+> **Alles**, weil der Hebel jetzt woanders steht: nicht „schneller arbeiten" oder „Topf ins Bad
+> zurückstellen" (hast du schon getan — besser als meine Empfehlung), sondern **die Flasche
+> vorwärmen**. Deine 73 °C in der Flasche sind *das* Ergebnis, nicht 80 — und die 83 °C deiner
+> Nachheiz-Charge kamen in der kalten Flasche ebenfalls bei ~77 an. **Wer vorwärmt, gewinnt 5–7 K
+> pro Flasche, wer hetzt, gewinnt 1–2 K pro zwanzig Flaschen.**
 
-**Einordnung:** der Saft war in jeder Phase pasteurisiert (Abschnitt 6), verloren gegangen ist bei
-den letzten Litern nur das, was die **Fülltemperatur** zusätzlich erledigt: Entkeimung der
-Dichtflächen + Dampf für den Unterdruck. Genau das hast du mit 83 °C + Kopfüber zurückgeholt.
-**Dein Instinkt hat die richtigen Flaschen erwischt, nicht die falschen.**
+**Einordnung — und die Zahl, die du eigentlich hören willst:** selbst 70–73 °C in der Flasche sind
+**keine sterile Katastrophe**. Die Keime, um die es hier geht (Hefen, Schimmelsporen-Auskeimungen,
+Essigsäurebakterien), sterben bei 60 °C in Minuten bis 70 °C in Sekunden; die 78-°C-Schwelle aus
+[19](19_Kessel_Temperatursteuerung_Abfuellstation.md) ist eine **Praxis-Schwelle mit Rand**, kein
+Kipppunkt. Was unter 78 °C wirklich verloren geht, ist **Dampf für den Unterdruck**, also
+Dichtungsfestigkeit und O₂-Ausschluss — nicht die Keimabtötung. Genau deshalb ist dein
+83-°C-Nachheizen (plus Kopfüber) die richtige Reaktion gewesen und dein „Contamination eher
+gering"-Argument trotzdem sauber.
 
-**Die drei Hebel fürs nächste Mal** (alle null Aufwand, alle greifen vor Station 3):
+**Die drei Hebel fürs nächste Mal** (alle null Aufwand):
 
-1. **Topf im Bad stehen lassen** und von dort schöpfen bzw. den Hahn oben drauf setzen — die
-   −0,13 K/min von Station 2 verschwinden komplett (der Bad-Wärmestrom ist größer als der Verlust).
+1. **Transporttopf-Geometrie beachten** — das ist die neue Erkenntnis aus deiner Korrektur: ein
+   **hoher, schmaler** Topf (z. B. 25 L, Ø 26 × H 36 cm) verliert gegen Ende viel weniger als ein
+   flacher weiter. Und: **Restmenge im Transporttopf klein halten** (lieber öfter nachschöpfen als
+   „noch 2 L im weiten Topf bei 90 °C Verlustfläche"), oder gleich **auf der Platte** stehen lassen
+   (15.8).
 2. ⭐ **Vorwärmen — 60 Sekunden Badewasser, das steht ja schon bereit.** Kesselbad 90 °C, pro
    Flasche randvoll anfüllen, 1 min stehen lassen, ausgießen, sofort füllen. Die Glaswand (2–3 mm)
    ist nach einer Minute auf 45–65 °C → **Restverlust nur noch ~1,5–2 K statt 5–7 K**. Bei 10 s
@@ -716,6 +730,38 @@ völlig ausreichend.
 > Kahmhefe-Film**, falls irgendwo ein Sporeneinschlag überlebt hat. „Randvoll" ist deshalb keine
 > Perfektioniererei, sondern der halbe Konservierungsmechanismus.
 
+⭐ **Und jetzt die Umkehrung, die deine eigentliche Frage beantwortet: der Kopfraum ist ein
+Thermometer.** Du hast bis ans Gewinde (oder darüber) gefüllt und sofort verschlossen — der Verschluss
+ging also bei Fülltemperatur zu, und seither ist alles, was an Höhe fehlt, **nichts als Schrumpfung**.
+Rechenschablone: Wasser/Most verliert zwischen 80 °C und 20 °C **2,6 %** seines Volumens (zwischen 40 °C und
+20 °C nur 0,6 %), und im engen Hals (~16 mm Lichtung) entsprechen 2 mL etwa 1 cm Höhe. Also bei 0,7 L:
+
+| Kopfraum (Spiegel → Unterseite Kappe) | Fehlvolumen | **Obergrenze der Fülltemperatur** |
+|---|---|---|
+| 8–10 cm (bis an die Schulter) | 16–19 mL · 2,3–2,7 % | **75–80 °C** ✅ |
+| 6–8 cm | 12–16 mL · 1,7–2,3 % | **65–75 °C** ✅ |
+| 4–6 cm | 8–12 mL · 1,1–1,7 % | **50–65 °C** ⚠️ |
+| 2–4 cm | 4–8 mL · 0,6–1,1 % | **40–50 °C** ❌ |
+| < 2 cm | < 4 mL | ≤ 40 °C — oder nachgefüllt, **oder undicht** |
+
+**Lies die Tabelle als Obergrenze, nicht als Beweis.** Zwei Effekte machen den Kopfraum größer, als
+die Temperatur allein ihn gemacht hätte: Schaum, der nach dem Verschließen zusammenfällt, und
+Flüssigkeit, die das Zudrehen einer bis über das Gewinde vollen Flasche herausgedrückt hat. Beides
+war bei dir der Normalfall. **Die Temperatur war also höchstens so hoch wie abgelesen.** Ein Kopfraum von 4–5 cm lässt alles zu,
+von „kühn nachgeschöpft" bis „65 °C"; ein Kopfraum von 9–10 cm an einer randvoll verschlossenen
+Flasche dagegen kann nur von heißem Füllen stammen — so viel Schaum produzierst du nicht.
+
+**Und die Umkehrung desselben Gedankens ist ein gratis Undichtheits-Test:** zieht eine Flasche Luft
+nach, gleicht sich der Druck aus, der Spiegel bleibt hoch und der Kopfraum klein. **Kleiner Kopf bei
+plan aufliegendem, flachem Deckel = diese Flasche ist undicht**, egal wie heiß du gefüllt hast. Nach
+genau dieser Kombination suchst du, wenn du die Kiste durchgehst (15.4).
+
+Wenn du 4–5 Minuten hast, während du zählst: nimm eine Flasche aus der Mitte und eine aus dem letzten
+Drittel, maß den Abstand Kappe → Spiegel (Zollstock in den Hals, Foto vom Lineal am Hals macht die
+Nummer überprüfbar), und trag beide Zahlen in Abschnitt 7 ein. Dann haben wir statt einer Erinnerung
+zwei Messwerte — und die Antwort auf „war das am Ende zu kalt?" steht in Glas.
+
+
 Und der Drücktest als **Dichtigkeits**-Aussage (nicht als Temperatur-Aussage — Unterdruck entsteht
 auch bei 65 °C noch, deshalb kann man aus „muldrig" keine Fülltemperatur zurückrechnen):
 
@@ -756,7 +802,10 @@ die Kiste, Reihenfolge aufs Foto.**
    **Kappe-Prüfung (15.3)** als Sortierung — die ist gemessen statt erinnert. Flasche, die beim
    Drücken nachgibt, wird C, egal welche Position. Eine Ausnahme: **jede Flasche mit
    gebrauchter Kappe wird C**, unabhängig davon, wie gut der Drücktest aussieht.
-5. Optional, wenn du's ordentlich willst: ein Streifen **Malerkrepp** mit Datum + Zone am Hals —
+5. **Noch weniger Aufwand geht auch:** Nummer statt Zone. Schreib mit Edding die laufende Nummer
+   (1…N) auf die Kappe, und die Regel ist **hohe Nummer zuerst trinken**. Null Erklärbedarf,
+   funktioniert auch, wenn du die Kisten umstellst, und die Zahl hast du ohnehin gleich beim Zählen.
+6. Optional, wenn du's ordentlich willst: ein Streifen **Malerkrepp** mit Datum + Zone am Hals —
    der einzige Nachteil: im kühlen Keller saugt Krepp Feuchtigkeit und lässt sich nach 6 Monaten
    in Flocken abpulen. Als Jahres-Label völlig ausreichend.
 
@@ -819,3 +868,124 @@ eigene Kappe dreht bis zum Anschlag zu, dann ist die ganze Kiste A-Klasse-Leergu
 - [ ] **Lagerung kontrollieren**: stehend, Brett unterm Stapel, max. 2 Kisten hoch, Frost im
       Winter im Blick (5 min)
 - [ ] Optional, weil's 6 € sind und dein nächstes Problem verhindert: **100 MCA28 Kappen**
+- [ ] **Zwei Entscheidungen für Aktion #2 in eine Zeile schreiben** (mehr nicht): Verschlusssystem
+      = MCA28 ja/nein, und Wärmequelle = **nur Induktion** / **nur Kessel** / **Kessel + Platte daneben**.
+      Beides ist in 15.8 durchgerechnet; entscheide auf dem Papier, nicht um 23:40.
+- [ ] Die 5 **Fotos** aus 15.8 (Nachstellung + Abfüllhilfe) — danach sind Kessel, Topf und Station
+      dokumentiert statt beschrieben
+
+---
+
+### 15.8 Deine Induktions-Idee für eine Wiederholung — geprüft
+
+> Gedanke von dir (16.09.): **zwei Induktions-Doppelplatten als Warmhalte- und Abkochstation** —
+> drei große Haushalttöpfe parallel zum Sterilisieren, die vierte Zone für den Dampfentsafter,
+> dessen Unterteil mit heißem Wasser köchelt, damit der Mittelteil (Saft) nicht abkühlt. Leere
+> Flaschen zusätzlich im Wasserbad vorheizen.
+
+**Kurzurteil: Die Richtung ist richtig — aber als Halte- und Nachheizstation, nicht als Ersatz für
+die Masse. Und es gibt eine harte elektrische Obergrenze, die man vorher kennen muss.**
+
+#### Was wirklich zählt: der Stromkreis, nicht die Platte
+
+| Größe | Wert |
+|---|---|
+| Eine deutsche Steckdosen-Leitung (Schuko, Sicherung B16) | **3,68 kW** (= 16 A × 230 V) |
+| Eine Induktions-Doppelplatte, Herstellerangabe | meist **3,2–3,7 kW** gesamt (die Zonen teilen sich die Leistung) |
+| **Zwei Doppelplatten gleichzeitig an einem Kreis** | **6,6–7,4 kW ≈ 29–32 A → B16 fliegt raus**, B20 (4,6 kW) ebenfalls |
+| Selbst bei „nur" Halten | 2 × 350 W = 0,7 kW ✅ unkritisch |
+
+1. **Eine Platte pro Stromkreis** — das ist die einzige Regel, die zählt. Vorher im Kasten
+   nachschauen, welche Dosen an welchem Sicherungsautomaten hängen (Küche hat oft 2–3 Kreise, die
+   Halle meist einen einzigen, manchmal ungeschützt).
+   🚨 **Und dann die Frage, die bei dir zuerst kommt: Hängt der Kühlschrank am selben Kreis wie die
+   Steckdose, an der die Platte läuft?** Wenn ja, hast du die Kühlpanne von letzter Woche
+   selbst gebaut — nur diesmal mit Ansage. Vier große Töpfe an zwei Platten sind 30–32 A, das ist
+   genau der Fall, in dem die Sicherung auslöst und der Saft zwei Tage ungekühlt steht.
+   → **Kühlschrank auf einen anderen Kreis**, oder die Platten in die Küche und nur das
+   Halten (nicht das Kochen) in die Halle.
+2. **Keine Mehrfachsteckdose, keine aufgerollte Kabeltrommel, keine billige Verlängerung.** Wenn
+   Verlängerung nötig: 1,5 mm², kurz, **vollständig abgerollt**. Bei 3,5 kW wird aus einer dünnen
+   Rolle ein Wärme- und Brandthema — dasselbe Argument wie beim Backofen-Anschluss.
+3. **Volllast-Kollisionen entschärfen:** Halten braucht wenig, *Hochheizen* braucht alles. Also
+   staffeln: erst Kappenkochtopf hoch, dann Puffertopf, Halten danach auf kleiner Stufe. Zwei
+   anlaufende 25-L-Töpfe gleichzeitig = ~4,4 kW pro Platte = grenzwertig. **Dein Plan „drei Töpfe
+   parallel sterilisieren" ist genau der Fall, der rausfliegt** (3 × 2,2 kW) — zwei Töpfe und eine
+   Runde nachlegen ist elektrisch identisch schnell.
+4. **Erwarte ±3–5 K, nicht ±1 K:** die Platte hat keinen Thermostat, sie **takten** (niedrigste
+   Stufe schaltet ~200↔800 W). Der Bad-/Puffertopf mit Deckel puffert das weg; ein kleiner Topf mit
+   4 L Saft nicht — da ist die „Heizung" grober als dein Zielband. Gesamtrechnung für einen Abend:
+   45 L erhitzen ≈ 4 kWh, drei Abkoch-Töpfe ≈ 4 kWh, Halten ≈ 1 kWh → **10–12 kWh ≈ 3–4 €**.
+5. **Die Glaskeramik mag Gewicht nicht:** Traglast tragbarer Platten liegt fast immer bei
+   **20–25 kg inkl. Topf**. Dein 45-L-Topf voll = ~47 kg + Topf → **zu schwer**. Und: die Spule ist
+   nur ~14–20 cm groß, ein 40-cm-Topfboden liegt also auf einem heißen Kleinkreis — ungleichmäßig,
+   dünner Boden kann sich verziehen.
+   → **Für die Platten: Töpfe mit 20–24 cm Boden, 20–30 L Inhalt. Den Riesentopf lässt du beim Feuer.**
+
+#### Was die Platte richtig gut kann (und wo dein Abend scheiterte)
+
+| Deine Füllstrecken-Station aus 15.1 | Platte | Feuer-Bad |
+|---|---|---|
+| Halten eines Puffertopfs bei 80–85 °C über 2 h | ✅ **trivial** (niedrigste Stufe, Deckel drauf; ±3–5 K) | ⚠️ nur mit Holz nachlegen und Beobachten |
+| Nachheizen der letzten Liter | ✅ 3–5 min | ❌ Deckel-Rennen |
+| Flaschen **vorwärmen** (90 °C-Wanne) | ✅ ein Topf mit Wasser, Flaschen im Sieb | ✅ Abfüllen aus dem heißen Kessel |
+| Kappen + Deckel auskochen | ✅ kleiner Topf, 5 min | ⚠️ geht, kostet Aufsicht |
+| 45 L von 18 auf 80 °C | ⚠️ **14,5 MJ ≈ 4,0 kWh → ~70 min an einer vollen Platte** (3,5 kW), und zu schwer für eine Zone | ✅ ~1,5–2 h, aber ohne Strom und ohne Gewichtslimit |
+|Sicherheit in der Halle: Funken, offenes Feuer, Abgase | ✅ keines davon | 🔴 alles drei (Funken, CO, offene Glut in einer Halle mit Folie und Alkoholgeruch) |
+
+**Heißt konkret:** die Platte ist nicht die Heizung für die Charge, sondern das **Thermostat für die
+Abfüllkette**. Genau das war dein Problem: Der Bad-Topf war stabil (hast du richtig gemacht), aber
+der **Transporttopf auf dem kalten Tisch** ist gegen Ende weggekippt. Eine Platte unter diesem
+Transporttopf (niedrigste Stufe, Deckel fast zu) kostet 300–400 W und hält ihn den ganzen Abend auf
+80–84 °C — womit die letzten 10 Flaschen dieselbe Temperatur hätten wie die ersten.
+
+**Und damit wird aus deinem Plan eine kleinere, bessere Version:**
+
+| Zone | Topf | Aufgabe | Leistung |
+|---|---|---|---|
+| Platte 1, Zone A | 25 L, breiter Boden | **Puffertopf** auf 82 °C, daraus wird gefüllt | 300–400 W (Halten) |
+| Platte 1, Zone B | 20 L | zweiter Topf: nachheizen / Charge 2 durchziehen | Volllast, aber zeitversetzt |
+| Platte 2, Zone A | kleiner Topf 3–5 L | **nur** Kappen + Deckel + Trichter | 5 min kochend, dann Rückstufen |
+| Platte 2, Zone B | flache weite Wanne | **Flaschen-Vorwärmen** bei 90 °C | 300–600 W |
+
+- **Die drei Sterilisier-Töpfe parallel brauchst du nicht.** Flaschen müssen nicht kochen — der
+  70-°C-Spülgang + die Alufolie tun es (15.2), und 60 s in der 90-°C-Vorwärmwanne direkt vor dem
+  Füllen sind mehr Entkeimung, als du brauchst. Spart einen Kreis und 40 Minuten.
+- **Dampfentsafter auf der Platte: ja, aber andersrum.** Nicht das Unterteil köcheln lassen, um den
+  Mittelteil warmzuhalten (dabei verkocht der Saft im Sammelring stundenlang), sondern: **der
+  Entsafter läuft auf der Platte und der Saft kommt bei ~90 °C aus dem Auslauf** → direkt in die
+  vorgewärmte Flasche, Kappe, kopfüber. Fertige Charge ohne Bad, ohne Halten, ohne Nachheizen — für
+  15–25 L die saubere Lösung, und genau der Weg, den [16](16_Dampfentsafter_eigenes_Produkt.md)
+  beschreibt. ⚠️ Unterteil nie trocken und die Lötnaht nie über Hitze ohne Wasser (doc 16).
+- **Dein Argument „mengentechnisch nicht annähernd wie der Schlachtkessel" stimmt.** Die Platten
+  ersetzen das *Thermometer-Problem*, nicht die *Kapazität*. Für >60 L bleibt der Kessel der Weg;
+  für ≤40 L und für die zweite Erntehälfte sind die Platten die angenehmere Variante (drinnen, kein
+  Feuer, kein Zug, nichts beobachten).
+- **Kosten ehrlich:** ~3,5 kW × 3 h ≈ 10 kWh ≈ **3,5–4 € pro Abend**. Das Geld kauf dir, dass
+  niemand am Feuer sitzen muss und dass die letzte Flasche so heiß ist wie die erste.
+
+> **Noch ein Nutzen, der nichts mit dem Saft zu tun hat:** wenn die Platten stehen, ist **Modus A
+> (Flaschen im Wasserbad)** auch indoor machbar — 90 °C in einem großen Topf, 20 Flaschen rein,
+> Halten ab Kerntemperatur. Für die nächste Aktion die robusteste Variante überhaupt: keine
+> Fülltemperatur-Sorge, weil die Flasche *nach* dem Verschließen heiß wird.
+
+#### Fotos: ja, bitte — dann wird es Realität statt Beschreibung
+
+Dein Angebot (Situation trocken nachstellen) nehme ich gern an. Damit die Bilder in
+[07](07_Schlachtkessel.md), [19](19_Kessel_Temperatursteuerung_Abfuellstation.md) und hier was
+taugen, diese 5 shots — **mit Lineal oder Münze als Maßstab**, und das Licht von der Seite:
+
+1. **Topf im Bad, von schräg oben**: Wasserstand im Kessel vs. Topfrand, beide Deckel daneben
+   (belegt die 70–75 %-Umspülung, die ich jetzt rechne)
+2. **Kessel von der Seite**: wie tief der Topf wirklich steht + was du als Unterlage drunter
+   gelegt hast (die gekreuzten Leinentücher sind ja Teil der Wärmerechnung)
+3. **Der Transporttopf solo**, mit Zollstock an Höhe und Boden, **und daneben der 45-L-Topf**
+   (damit man sieht, welcher Boden für die Induktionsplatte gedacht ist)
+4. **Deine Abfüll-Konstruktion am Dampfentsafter-Mittelteil** (die Trichterform, die dich um die
+   Nutzung als Abfüllhilfe gebracht hat) — das ist ein echtes Bauteil-Foto für [16](16_Dampfentsafter_eigenes_Produkt.md)
+5. **Die Kisten, so wie sie jetzt stehen**, bevor du umräumst — das ist der Füllreihenfolge-Beweis
+   für die A/B/C-Sortierung (15.4)
+
+Ablage wie immer: `docs/bilder/`, Namen `1609_topf_im_bad.jpg`, `1609_transporttopf.jpg`,
+`1609_abfuellhilfe.jpg`, `1609_kisten_vor_umraeumen.jpg` … und sag mir kurz Bescheid, dann binde
+ich sie in die Docs ein und schreibe die Bildnachweise dazu.
