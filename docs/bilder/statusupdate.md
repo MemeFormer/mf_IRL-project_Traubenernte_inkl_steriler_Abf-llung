@@ -129,3 +129,43 @@ Kernpunkte:
 Die `Saftausbeute1–6` zeigen die Gefäße im Kühlschrank (klare Boxen mit dunklem
 Saft auf Holzlatten über schwarzer Wanne) — **der Upload ist also durchgekommen**,
 auch wenn er im UI als fehlend gemeldet wurde.
+
+---
+
+# Statusupdate #3 — Ende September (Endergebnis Saft + neues Ziel Wein)
+
+Bild: `WhatsApp Image 2026-09-22 at 9.07.12 PM.jpeg` · Bericht: `Etappensieg_Abfüllung.pdf`
+
+## ✅ Saft: fertig, und es ist gut geworden
+- **Rückmeldung:** „nix geplatzt oder irgendwie auffällig", **Qualität Bombe** —
+  sehr geschmackvoll, mega süß, sehr klar, **kaum Absatz in den Flaschen**
+- **+5,5 Flaschen** kamen noch dazu — der Rest, der nach dem Abziehen der letzten
+  Füllaktion im Kühlschrank stand
+- Das Bild zeigt die gefüllte Ausbeute in Kisten (grün + Teinacher + Reihe dahinter)
+- → **Modus B hat funktioniert.** Kein Totalverlust aus der Kühlpanne, keine Bombe.
+  Die ganze Kette (Kessel, Hot Fill, Randvoll, 2–3 min kopfüber, MCA28) ist damit
+  **praktisch bestätigt** — nicht nur gerechnet.
+
+## ⏳ „Endstand" mit Sternchen
+Über der Garage an der Hauswand hängen noch **Resttrauben**. Die werden noch abgenommen —
+aber **nicht mehr für Saft**: Bedarf gedeckt, und die Nerven sind auch gedeckt.
+
+## 🍷 Neues Ziel: Wein aus den Resttrauben
+→ **[22_Weinherstellung_Resttrauben.md](../22_Weinherstellung_Resttrauben.md)**
+
+Kernpunkte:
+- **Nicht nur Vorlaufmost!** Maische erst gären (3–6 Tage), **dann pressen** —
+  Farbe/Gerbstoff sitzen in der Schale, Ausbeute steigt von ~55 % auf ~75 %
+  (Faustzahl: 100 kg Trauben = 78 L Wein)
+- **30 °C ist das Problem**, nicht die Ungeziefer: Rotwein will 20–25 °C, ab 30 °C
+  Hefestress/Essigsäure. Lösung: ernten → schwefeln → **kalt parken** (Kühlschrank ist
+  jetzt frei!), Hefe erst bei kühleren Temperaturen; nachts arbeiten, feuchtes Tuch,
+  Eisflaschen, kleine Gefäße
+- **Sulfit ist jetzt im richtigen Job:** 5 g/hl Mostschwefelung, 12–24 h vor der Hefe
+- ⚠️ **SAMLA raus** aus dieser Nummer — Maischegärung über Tage gehört in lebensmittelechte
+  Gefäße (weiße Kantinen-Eimer, blaue Fässer)
+- ❌ **Dampfentsafter ist für Wein tabu** (Hefe tot, „gekochter" Geschmack)
+- ⚠️ **Presse:** Presssack + Druckplatte fehlen weiterhin ([13](../13_Spindelpresse_Befund.md)) —
+  für Wein zwingend, weil die Maische nach der Gärung gepresst werden muss
+- 🔑 **Offene Baustelle: Säure.** Sehr süße/reife Trauben = wenig Säure = mikrobiell
+  instabiler + flacher Geschmack. Ziel 5–7 g/L; Messset empfohlen

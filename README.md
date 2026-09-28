@@ -27,17 +27,18 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 | [19_Kessel_Temperatursteuerung_Abfuellstation.md](docs/19_Kessel_Temperatursteuerung_Abfuellstation.md) | ⭐ **Anheizphase ohne Angst.** Überschwinger berechnet + die 5 Bremsen + warum Wasserbad = kein Zeitdruck |
 | [20_Einkauf_heute.md](docs/20_Einkauf_heute.md) | 🛒 Baumarkt / Getränkehändler / Raiffeisen — Schlauchmaß, MCA28-Satz, PP31,5-Kriterien |
 | [21_Kaliumdisulfit_Schwamm_Schlauch.md](docs/21_Kaliumdisulfit_Schwamm_Schlauch.md) | 🧪 Sulfit-Anleitung (stoppt keine laufende Gärung!), Schwamm-Freigabe, Gardena-Schlauch-Bewertung |
+| [22_Weinherstellung_Resttrauben.md](docs/22_Weinherstellung_Resttrauben.md) | 🍷 **NEU: Wein aus den Resttrauben.** Maische erst gären, dann pressen — Temperatur, Gefahren, Rezept |
 | [bilder/statusupdate.md](docs/bilder/statusupdate.md) | Laufendes Erntelogbuch (Mengen, Probleme, Tagesstand) |
 
 ## ⚠️ Aktueller Stand (nach Fotoauswertung)
 
-> 🚨 **Mo 14.09. — AKUT:** Kühlschrank war ~48 h aus (Kippschalter), der Saft gärt
-> leicht. **Kein Totalverlust**, aber heute abkochen. Triage, Mengentabelle und
-> Ablauf: **[docs/18_Kühlpanne_Gärung_Notfall.md](docs/18_Kühlpanne_Gärung_Notfall.md)**
-> ✅ Mengenmäßig kein Problem: **~53 L abfüllbarer Saft, ~52,9 L Glasflaschen**
-> (46 Bestand + 20 × 1 L Gerolsteiner **Glas**) — die 30 neuen sind Reserve.
-> 🔑 **Offen: Mündung messen** (28 mm = MCA28 ✅ / 31,5 mm = PP31,5 → Stückzahl zählen!)
-> ⚠️ **SAMLA-Boxen sind laut IKEA nicht lebensmittelecht.**
+> ✅ **Saft: ABGEFÜLLT UND FERTIG.** Kühlpanne gerettet (doc 18), Abfüllung durch.
+> Rückmeldung: nichts geplatzt, sehr klar, sehr süß, geschmacklich top — plus noch
+> **5,5 Flaschen** aus dem Kühlschrank nach dem letzten Abziehen.
+> 📸 Ergebnis: `bilder/WhatsApp Image 2026-09-22 …jpeg`, Bericht: `bilder/Etappensieg_Abfüllung.pdf`
+> 🍷 **Neues Thema: Wein aus den Resttrauben** (über der Garage) →
+> **[docs/22_Weinherstellung_Resttrauben.md](docs/22_Weinherstellung_Resttrauben.md)**
+> ⚠️ Beachte: Maischegärung **nicht** im SAMLA, und die 30 °C sind der eigentliche Gegner.
 
 - ✅ **Schlachtkessel: einsatzbereit.** Emaille intakt, ~110–125 L, 35–45 Flaschen/Ladung
 - ✅ **Flaschen: 46 Stück ≈ 33 L** — Eigenbedarf gedeckt, kein Engpass mehr
@@ -89,3 +90,9 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 12. ⭐ **Die alten Schlachtkessel sind das wichtigste Gerät überhaupt.** 110–125 L,
     holzbefeuert, autark im Hof. Damit ist Pasteurisieren kein Engpass mehr und der
     E-Herd ist gestrichen.
+13. 🍷 **Wein ≠ Saft — die Regeln kehren sich um.** Hefe ist Werkzeug (nicht Feind), Sauerstoff
+    ist vor der Hefephase nützlich und danach tödlich, und **Hitze wird vom Werkzeug zum Feind**:
+    Rotwein gärt bei 20–25 °C, über 30 °C kippt es. Merksatz für die Resttrauben: **erst die
+    Maische gären lassen, dann pressen** — nur den Vorlaufmost zu nehmen verschenkt Farbe,
+    Gerbstoff und ~20 % Ausbeute. Sulfit (5 g/hl) ist hier **zum ersten Mal im richtigen Job**.
+    Details: [docs/22](docs/22_Weinherstellung_Resttrauben.md)
