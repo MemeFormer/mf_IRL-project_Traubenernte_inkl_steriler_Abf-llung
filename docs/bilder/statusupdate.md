@@ -169,3 +169,13 @@ Kernpunkte:
   für Wein zwingend, weil die Maische nach der Gärung gepresst werden muss
 - 🔑 **Offene Baustelle: Säure.** Sehr süße/reife Trauben = wenig Säure = mikrobiell
   instabiler + flacher Geschmack. Ziel 5–7 g/L; Messset empfohlen
+
+### Nachtrag #3 — Ziel korrigiert: „Reisser/Neuer Wein" statt Wein-Profi
+- Seine Klarstellung: Papa + Onkel haben **nie etwas zugegeben** → kurz Maische, dann
+  Ballon mit **Gärglocke**, dann als **Reisser** getrunken. Genau so will er's.
+- ✅ **Bestätigt:** Für Reisser ist das völlig korrekt und braucht **keine** Zusätze.
+  Reisser ist ein **Frischprodukt** → keine Konservierung nötig.
+- Ergänzt: §10 Low-Key-Variante in [Doc 22](../22_Weinherstellung_Resttrauben.md)
+- 🚨 Wichtigste neue Warnung: **Reisser nie in die MCA28-Flaschen mit dichten Deckeln**
+  (Restzucker + lebende Hefe = Bombe). Flaschen-Setup bleibt für Saft/fertigen Wein.
+- Nebenbedingung: Mutter braucht noch Trauben für Marmelade → schöne Beeren abzweigen

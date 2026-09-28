@@ -8,6 +8,12 @@ Gärung in den Resten der Ernte. Der Saft ist abgefüllt — die Flaschen sind d
 > Fast alle Regeln kehren sich um: Sauerstoff ist vor der Gärung **nützlich**, danach tödlich;
 > Hitze ist beim Saft dein Werkzeug, beim Wein dein **Feind**.
 
+> ### ⭐ Du willst nur Reisser/Neuen Wein? Dann brauchst du **nichts** zu kaufen.
+> Das komplette „Labor-Programm" unten ist die Option für **lagerfähigen Wein**.
+> Für Reisser gilt: **keine Hefe, kein Nährsalz, kein Zucker, kein Sulfit im Most nötig** —
+> **→ §10 Low-Key-Variante (Papa-Methode)** ganz unten. Der Rest des Dokuments ist
+> Nachschlagewerk, nicht Pflichtprogramm.
+
 ---
 
 ## 0. Die fünf Antworten vorweg
@@ -320,3 +326,83 @@ eine Mostwaage sagt dir also direkt, was drin ist.)*
 
 > **Faustregel für deine Erwartung:** 10 kg sehr reife Trauben sind **~7 L Wein**.
 > Das sind ~9 Flaschen. Nicht das große Fass — aber ein echtes, eigenes Produkt.
+
+---
+
+## 10. ⭐ Low-Key-Variante: Reisser / Neuer Wein („Papa-Methode")
+
+**Kurz: Du brauchst nichts zu kaufen — und musst nichts zugeben.**
+
+Was dein Vater und dein Onkel gemacht haben, war kein Pfusch, sondern die klassische
+Reisser-Herstellung — und technisch korrekt: kurz auf der Maische, dann in die Behälter
+mit **Gärglocke** (CO₂ raus, Luft nicht rein), und dann **jung getrunken**. Genau das ist
+der springende Punkt: Reisser/Neuer Wein ist ein **Frischprodukt**, kein Lagerprodukt.
+Deshalb braucht er keine Konservierung — und deshalb war „nichts zugeben" damals völlig
+stimmig.
+
+### Muss / Sollte / Optional / Nicht nötig / Niemals
+
+| | Was |
+|---|---|
+| 🚨 **Muss** | Sauber arbeiten (heißes Wasser + 2 % Sulfit — **hast du**). Faule Beeren aussortieren (**sortieren ersetzt die halbe Chemie**). Gefäß nur 2/3–3/4 voll. **Gärglocke drauf.** **Kühl halten.** **Niemals luftdicht.** Zügig trinken. |
+| 👍 **Sollte** | 1–2×/Tag unterstoßen, solange die Maische steht. Ab Tag 1 **täglich kosten** — das ist deine einzige „Messung". Zum Zapfen den Hahn am Gefäß nutzen statt umzuschütten. |
+| ☑️ **Optional** | 1 Päckchen **Reinzuchthefe** (3–5 €): verlässlicherer Start, weniger Fehlton, und du kannst vorher 5 g/hl Sulfit geben (hast du). Mehr nicht. |
+| ❌ **Nicht nötig** | Hefenährsalz (Traubenmost hat Nährstoffe — nur bei echter Gärstockung), Zucker (deine Trauben sind süß genug), Säurekorrektur, Mostwaage, Filter, Presse-Tuning. |
+| 🚨 **Niemals** | luftdicht verschließen · **heiß abfüllen** · warm stehen lassen · Alu/Blech · wochenlang offen stehen lassen. |
+
+### Der Ablauf (Null Zusätze, 0 €)
+
+1. **Ernten, sortieren, stampfen/mahlen** (Kerne heil lassen).
+2. **Maische 1–2 Tage** im Bottich — **abgedeckt** (Tuch/Gaze), 1–2× unterstoßen.
+   Bei 30 °C reicht oft 1 Tag. Länger nur, wenn es kühl steht (schattig, morgens/abends arbeiten).
+3. **Abpressen** (Presssack/Tuch) in Fass oder Ballon **mit Hahn** — nur 2/3–3/4 voll.
+4. **Gärglocke** (Kork + Wasser) drauf, **kühl** stellen (Kühlschrank/Keller/Schatten).
+5. **Ab Tag 1–2 täglich kosten.** Süß + spritzig = **Reisser — fertig.** Ab jetzt abzapfen
+   und trinken; Vorratsgefäß kalt halten.
+6. Trinkfenster: **Tage bis ~2 Wochen** (Federweißer ist „in Tagen, nicht Wochen" haltbar).
+   Kälte verlangsamt die Gärung, sie **stoppt sie nicht**.
+
+### Die drei Wege, auf denen es schiefgeht
+
+1. **Luftdicht** → CO₂ kann nicht raus → Druck → Deckel/Flasche platzt. Federweißer wird
+   deshalb **nie fest verschlossen** und **immer stehend** gelagert/transportiert.
+   *(Genau so sind die Supermarktflaschen gebaut: mit Loch/Ventil im Verschluss.)*
+2. **Zu warm** → bei Zimmertemperatur ist er binnen **~48 Stunden** trocken/herb.
+   Bei 20 °C gilt: 0–5 Tage ganz süß, 6–14 halbtrocken, 14–18 trocken, danach herb.
+   Bei 30 °C läuft das entsprechend schneller. **Wer süß will, muss kühlen.**
+3. **Fliegen/Schmutz** → Essigsäure. Abdecken, kein offener Saft im Hof, Gefäße nach dem
+   Umfüllen sofort heiß ausspülen.
+
+### 🚨 Die eine Regel für dein ganzes Flaschen-Setup
+
+**Der Reisser darf NICHT in deine MCA28-Flaschen mit den neuen Deckeln.** Das ist exakt
+die Kombination **Restzucker + lebende Hefe + dichter Verschluss = Bombe.** Deine
+48 Flaschen-Batterie und die Golddeckel sind für den **pasteurisierten Saft** und
+später für **fertig vergorenen Wein** — nicht für gärenden Reisser.
+Wenn du Reisser mitgeben willst: **Bügelverschluss nur locker** oder Deckel mit Loch,
+stehend, und Ansage: „kalt stellen, zügig trinken".
+
+### Und der Rest danach?
+
+Nichts tun. Er läuft von selbst weiter: der Rest im Ballon wird **Jungwein**.
+Dann **1× vom Hefesatz abziehen** (kalt, mit dem Schlauch) — das ist der gesamte
+„Profi-Aufwand", der sich bei Kleinmengen überhaupt lohnt. Ob du ihn dann noch schwefelst,
+ist Geschmackssache: Sulfit (hast du) schützt vor Oxidation und Fliegen, 5 g/hl reichen.
+Er wird dann nicht groß, nicht edel — aber deiner.
+
+### „Wann doch ein Mittelchen?" — Auslöser-Tabelle
+
+| Symptom | Ursache | Maßnahme |
+|---|---|---|
+| Gärung springt nach 2–3 Tagen nicht an | Wildhefen zu schwach / zu kalt | Gefäß wärmer stellen; 1 Päckchen Hefe |
+| Plötzlicher Stop, Geruch nach faulen Eiern | Hefestress (Hitze!) / Nährstoffmangel | kühlen, Nährsalz, einmal belüften |
+| Stechender Essiggeruch | Essigsäurebakterien (Fliegen, Wärme) | sofort kühlen + abdecken; Charge trennen, nicht mischen |
+| Weißer Pelz auf dem Tresterhut | zu trocken / zu lange | Hut abheben, riechen — muffig = verwerfen |
+
+**Fazit:** Dein Instinkt stimmt. Bei einer Kleinmenge Reisser für den Hausgebrauch ist
+Labor-Praxis verschwendete Zeit. **Sauber, kühl, abgedeckt, schnell trinken** — und den
+Rest zum Jungwein weiterlaufen lassen. Mittelchen sind Notfall-Werkzeuge, keine Pflicht.
+
+> **Und für die Traubenmarmelade deiner Mutter:** die braucht feste, gesunde Beeren —
+> also die schönsten Trauben für die Marmelade abzweigen, alles Matschige in den Reisser
+> (der verzeiht es eher als die Marmelade).

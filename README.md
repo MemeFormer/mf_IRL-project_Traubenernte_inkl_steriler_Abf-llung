@@ -38,7 +38,9 @@ Alles von Verarbeitung, Abfüllung, Ablauf, Vorbereitung, Methoden, Wissenswerte
 > 📸 Ergebnis: `bilder/WhatsApp Image 2026-09-22 …jpeg`, Bericht: `bilder/Etappensieg_Abfüllung.pdf`
 > 🍷 **Neues Thema: Wein aus den Resttrauben** (über der Garage) →
 > **[docs/22_Weinherstellung_Resttrauben.md](docs/22_Weinherstellung_Resttrauben.md)**
-> ⚠️ Beachte: Maischegärung **nicht** im SAMLA, und die 30 °C sind der eigentliche Gegner.
+> 🍷 **Low-Key reicht:** Für **Reisser/Neuen Wein brauchst du keine Zusätze** —
+> kurz auf die Maische, dann Gärglocke, kühl, zügig trinken (Papa-Methode / doc 22 §10).
+> ⚠️ Maischegärung **nicht** im SAMLA, und die 30 °C sind der eigentliche Gegner.
 
 - ✅ **Schlachtkessel: einsatzbereit.** Emaille intakt, ~110–125 L, 35–45 Flaschen/Ladung
 - ✅ **Flaschen: 46 Stück ≈ 33 L** — Eigenbedarf gedeckt, kein Engpass mehr
